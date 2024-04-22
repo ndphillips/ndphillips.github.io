@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Nathaniel Phillips (PhD)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: blog.qmd
+        text: Blog
+      - href: resources.qmd
+        text: Resources
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nathanieldphillips/
+      - icon: github
+        href: https://github.com/ndphillips
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+theme:
+  light: flatly
+  dark: darkly

@@ -1,0 +1,51 @@
+---
+title: "About"
+---
+
+## Principles
+
+Here are my principles
+
+1. Useful
+2. Honest
+3. Respectful
+4. Resourceful
+
+## Education
+
+| Degree | Institution | Major | Note |
+|--------|-------------|------|------|
+| B.A.   | [Grinnell College](www.grinnell.edu)  | Mathematics | |
+| M.S.   | [Ohio University](www.ohio.edu) | Experimental Psychology |    |
+| Ph.D.  | [University of Basel](www.unibas.ch) | Cognitive Psychology | |
+
+## Work Experience
+
+| Position | Institution | Note |
+|----------|-------------|------|
+| Postdoc | [University of Konstanz](https://www.uni-konstanz.de/en/) | |
+| Postdoc | [University of Basel](https://www.unibas.ch) | |
+
+## Publications
+
+Here are the two publications I'm most proud of, see all of them at [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en)
+
+| Title | Authors | Journal | Note |
+|-------|---------|---------|------|
+| [FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:9vf0nzSNQJEC) | Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W. | Judgment and Decision Making | |
+| [Rivals in the dark: How competition influences search in decisions under uncertainty](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:2osOgNQ5qMEC) | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |
+
+## Projects
+
+| Title | Description | Note |
+|-------|-------------|------|
+| [FFTrees](https://github.com/ndphillips/FFTrees) | A toolbox to create, visualize, and evaluate fast-and-frugal decision trees | |
+| [yarrr](https://github.com/ndphillips/yarrr) | A package for creating pirate plots in R | |
+
+
+
+### Open Source
+
+### Proprietary
+
+## Hobbies

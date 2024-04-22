@@ -1,0 +1,59 @@
+---
+title: "Resources"
+---
+
+Here are some of my favorite resources
+
+## Books
+
+### Design
+
+Here are some of my favorite design books
+
+| Title | Author | Note
+| --- | --- | --- |
+| [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | Donald A. Norman | As applicable to programming as it is to the design of toilets|
+
+### Project Management
+
+Here are some of my favorite project management books
+
+| Title | Author | Note
+| --- | --- | --- |
+| [How big things get done](https://www.goodreads.com/en/book/show/61327449) | Bent Flyvbjerg, Dan Gardner |  Should be required reading for anyone working on projects with teams|
+
+### Programming
+
+Here are some of my favorite programmingh books
+
+
+| Title | Author | Note
+| --- | --- | --- |
+| [R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garrett Grolemund | A great resource for learning R |
+| [Writing R Packages](https://r-pkgs.org/) | Hadley Wickham | The bible of R package development|
+
+### Fiction
+
+Here are some of my favorite fiction books
+
+| Title | Author | Note
+| --- | --- | --- |
+| [It](https://www.goodreads.com/book/show/830502.It) | Stephen King | I just wish they would print it in two separate volumes  |
+
+## Blogs
+
+- [RStudio Blog](https://blog.rstudio.com/)
+- [Danielle Navarro](https://blog.djnavarro.net/)
+
+## Podcasts and YouTube
+
+
+
+- [Cautionary Tales | Tim Harford](https://timharford.com/articles/cautionarytales/)
+
+
+## Software
+
+- Notion
+- RStudio
+- GitHub Copilot

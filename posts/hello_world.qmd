@@ -1,0 +1,15 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [R] 
+date: 2024-04-21
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "Hello World" 
+title: "The Hellow World" 
+---
+
+# Hello World
+
+This is a test post. 

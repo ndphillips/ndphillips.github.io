@@ -1,0 +1,13 @@
+---
+title: "Hi, I'm Nathaniel Phillips"
+---
+
+Use the navigation bar above for links to my [About](about.qmd), [Blog](blog.qmd), [Resources](resources.qmd) and other content.
+
+# Contact
+
+Here's how you can reach me:
+
+- Email: nathaniel.d.phillips.is@gmail.com
+- LinkedIn: [www.linkedin.com/nathanieldphillips]()
+- GitHub: [www.github.com/ndphillips]()
