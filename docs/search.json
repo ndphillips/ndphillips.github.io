@@ -25,21 +25,21 @@
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\n\n\nDegree\nInstitution\nMajor\nNote\n\n\n\n\nB.A.\nGrinnell College\nMathematics\n\n\n\nM.S.\nOhio University\nExperimental Psychology\n\n\n\nPh.D.\nUniversity of Basel\nCognitive Psychology"
+    "text": "Education\n\n\n\nDegree\nInstitution\nMajor\nNote\n\n\n\n\nB.A.\nGrinnell College\nMathematics\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place\n\n\nM.S.\nOhio University\nExperimental Psychology\n\n\n\nPh.D.\nUniversity of Basel\nCognitive Psychology"
   },
   {
     "objectID": "about.html#work-experience",
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPostdoc\nUniversity of Konstanz\n\n\n\nPostdoc\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\n\n\n\nData Scientist\nFlatiron\n\n\n\nCTO, Co-Founder\nPlinth Analytics"
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\n\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\n\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\n\n\n\nData Scientist\nFlatiron Health\n\n\n\nCTO, Co-Founder\nPlinth Analytics"
   },
   {
     "objectID": "about.html#presentations",
     "href": "about.html#presentations",
     "title": "About",
     "section": "Presentations",
-    "text": "Presentations\n\n\n\nTitle\nConference\n\n\n\n\nFlatironKitchen\nRStudio Conf"
+    "text": "Presentations\n\n\n\n\n\n\n\n\n\nTitle\nConference\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)"
   },
   {
     "objectID": "about.html#publications",
@@ -53,7 +53,7 @@
     "href": "about.html#open-source-projects",
     "title": "About",
     "section": "Open Source Projects",
-    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\nTitle\nDescription\nNote\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\n\n\n\nyarrr\nA package for creating pirate plots in R"
+    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\n\nTitle\nDescription\nNote\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\n\n\n\nyarrr\nA package for creating pirate plots in R"
   },
   {
     "objectID": "posts/hello_world.html",
@@ -72,9 +72,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, I’m Nathaniel Phillips, PhD",
+    "title": "Hi, I’m Nathaniel D. Phillips, PhD",
     "section": "",
-    "text": "I’m Nathaniel Phillips, PhD, I’m known for R Piratery, data science applications in healthcare, and decision making research.\nThis website is a place for me to jot down my professional and personal reflections, namely while I’m on an extended parental leave.\nCheck out my About, Resources, and Blog pages\n\nContact\nHere’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+    "text": "I’m Nathaniel D. Phillips, PhD, I’m known for R Piratery, data science applications in healthcare, and decision making research.\nThis website is a place for me to jot down my professional and personal reflections, namely while I’m on an extended parental leave / sabbatical.\nCheck out my About, Resources, and Blog pages.\nThis is, as of 2024, my new website created using Quarto. You can find my old website here\n\nContact\nHere’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
   },
   {
     "objectID": "resources.html",
@@ -88,7 +88,7 @@
     "href": "resources.html#books",
     "title": "Resources",
     "section": "Books",
-    "text": "Books\nHere are some of my favorite books\n\n\n\nTitle\nAuthor\nTag\nNote\n\n\n\n\nThe Design of Everyday Things\nDonald A. Norman\nDesign\nAs applicable to programming as it is to the design of toilets\n\n\nThe First 90 Days\nMichael D. Watkins\nManagement\nA great resource for anyone starting a new job - recommended by Lura Long\n\n\nThe Checklist Manifesto\nAtul Gawande\nMedicine\nGawande is one of my favorite writers at the intersection of science and medicine.\n\n\nHow big things get done\nBent Flyvbjerg, Dan Gardner\nProject Management\nShould be required reading for anyone working on projects with teams - recommended by Nicole Mirea\n\n\nR for Data Science\nHadley Wickham, Garrett Grolemund\nR\nA great resource for learning R\n\n\nWriting R Packages\nHadley Wickham\nR\nThe bible of R package development\n\n\nIt\nStephen King\nFiction\nI just wish they would print it in two separate volumes"
+    "text": "Books\nHere are some of my favorite books\n\n\n\nTitle\nAuthor\nNote\n\n\n\n\nThe Design of Everyday Things\nDonald A. Norman\nAs applicable to programming as it is to the design of toilets\n\n\nThe First 90 Days\nMichael D. Watkins\nA great resource for anyone starting a new job - recommended by Lura Long\n\n\nThe Checklist Manifesto\nAtul Gawande\nGawande is one of my favorite writers at the intersection of science and medicine.\n\n\nHow big things get done\nBent Flyvbjerg, Dan Gardner\nShould be required reading for anyone working on projects with teams - recommended by Nicole Mirea\n\n\nR for Data Science\nHadley Wickham, Garrett Grolemund\nA great resource for learning R\n\n\nWriting R Packages\nHadley Wickham\nThe bible of R package development\n\n\nIt\nStephen King\nI just wish they would print it in two separate volumes"
   },
   {
     "objectID": "resources.html#tutorials",
@@ -117,5 +117,12 @@
     "title": "Resources",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion\nRStudio\nGitHub Copilot"
+  },
+  {
+    "objectID": "about.html#presentations-and-videos",
+    "href": "about.html#presentations-and-videos",
+    "title": "About",
+    "section": "Presentations and Videos",
+    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking.\n\n\n\n\n\n\n\n\n\nTitle\nConference\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)"
   }
 ]
