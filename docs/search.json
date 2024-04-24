@@ -35,11 +35,11 @@
     "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\n\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\n\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\n\n\n\nData Scientist\nFlatiron Health\n\n\n\nCTO, Co-Founder\nPlinth Analytics"
   },
   {
-    "objectID": "about.html#presentations",
-    "href": "about.html#presentations",
+    "objectID": "about.html#presentations-and-videos",
+    "href": "about.html#presentations-and-videos",
     "title": "About",
-    "section": "Presentations",
-    "text": "Presentations\n\n\n\n\n\n\n\n\n\nTitle\nConference\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)"
+    "section": "Presentations and Videos",
+    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking.\n\n\n\n\n\n\n\n\n\nTitle\nConference\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)"
   },
   {
     "objectID": "about.html#publications",
@@ -63,6 +63,13 @@
     "text": "Hello World\nThis is a test post."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+  },
+  {
     "objectID": "posts/the_transition.html",
     "href": "posts/the_transition.html",
     "title": "The Transition",
@@ -74,7 +81,7 @@
     "href": "index.html",
     "title": "Hi, I’m Nathaniel D. Phillips, PhD",
     "section": "",
-    "text": "I’m Nathaniel D. Phillips, PhD, I’m known for R Piratery, data science applications in healthcare, and decision making research.\nThis website is a place for me to jot down my professional and personal reflections, namely while I’m on an extended parental leave / sabbatical.\nCheck out my About, Resources, and Blog pages.\nThis is, as of 2024, my new website created using Quarto. You can find my old website here\n\nContact\nHere’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+    "text": "I’m Nathaniel D. Phillips, PhD, I’m known for R Piratery, data science applications in healthcare, and decision making research.\nThis website is a place for me to jot down my professional and personal reflections, namely while I’m on an extended parental leave / sabbatical.\nCheck out my About, Resources, Blog, and Contact pages to learn more about me and my work.\n\n\n\n\n\n\nMy old website is archived\n\n\n\nThis is, as of 2024, my new website created using Quarto. You can find my old archived website here"
   },
   {
     "objectID": "resources.html",
@@ -117,12 +124,5 @@
     "title": "Resources",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion\nRStudio\nGitHub Copilot"
-  },
-  {
-    "objectID": "about.html#presentations-and-videos",
-    "href": "about.html#presentations-and-videos",
-    "title": "About",
-    "section": "Presentations and Videos",
-    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking.\n\n\n\n\n\n\n\n\n\nTitle\nConference\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)"
   }
 ]

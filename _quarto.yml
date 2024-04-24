@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Nathaniel D. Phillips (PhD)"
+  title: "Nathaniel D. Phillips, PhD"
   navbar:
     left:
       - href: index.qmd
@@ -13,13 +13,13 @@ website:
         text: Blog
       - href: resources.qmd
         text: Resources
+      - href: contact.qmd
+        text: Contact
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/nathanieldphillips/
       - icon: github
         href: https://github.com/ndphillips
-      - icon: envelope
-        href: mailto:nathaniel.d.phillips.is@gmail.com
 
 format:
   html:
