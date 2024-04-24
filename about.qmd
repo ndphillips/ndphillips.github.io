@@ -6,11 +6,11 @@ title: "About"
 
 Here are my core principles which guide my work and life:
 
-1. Useful: If it's not useful, then what's the point?
-2. Clear - Nothing frustrates me more than unnecessary complexity - especially if its intentional. 
-3. Respectful -  We don't all share the same values, and beliefs. That's a good thing.
-4. Resourceful - Real world decision making always involves constraints - wasted resources here could have been used elsewhere.
-5. Humble - I've been wrong before, and I'll be wrong again.
+1. Useful. If it's not useful, then what's the point?
+2. Clear. Nothing frustrates me more than unnecessary complexity - especially if its intentional. 
+3. Respectful.  We don't all share the same values, and beliefs. That's a good thing.
+4. Resourceful. Real world decision making always involves constraints - wasted resources here could have been used elsewhere.
+5. Humble. I've been wrong before, and I'll be wrong again.
 
 ## Education
 
@@ -29,9 +29,9 @@ Here is a selection of my work experience. See my [LinkedIn](https://www.linkedi
 | Pre-Doctoral Researcher | [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) | Paradise for decision-making research thanks to [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer), [Ralph Hertwig](https://www.mpib-berlin.mpg.de/staff/ralph-hertwig) and where I discovered a love of R with my fellow PhD student [Dirk Wulff](https://www.linkedin.com/in/dirk-wulff-723a7772/)|
 | Postdoctoral Researcher | [University of Konstanz](https://www.uni-konstanz.de/en/) | Developing [FFTrees](https://github.com/ndphillips/FFTrees) with [Hansjoerg Neth](https://www.spds.uni-konstanz.de/en/hans-neth) and [Wolfgang Gaissmaier](https://www.spds.uni-konstanz.de/en/node/1240) was a turning point for the rest of my career|
 | Postdoctoral Researcher | [University of Basel](https://www.unibas.ch) | |
-| Real World Data Scientist | [Roche](https://www.roche.com) | Where I learned how real science is done by teams and what a great manager looks like (thank you [Robert Walls](https://www.linkedin.com/in/robert-walls-4406731/))|
-| Quantitative Scientist | [Flatiron Health](https://www.flatiron.com) | Best culture and teams I've ever been a part of. Grateful to people like [Olivier Humblet](https://www.linkedin.com/in/ohumblet/), [Caleb Jordan](https://www.linkedin.com/in/caleb-jordan-92797565/), [Daniel Obeng](https://www.linkedin.com/in/daniel-obeng-8a0b932/), [Conal Scanlon](https://www.linkedin.com/in/conalscanlon/), [John Zielinksi](https://www.linkedin.com/in/john-zielinski/) (and so many more) for helping me grow during my time there.|
-| CTO, Co-Founder | [Plinth Analytics](https://www.plinth.co) | The thrill of a lifetime with my co-founder and friend  [Kieran Mace](https://www.linkedin.com/in/kieranmace/), and colleagues [Nicole Mirea](https://www.linkedin.com/in/nimirea/), [Parker Barnes](https://www.linkedin.com/in/parker-barnes/) |
+| Real World Data Scientist | [Roche](https://www.roche.com) | Where I learned how real world science is done by teams and what a great manager looks like (thank you [Robert Walls](https://www.linkedin.com/in/robert-walls-4406731/))|
+| Quantitative Scientist | [Flatiron Health](https://www.flatiron.com) | Best culture and teams I've ever been a part of. Grateful to people like [Olivier Humblet](https://www.linkedin.com/in/ohumblet/), [Caleb Jordan](https://www.linkedin.com/in/caleb-jordan-92797565/), [Daniel Obeng](https://www.linkedin.com/in/daniel-obeng-8a0b932/), [Conal Scanlon](https://www.linkedin.com/in/conalscanlon/), [John Zielinksi](https://www.linkedin.com/in/john-zielinski/) (and so many more) for teaching and supporting me during my time there.|
+| CTO, Co-Founder | [Plinth Analytics](https://www.plinth.co) | The thrill of a lifetime with my co-founder and friend  [Kieran Mace](https://www.linkedin.com/in/kieranmace/), along with  rockstar data scientists [Nicole Mirea](https://www.linkedin.com/in/nimirea/), [Parker Barnes](https://www.linkedin.com/in/parker-barnes/) |
 
 ## Presentations and Videos
 
@@ -59,8 +59,8 @@ Most of my projects are proprietary, but here are some open source projects that
 
 ![](https://github.com/ndphillips/FFTrees/raw/master/man/figures/README-example-heart-plot-1.png)
 
-| Title | Description | Note |
+| Title | Description | Status | 
 |-------|-------------|------|
-| [FFTrees](https://github.com/ndphillips/FFTrees) | A toolbox to create, visualize, and evaluate fast-and-frugal decision trees | |
-| [yarrr](https://github.com/ndphillips/yarrr) | A package for creating pirate plots in R | |
+| [FFTrees](https://github.com/ndphillips/FFTrees) | A toolbox to create, visualize, and evaluate fast-and-frugal decision trees | Active|
+| [yarrr](https://github.com/ndphillips/yarrr) | A package for creating pirate plots in R | Active |
 

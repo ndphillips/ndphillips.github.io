@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Here are my core principles which guide my work and life:\n\nUseful: If it’s not useful, then what’s the point?\nClear - Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful - We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful - Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble - I’ve been wrong before, and I’ll be wrong again."
+    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
   },
   {
     "objectID": "about.html#principles",
     "href": "about.html#principles",
     "title": "About",
     "section": "",
-    "text": "Here are my core principles which guide my work and life:\n\nUseful: If it’s not useful, then what’s the point?\nClear - Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful - We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful - Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble - I’ve been wrong before, and I’ll be wrong again."
+    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
   },
   {
     "objectID": "about.html#education",
@@ -32,7 +32,7 @@
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real science is done by teams and what a great manager looks like (thank you Robert Walls)\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for helping me grow during my time there.\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, and colleagues Nicole Mirea, Parker Barnes"
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes"
   },
   {
     "objectID": "about.html#presentations-and-videos",
@@ -53,7 +53,7 @@
     "href": "about.html#open-source-projects",
     "title": "About",
     "section": "Open Source Projects",
-    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\n\nTitle\nDescription\nNote\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\n\n\n\nyarrr\nA package for creating pirate plots in R"
+    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\n\nTitle\nDescription\nStatus\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nActive\n\n\nyarrr\nA package for creating pirate plots in R\nActive"
   },
   {
     "objectID": "posts/hello_world.html",
