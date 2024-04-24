@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Here are my principles\n\nUseful\nHonest\nRespectful\nResourceful"
+    "text": "Here are my core principles which guide my work and life:\n\nUseful: If it’s not useful, then what’s the point?\nClear - Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful - We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful - Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble - I’ve been wrong before, and I’ll be wrong again."
   },
   {
     "objectID": "about.html#principles",
     "href": "about.html#principles",
     "title": "About",
     "section": "",
-    "text": "Here are my principles\n\nUseful\nHonest\nRespectful\nResourceful"
+    "text": "Here are my core principles which guide my work and life:\n\nUseful: If it’s not useful, then what’s the point?\nClear - Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful - We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful - Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble - I’ve been wrong before, and I’ll be wrong again."
   },
   {
     "objectID": "about.html#education",
@@ -32,7 +32,7 @@
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\n\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real science is done by teams.\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of.\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace"
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real science is done by teams and what a great manager looks like (thank you Robert Walls)\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for helping me grow during my time there.\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, and colleagues Nicole Mirea, Parker Barnes"
   },
   {
     "objectID": "about.html#presentations-and-videos",
@@ -88,7 +88,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Here are some of my favorite resources"
+    "text": "Here are some of my favorite resources - a mixture of books, tutorials, blogs, podcasts and YouTube, and software."
   },
   {
     "objectID": "resources.html#books",
@@ -109,20 +109,20 @@
     "href": "resources.html#blogs",
     "title": "Resources",
     "section": "Blogs",
-    "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\n\n\nTitle\nAuthor\nNotes\n\n\n\n\nRStudio Blog\nRStudio\nThe RStudio blog is a great resource for learning about new features in RStudio and R\n\n\nDanielle Navarro\nDanielle Navarro\nDanielle Navarro is a cognitive scientist who writes about statistics and programming in R\n\n\nEmily Riederer\nEmily Riederer\nEmily Riederer is a data scientist who writes about data science and programming in R"
+    "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\n\n\nTitle\nNotes\n\n\n\n\n\nRStudio Blog\nThe RStudio blog is a great resource for learning about new features in RStudio and R\n\n\n\nDanielle Navarro\nDanielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining her for a Postdoc in Sydney. I often wonder how my life would have turn out differently if I had\n\n\n\nEmily Riederer\nEmily Riederer is a leading voice in modern data science"
   },
   {
     "objectID": "resources.html#podcasts-and-youtube",
     "href": "resources.html#podcasts-and-youtube",
     "title": "Resources",
     "section": "Podcasts and YouTube",
-    "text": "Podcasts and YouTube\n\nCautionary Tales | Tim Harford"
+    "text": "Podcasts and YouTube\nHere are some of my favorite podcasts and YouTube channels\n\n\n\nTitle\nFavorite Episodes\n\n\n\n\nCautionary Tales by Tim Harford\nWrong Tools Cost Lives"
   },
   {
     "objectID": "resources.html#software",
     "href": "resources.html#software",
     "title": "Resources",
     "section": "Software",
-    "text": "Software\nHere are some of my favorite software tools\n\nNotion\nRStudio\nGitHub Copilot"
+    "text": "Software\nHere are some of my favorite software tools\n\n\n\nTool\nNotes\n\n\n\n\nNotion\nI use Notion for project management and note-taking\n\n\nRStudio\nI use RStudio for all of my R programming\n\n\nGitHub Copilot\nI use GitHub Copilot to help me write code"
   }
 ]

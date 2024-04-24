@@ -2,7 +2,7 @@
 title: "Resources"
 ---
 
-Here are some of my favorite resources
+Here are some of my favorite resources - a mixture of [books](#books), [tutorials](#tutorials), [blogs](#blogs), [podcasts and YouTube](#podcasts-and-youtube), and [software](#software).
 
 ## Books
 
@@ -30,20 +30,27 @@ Here are some of my favorite online tutorials and guides
 
 Here are some blogs I like by companies and people I admire
 
-| Title | Author | Notes
+| Title  | Notes
 | --- | --- | -- |
-| [RStudio Blog](https://blog.rstudio.com/) | RStudio | The RStudio blog is a great resource for learning about new features in RStudio and R |
-| [Danielle Navarro](https://blog.djnavarro.net/) | Danielle Navarro | Danielle Navarro is a cognitive scientist who writes about statistics and programming in R |
-| [Emily Riederer](https://www.emilyriederer.com/) | Emily Riederer | Emily Riederer is a data scientist who writes about data science and programming in R |
+| [RStudio Blog](https://blog.rstudio.com/) | The RStudio blog is a great resource for learning about new features in RStudio and R |
+| [Danielle Navarro](https://blog.djnavarro.net/) | Danielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining her for a Postdoc in Sydney. I often wonder how my life would have turn out differently if I had |
+| [Emily Riederer](https://www.emilyriederer.com/) | Emily Riederer is a leading voice in modern data science|
 
 ## Podcasts and YouTube
 
-- [Cautionary Tales | Tim Harford](https://timharford.com/articles/cautionarytales/)
+Here are some of my favorite podcasts and YouTube channels
+
+| Title | Favorite Episodes |
+| --- | --- |
+| [Cautionary Tales by Tim Harford](https://timharford.com/articles/cautionarytales/) | [Wrong Tools Cost Lives](https://timharford.com/2021/05/cautionary-tales-wrong-tools-cost-lives/)|
+
 
 ## Software
 
 Here are some of my favorite software tools
 
-- Notion
-- RStudio
-- GitHub Copilot
+| Tool | Notes | 
+|----- | ------ |
+| [Notion](https://www.notion.so/) | I use Notion for project management and note-taking |
+| [RStudio](https://www.rstudio.com/) | I use RStudio for all of my R programming |
+| [GitHub Copilot](https://copilot.github.com/) | I use GitHub Copilot to help me write code |
