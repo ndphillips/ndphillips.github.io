@@ -13,10 +13,10 @@ Here are my principles
 
 ## Education
 
-| Degree | Institution | Major | Note |
+| Degree | Institution | Focus | Note |
 |--------|-------------|------|------|
 | B.A.   | [Grinnell College](www.grinnell.edu)  | Mathematics | Studying mathematics has always been one of my greatest pleasures. Grinnell's [Burling Library](https://www.grinnell.edu/spaces/burling-library) was my happy place|
-| M.S.   | [Ohio University](www.ohio.edu) | Experimental Psychology |    |
+| M.S.   | [Ohio University](www.ohio.edu) | Quantitative Psychology | |
 | Ph.D.  | [University of Basel](www.unibas.ch) | Cognitive Psychology | |
 
 ## Work Experience
@@ -25,12 +25,12 @@ Here is a selection of my work experience. See my [LinkedIn](https://www.linkedi
 
 | Position | Institution | Note |
 |----------|-------------|------|
-| Pre-Doctoral Researcher | [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) | |
+| Pre-Doctoral Researcher | [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) | Paradise for decision-making research|
 | Postdoctoral Researcher | [University of Konstanz](https://www.uni-konstanz.de/en/) | |
 | Postdoctoral Researcher | [University of Basel](https://www.unibas.ch) | |
-| Real World Data Scientist | [Roche](https://www.roche.com) | 
-| Data Scientist | [Flatiron Health](https://www.flatiron.com) | 
-| CTO, Co-Founder | [Plinth Analytics](https://www.plinth.co) | 
+| Real World Data Scientist | [Roche](https://www.roche.com) | Where I learned how real science is done by teams.|
+| Quantitative Scientist | [Flatiron Health](https://www.flatiron.com) | Best culture and teams I've ever been a part of.|
+| CTO, Co-Founder | [Plinth Analytics](https://www.plinth.co) | The thrill of a lifetime with my co-founder and friend  [Kieran Mace](https://www.linkedin.com/in/kieranmace/)|
 
 ## Presentations and Videos
 

@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Nathaniel D. Phillips, PhD"
+  google-analytics: "G-H0ZF5JL7LN"
   navbar:
     left:
       - href: index.qmd
