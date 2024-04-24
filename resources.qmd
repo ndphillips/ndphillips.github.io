@@ -6,39 +6,17 @@ Here are some of my favorite resources
 
 ## Books
 
-### Design
+Here are some of my favorite books
 
-Here are some of my favorite design books
-
-| Title | Author | Note
-| --- | --- | --- |
-| [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | Donald A. Norman | As applicable to programming as it is to the design of toilets|
-
-### Project Management
-
-Here are some of my favorite project management books
-
-| Title | Author | Note
-| --- | --- | --- |
-| [How big things get done](https://www.goodreads.com/en/book/show/61327449) | Bent Flyvbjerg, Dan Gardner |  Should be required reading for anyone working on projects with teams|
-
-### Programming
-
-Here are some of my favorite programmingh books
-
-
-| Title | Author | Note
-| --- | --- | --- |
-| [R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garrett Grolemund | A great resource for learning R |
-| [Writing R Packages](https://r-pkgs.org/) | Hadley Wickham | The bible of R package development|
-
-### Fiction
-
-Here are some of my favorite fiction books
-
-| Title | Author | Note
-| --- | --- | --- |
-| [It](https://www.goodreads.com/book/show/830502.It) | Stephen King | I just wish they would print it in two separate volumes  |
+| Title | Author | Tag | Note
+| --- | --- | --- | -- |
+| [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | Donald A. Norman | Design | As applicable to programming as it is to the design of toilets|
+| [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days?ref=nav_sb_ss_1_17) | Michael D. Watkins | Management | A great resource for anyone starting a new job - recommended by [Lura Long](https://www.linkedin.com/in/luralong/)|
+| [The Checklist Manifesto]() | Atul Gawande |Medicine | Gawande is one of my favorite writers at the intersection of science and medicine. |
+| [How big things get done](https://www.goodreads.com/en/book/show/61327449) | Bent Flyvbjerg, Dan Gardner | Project Management| Should be required reading for anyone working on projects with teams - recommended by [Nicole Mirea](https://www.linkedin.com/in/nimirea/)|
+| [R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garrett Grolemund | R | A great resource for learning R |
+| [Writing R Packages](https://r-pkgs.org/) | Hadley Wickham | R | The bible of R package development|
+| [It](https://www.goodreads.com/book/show/830502.It) | Stephen King | Fiction | I just wish they would print it in two separate volumes  |
 
 ## Blogs
 
@@ -47,12 +25,11 @@ Here are some of my favorite fiction books
 
 ## Podcasts and YouTube
 
-
-
 - [Cautionary Tales | Tim Harford](https://timharford.com/articles/cautionarytales/)
 
-
 ## Software
+
+Here are some of my favorite software tools
 
 - Notion
 - RStudio

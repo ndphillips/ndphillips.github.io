@@ -21,10 +21,22 @@ Here are my principles
 
 ## Work Experience
 
+Here is a selection of my work experience
+
 | Position | Institution | Note |
 |----------|-------------|------|
 | Postdoc | [University of Konstanz](https://www.uni-konstanz.de/en/) | |
 | Postdoc | [University of Basel](https://www.unibas.ch) | |
+| Real World Data Scientist | [Roche](https://www.roche.com) | 
+| Data Scientist | [Flatiron](https://www.flatiron.com) | 
+| CTO, Co-Founder | [Plinth Analytics](https://www.plinth.co) | 
+
+## Presentations
+
+| Title | Conference |
+|-------|------------|
+| FlatironKitchen| RStudio Conf|
+| 
 
 ## Publications
 
@@ -35,17 +47,12 @@ Here are the two publications I'm most proud of, see all of them at [Google Scho
 | [FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:9vf0nzSNQJEC) | Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W. | Judgment and Decision Making | |
 | [Rivals in the dark: How competition influences search in decisions under uncertainty](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:2osOgNQ5qMEC) | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |
 
-## Projects
+## Open Source Projects
+
+Most of my projects are proprietary, but here are some open source projects that I contribute to
 
 | Title | Description | Note |
 |-------|-------------|------|
 | [FFTrees](https://github.com/ndphillips/FFTrees) | A toolbox to create, visualize, and evaluate fast-and-frugal decision trees | |
 | [yarrr](https://github.com/ndphillips/yarrr) | A package for creating pirate plots in R | |
 
-
-
-### Open Source
-
-### Proprietary
-
-## Hobbies
