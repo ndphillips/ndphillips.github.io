@@ -18,10 +18,23 @@ Here are some of my favorite books
 | [Writing R Packages](https://r-pkgs.org/) | Hadley Wickham | R | The bible of R package development|
 | [It](https://www.goodreads.com/book/show/830502.It) | Stephen King | Fiction | I just wish they would print it in two separate volumes  |
 
+## Tutorials
+
+Here are some of my favorite online tutorials and guides
+
+| Title | Author | Notes
+| --- | --- | -- |
+| [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) | [Emily Zabor](https://www.linkedin.com/in/emily-zabor-59b902b7/) | A great introduction to survival analysis in R (by a fellow Grinnellian!)|
+
 ## Blogs
 
-- [RStudio Blog](https://blog.rstudio.com/)
-- [Danielle Navarro](https://blog.djnavarro.net/)
+Here are some blogs I like by companies and people I admire
+
+| Title | Author | Notes
+| --- | --- | -- |
+| [RStudio Blog](https://blog.rstudio.com/) | RStudio | The RStudio blog is a great resource for learning about new features in RStudio and R |
+| [Danielle Navarro](https://blog.djnavarro.net/) | Danielle Navarro | Danielle Navarro is a cognitive scientist who writes about statistics and programming in R |
+| [Emily Riederer](https://www.emilyriederer.com/) | Emily Riederer | Emily Riederer is a data scientist who writes about data science and programming in R |
 
 ## Podcasts and YouTube
 

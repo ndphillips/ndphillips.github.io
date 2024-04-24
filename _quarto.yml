@@ -18,6 +18,8 @@ website:
         href: https://www.linkedin.com/in/nathanieldphillips/
       - icon: github
         href: https://github.com/ndphillips
+      - icon: envelope
+        href: mailto:nathaniel.d.phillips.is@gmail.com
 
 format:
   html:
