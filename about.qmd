@@ -35,14 +35,16 @@ Here is a selection of my work experience. See my [LinkedIn](https://www.linkedi
 
 ## Presentations and Videos
 
-Here are some presentations and recordings of me speaking.
+Here are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.
 
 <p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"><img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"></a></p>
 
-| Title | Conference |
+| Title | Venue |
 |-------|------------|
 | [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/)| RStudio Conf (2019)|
 | [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees) | useR! (2017)|
+| [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma) | [R/Pharma](https://rinpharma.com/) (2022) |
+| [TStat R Lecture #7: Loops in R](https://youtu.be/p7bJjOJoXLI) | Introduction to R Programming course at the University of Konstanz (see all course videos [here](https://www.youtube.com/playlist?list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU))|
 
 ## Publications
 

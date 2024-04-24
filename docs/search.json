@@ -39,7 +39,7 @@
     "href": "about.html#presentations-and-videos",
     "title": "About",
     "section": "Presentations and Videos",
-    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking.\n\n\n\n\n\n\n\n\n\nTitle\nConference\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)"
+    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\n\n\nTitle\nVenue\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)\n\n\nUsing R to Derive Robust Insights from Real-World Health Care Data\nR/Pharma (2022)\n\n\nTStat R Lecture #7: Loops in R\nIntroduction to R Programming course at the University of Konstanz (see all course videos here)"
   },
   {
     "objectID": "about.html#publications",
