@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "The Transition\n\n\n\n\n\n\n\nR\n\n\n\n\nA period of transition\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nThe Hello World\n\n\n\n\n\n\n\nR\n\n\n\n\nHello World\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "The Transition\n\n\n\n\n\n\n\nR\n\n\n\n\nA period of transition\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nThe Hello World\n\n\n\n\n\n\n\nR\n\n\n\n\nHello World\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nPrisoners\n\n\n\n\n\n\n\nR\n\n\nSimulation\n\n\n\n\nThe Riddle that Seems Impossible Even If You Know the Answer\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -56,11 +56,11 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\n\nTitle\nDescription\nStatus\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nActive\n\n\nyarrr\nA package for creating pirate plots in R\nActive"
   },
   {
-    "objectID": "posts/hello_world.html",
-    "href": "posts/hello_world.html",
-    "title": "The Hello World",
+    "objectID": "posts/the_transition.html",
+    "href": "posts/the_transition.html",
+    "title": "The Transition",
     "section": "",
-    "text": "Hello World\nThis is a test post."
+    "text": "asdfsad"
   },
   {
     "objectID": "contact.html",
@@ -70,11 +70,11 @@
     "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
   },
   {
-    "objectID": "posts/the_transition.html",
-    "href": "posts/the_transition.html",
-    "title": "The Transition",
+    "objectID": "posts/hello_world.html",
+    "href": "posts/hello_world.html",
+    "title": "The Hello World",
     "section": "",
-    "text": "asdfsad"
+    "text": "Hello World\nThis is a test post."
   },
   {
     "objectID": "index.html",
@@ -124,5 +124,47 @@
     "title": "Resources",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\n\n\nTool\nNotes\n\n\n\n\nNotion\nI use Notion for project management and note-taking\n\n\nRStudio\nI use RStudio for all of my R programming\n\n\nGitHub Copilot\nI use GitHub Copilot to help me write code"
+  },
+  {
+    "objectID": "posts/the_prisoners.html",
+    "href": "posts/the_prisoners.html",
+    "title": "Prisoners",
+    "section": "",
+    "text": "Sometime in early 2024, someone shared a YouTube video with me titled “The Riddle that Seems Impossible Even if You Know the Answer” from the channel Veritasium.\nI probably watched that video 10 times in a row. That week, I told everyone I met about the riddle."
+  },
+  {
+    "objectID": "posts/the_prisoners.html#setup",
+    "href": "posts/the_prisoners.html#setup",
+    "title": "Prisoners",
+    "section": "Setup",
+    "text": "Setup\nHere’s the riddle:\nImagine there are 100 prisoners, each with a distinct number from 1 to 100, and 100 boxes, each with a distinct number from 1 to 100. Each prisoner is assigned a box at random. The prisoners are allowed to open the boxes in any order they choose, but they must follow these rules:\n\nOnly one box can be open at a time.\nThe prisoners must close each box before opening the next one."
+  },
+  {
+    "objectID": "posts/the_prisoners.html#code",
+    "href": "posts/the_prisoners.html#code",
+    "title": "Prisoners",
+    "section": "Code",
+    "text": "Code\n\nRPython\n\n\n\nPackages Used\n\n\n\nPackage\nDescription\n\n\n\n\nprogress\nProgress bars\n\n\npurrr\nFunctional programming\n\n\ndplyr\nData manipulation\n\n\n\n\nsimulate_team_search &lt;- function(prisoners_n = 100,\n                                 times = 100) {\n  \n  \n  # Set up a progress bar\npb &lt;- progress::progress_bar$new(\n  format = \"  :current/:total [:bar] :percent eta: :eta\",\n  total = times,\n  clear = FALSE\n)\n  \n  out_ls &lt;- purrr::map(\n    1:times,\n    \\(x) {\n       pb$tick()\n      team_search(prisoners_n = prisoners_n)\n    }\n  )\n  \n  out &lt;- purrr::map_dfr(\n    out_ls,\n    \\(x) {\n      tibble::tibble(\n        is_all_success = x$is_all_success,\n        boxes_opened_n_max = max(x$boxes_opened_n_vec)\n      )\n    }\n  )\n  \n  out\n  \n}\n\n#' Simulate the Prisoners and Boxes\n#'\n#' @param prisoners_n integer. The number of prisoners\n#'\n#' @return list. A list with the following elements:\n#'   - is_all_success: logical. Whether all prisoners were successful\n#'   - boxes_opened_n_vec: integer vector. The number of boxes opened by each prisoner\n#'   - team_result_ls: list. The results of each prisoner's search\n#'\n#' @examples\nteam_search &lt;- function(prisoners_n = 100,\n                        pick_max = NULL) {\n  if (is.null(pick_max)) {\n    pick_max &lt;- floor(prisoners_n / 2)\n  }\n\n  room &lt;- room_create(prisoners_n = prisoners_n)\n\n  team_result_ls &lt;- purrr::map(\n    1:prisoners_n,\n    \\(prisoner_i) {\n      prisoner_search(\n        room = room,\n        prisoner_i = prisoner_i,\n        pick_max = pick_max\n      )\n    }\n  )\n\n  is_all_success &lt;- all(purrr::map_lgl(\n    team_result_ls,\n    \\(x) x$is_success\n  ))\n\n  boxes_opened_n_vec &lt;- purrr::map_int(\n    team_result_ls,\n    \\(x) x$boxes_opened_n\n  )\n  \n  out &lt;- list(\n    is_all_success = is_all_success,\n    boxes_opened_n_vec = boxes_opened_n_vec,\n    team_result_ls = team_result_ls\n  )\n  \n  return(out)\n  \n}\n\n#' Title\n#'\n#' @param room tbl. A tibble created by room_create()\n#' @param prisoner_i integer. The prisoner number\n#' @param pick_max integer. The maximum number of boxes to search\n#'\n#' @return  list\n#'  \n#' @export\n#'\n#' @examples\nprisoner_search &lt;- function(room = room_create(),\n                            prisoner_i = 1,\n                            pick_max = NULL) {\n  \n  if (is.null(pick_max)) {\n    \n    pick_max &lt;- floor(nrow(room) / 2)\n  }\n  \n  pick_i &lt;- 1\n  ticket_v &lt;- room |&gt;\n    dplyr::filter(box == prisoner_i) |&gt;\n    dplyr::pull(ticket)\n\n  is_success_i &lt;- FALSE\n\n  if (ticket_v == prisoner_i) {\n    is_success_i &lt;- TRUE\n  }\n\n  while (length(ticket_v) &lt; pick_max && is_success_i == FALSE) {\n    pick_i &lt;- pick_i + 1\n\n    ticket_i &lt;- room |&gt;\n      dplyr::filter(box == ticket_v[pick_i - 1]) |&gt;\n      dplyr::pull(ticket)\n\n    ticket_v &lt;- c(ticket_v, ticket_i)\n\n    if (ticket_i == prisoner_i) {\n      is_success_i &lt;- TRUE\n    }\n  }\n\n  out &lt;- list(\n    prisoner = prisoner_i,\n    is_success = is_success_i,\n    ticket_v = ticket_v,\n    boxes_opened_n = length(ticket_v)\n  )\n\n  return(out)\n}\n\nroom_create &lt;- function(prisoners_n = 100) {\n  tickets_v &lt;- sample(1:prisoners_n,\n    size = prisoners_n\n  )\n\n  room &lt;- tibble::tibble(\n    box = 1:prisoners_n,\n    ticket = tickets_v\n  )\n\n  room\n}\n\n\n\n\n\n1+1\n\n2\n\n# Coming soon"
+  },
+  {
+    "objectID": "posts/the_prisoners.html#r-code",
+    "href": "posts/the_prisoners.html#r-code",
+    "title": "Prisoners",
+    "section": "R Code",
+    "text": "R Code\n\nPackages Used\n\n\n\nPackage\nDescription\n\n\n\n\nprogress\nProgress bars\n\n\npurrr\nFunctional programming\n\n\ndplyr\nData manipulation\n\n\n\n\n\nFunctions\nHere are the functions we’ll create\n\n\n\n\n\n\n\nFunction\nDescription\n\n\n\n\nsimulate_game()\nSimulate the prisoners and boxes game multiple times for a given number of prisoners and return aggregate results\n\n\nsimulate_team()\nSimulate the result of a team of prisoner_n prisoners playing the game\n\n\nsimulate_prisoner()\nSimulate the result oof a single prisoner\n\n\ncreate_room()\nCreate a room of boxes with tickets\n\n\n\n\n\nCode\n#' Simulate the Prisoners and Boxes\n#'\n#' @param prisoners_n integer. The number of prisoners\n#' @param times integer. The number of times to run the simulation\n\n#' @return tibble. A tibble with the following columns:\n#'  - is_team_successs: logical. Whether all prisoners were successful\n#'  - boxes_opened_n_max: integer. The maximum number of boxes opened by a prisoner\nsimulate_game &lt;- function(prisoners_n = 100,\n                          times = 100) {\n  # Set up a progress bar\n  pb &lt;- progress::progress_bar$new(\n    format = \"  :current/:total [:bar] :percent eta: :eta\",\n    total = times,\n    clear = FALSE\n  )\n\n  out_ls &lt;- purrr::map(\n    1:times,\n    \\(x) {\n      pb$tick()\n      simulate_team(prisoners_n = prisoners_n)\n    }\n  )\n\n  out &lt;- purrr::map_dfr(\n    out_ls,\n    \\(x) {\n      tibble::tibble(\n        is_team_successs = x$is_team_successs,\n        boxes_opened_n_max = max(x$boxes_opened_n_vec)\n      )\n    }\n  )\n\n  out\n}\n\n#' Simulate the Prisoners and Boxes\n#'\n#' @param prisoners_n integer. The number of prisoners\n#'\n#' @return list. A list with the following elements:\n#'   - is_team_successs: logical. Whether all prisoners were successful\n#'   - boxes_opened_n_vec: integer vector. The number of boxes opened by each prisoner\n#'   - team_result_ls: list. The results of each prisoner's search\n#'\n#' @examples\nsimulate_team &lt;- function(prisoners_n = 100,\n                          pick_max = NULL) {\n  if (is.null(pick_max)) {\n    pick_max &lt;- floor(prisoners_n / 2)\n  }\n\n  room &lt;- create_room(prisoners_n = prisoners_n)\n\n  team_result_ls &lt;- purrr::map(\n    1:prisoners_n,\n    \\(prisoner_i) {\n      simulate_prisoner(\n        room = room,\n        prisoner_i = prisoner_i,\n        pick_max = pick_max\n      )\n    }\n  )\n\n  is_team_successs &lt;- all(purrr::map_lgl(\n    team_result_ls,\n    \\(x) x$is_success\n  ))\n\n  boxes_opened_n_vec &lt;- purrr::map_int(\n    team_result_ls,\n    \\(x) x$boxes_opened_n\n  )\n\n  out &lt;- list(\n    is_team_successs = is_team_successs,\n    boxes_opened_n_vec = boxes_opened_n_vec,\n    team_result_ls = team_result_ls\n  )\n\n  return(out)\n}\n\n#' Title\n#'\n#' @param room tbl. A tibble created by create_room()\n#' @param prisoner_i integer. The prisoner number\n#' @param pick_max integer. The maximum number of boxes to search\n#'\n#' @return  list\n#'\n#' @export\n#'\n#' @examples\nsimulate_prisoner &lt;- function(room = create_room(),\n                              prisoner_i = 1,\n                              pick_max = NULL) {\n  if (is.null(pick_max)) {\n    pick_max &lt;- floor(nrow(room) / 2)\n  }\n\n  pick_i &lt;- 1\n  ticket_v &lt;- room |&gt;\n    dplyr::filter(box == prisoner_i) |&gt;\n    dplyr::pull(ticket)\n\n  is_success_i &lt;- FALSE\n\n  if (ticket_v == prisoner_i) {\n    is_success_i &lt;- TRUE\n  }\n\n  while (length(ticket_v) &lt; pick_max && is_success_i == FALSE) {\n    pick_i &lt;- pick_i + 1\n\n    ticket_i &lt;- room |&gt;\n      dplyr::filter(box == ticket_v[pick_i - 1]) |&gt;\n      dplyr::pull(ticket)\n\n    ticket_v &lt;- c(ticket_v, ticket_i)\n\n    if (ticket_i == prisoner_i) {\n      is_success_i &lt;- TRUE\n    }\n  }\n\n  out &lt;- list(\n    prisoner = prisoner_i,\n    is_success = is_success_i,\n    ticket_v = ticket_v,\n    boxes_opened_n = length(ticket_v)\n  )\n\n  return(out)\n}\n\ncreate_room &lt;- function(prisoners_n = 100) {\n  tickets_v &lt;- sample(1:prisoners_n,\n    size = prisoners_n\n  )\n\n  room &lt;- tibble::tibble(\n    box = 1:prisoners_n,\n    ticket = tickets_v\n  )\n\n  room\n}"
+  },
+  {
+    "objectID": "posts/the_prisoners.html#result",
+    "href": "posts/the_prisoners.html#result",
+    "title": "Prisoners",
+    "section": "Result",
+    "text": "Result\n\n\nCode\nset.seed(123)\nresult_df &lt;- simulate_game(prisoners_n = 100, times = 10)"
+  },
+  {
+    "objectID": "posts/the_prisoners.html#results",
+    "href": "posts/the_prisoners.html#results",
+    "title": "Prisoners",
+    "section": "Results",
+    "text": "Results\nBelow I’ll run a simulation with 100 prisoners across 10 different rooms\n\n\nCode\nset.seed(123)\nresult_df &lt;- simulate_game(prisoners_n = 100, \n                           times = 100)"
   }
 ]

@@ -1,0 +1,218 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [R, Simulation] 
+date: 2024-04-21
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-fold: true
+description: "The Riddle that Seems Impossible Even If You Know the Answer" 
+title: "Prisoners" 
+---
+
+{{< video https://youtu.be/iSNsgj1OCLA?si=tYpBJ8sswvJUsXmP >}}
+
+Sometime in early 2024, someone shared a YouTube video with me titled "The Riddle that Seems Impossible Even if You Know the Answer" from the channel [Veritasium](https://www.youtube.com/@veritasium).
+
+I probably watched that video 10 times in a row. That week, I told *everyone* I met about the riddle.
+
+### The Riddle
+
+Here's the riddle:
+
+Imagine there are 100 prisoners, each with a distinct number from 1 to 100, and 100 boxes, each with a distinct number from 1 to 100. Each prisoner is assigned a box at random. The prisoners are allowed to open the boxes in any order they choose, but they must follow these rules:
+
+- Only one box can be open at a time.
+- The prisoners must close each box before opening the next one.
+
+## R Code
+
+#### Packages Used
+
+| Package | Description |
+| --- | --- |
+| [progress](https://github.com/r-lib/progress) | Progress bars |
+| [purrr](https://purrr.tidyverse.org/) | Functional programming |
+| [dplyr](https://dplyr.tidyverse.org/) | Data manipulation |
+
+#### Functions
+
+Here are the functions we'll create
+
+| Function | Description |
+| --- | --- |
+| `simulate_game()` | Simulate the prisoners and boxes game multiple times for a given number of prisoners and return aggregate results|
+| `simulate_team()` | Simulate the result of a team of `prisoner_n` prisoners playing the game|
+| `simulate_prisoner()` | Simulate the result oof a single prisoner|
+|`create_room()` | Create a room of boxes with tickets|
+
+```{r}
+#' Simulate the Prisoners and Boxes
+#'
+#' @param prisoners_n integer. The number of prisoners
+#' @param times integer. The number of times to run the simulation
+
+#' @return tibble. A tibble with the following columns:
+#'  - is_team_successs: logical. Whether all prisoners were successful
+#'  - boxes_opened_n_max: integer. The maximum number of boxes opened by a prisoner
+simulate_game <- function(prisoners_n = 100,
+                          times = 100) {
+  # Set up a progress bar
+  pb <- progress::progress_bar$new(
+    format = "  :current/:total [:bar] :percent eta: :eta",
+    total = times,
+    clear = FALSE
+  )
+
+  out_ls <- purrr::map(
+    1:times,
+    \(x) {
+      pb$tick()
+      simulate_team(prisoners_n = prisoners_n)
+    }
+  )
+
+  out <- purrr::map_dfr(
+    out_ls,
+    \(x) {
+      tibble::tibble(
+        is_team_successs = x$is_team_successs,
+        boxes_opened_n_max = max(x$boxes_opened_n_vec)
+      )
+    }
+  )
+
+  out
+}
+
+#' Simulate the Prisoners and Boxes
+#'
+#' @param prisoners_n integer. The number of prisoners
+#'
+#' @return list. A list with the following elements:
+#'   - is_team_successs: logical. Whether all prisoners were successful
+#'   - boxes_opened_n_vec: integer vector. The number of boxes opened by each prisoner
+#'   - team_result_ls: list. The results of each prisoner's search
+#'
+#' @examples
+simulate_team <- function(prisoners_n = 100,
+                          pick_max = NULL) {
+  if (is.null(pick_max)) {
+    pick_max <- floor(prisoners_n / 2)
+  }
+
+  room <- create_room(prisoners_n = prisoners_n)
+
+  team_result_ls <- purrr::map(
+    1:prisoners_n,
+    \(prisoner_i) {
+      simulate_prisoner(
+        room = room,
+        prisoner_i = prisoner_i,
+        pick_max = pick_max
+      )
+    }
+  )
+
+  is_team_successs <- all(purrr::map_lgl(
+    team_result_ls,
+    \(x) x$is_success
+  ))
+
+  boxes_opened_n_vec <- purrr::map_int(
+    team_result_ls,
+    \(x) x$boxes_opened_n
+  )
+
+  out <- list(
+    is_team_successs = is_team_successs,
+    boxes_opened_n_vec = boxes_opened_n_vec,
+    team_result_ls = team_result_ls
+  )
+
+  return(out)
+}
+
+#' Title
+#'
+#' @param room tbl. A tibble created by create_room()
+#' @param prisoner_i integer. The prisoner number
+#' @param pick_max integer. The maximum number of boxes to search
+#'
+#' @return  list
+#'
+#' @export
+#'
+#' @examples
+simulate_prisoner <- function(room = create_room(),
+                              prisoner_i = 1,
+                              pick_max = NULL) {
+  if (is.null(pick_max)) {
+    pick_max <- floor(nrow(room) / 2)
+  }
+
+  pick_i <- 1
+  ticket_v <- room |>
+    dplyr::filter(box == prisoner_i) |>
+    dplyr::pull(ticket)
+
+  is_success_i <- FALSE
+
+  if (ticket_v == prisoner_i) {
+    is_success_i <- TRUE
+  }
+
+  while (length(ticket_v) < pick_max && is_success_i == FALSE) {
+    pick_i <- pick_i + 1
+
+    ticket_i <- room |>
+      dplyr::filter(box == ticket_v[pick_i - 1]) |>
+      dplyr::pull(ticket)
+
+    ticket_v <- c(ticket_v, ticket_i)
+
+    if (ticket_i == prisoner_i) {
+      is_success_i <- TRUE
+    }
+  }
+
+  out <- list(
+    prisoner = prisoner_i,
+    is_success = is_success_i,
+    ticket_v = ticket_v,
+    boxes_opened_n = length(ticket_v)
+  )
+
+  return(out)
+}
+
+create_room <- function(prisoners_n = 100) {
+  tickets_v <- sample(1:prisoners_n,
+    size = prisoners_n
+  )
+
+  room <- tibble::tibble(
+    box = 1:prisoners_n,
+    ticket = tickets_v
+  )
+
+  room
+}
+```
+
+## Results
+
+Below I'll run a simulation with 100 prisoners across 10 different rooms
+
+```{r}
+set.seed(123)
+result_df <- simulate_game(
+  prisoners_n = 100,
+  times = 200
+)
+```
+
+# Next Steps
+
+- Create a `plot_simulation()` function to vizualize the results
