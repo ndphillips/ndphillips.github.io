@@ -6,9 +6,9 @@ title: "About"
 
 | Degree | Institution | Focus | Note |
 |--------|-------------|------|------|
-| Ph.D.  | [University of Basel](www.unibas.ch), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)| Cognitive Psychology | I am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.|
-| M.S.   | [Ohio University](www.ohio.edu) | Quantitative Psychology | I loved teaching introductory statistics and seeing the light in students' eyes when 'it clicked'|
-| B.A.   | [Grinnell College](www.grinnell.edu)  | Mathematics | Studying mathematics has always been one of my greatest pleasures. Grinnell's [Burling Library](https://www.grinnell.edu/spaces/burling-library) was my happy place|
+| Ph.D.  | [University of Basel](https://www.unibas.ch), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)| Cognitive Psychology | I am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.|
+| M.S.   | [Ohio University](https://www.ohio.edu) | Quantitative Psychology | I loved teaching introductory statistics and seeing the light in students' eyes when 'it clicked'|
+| B.A.   | [Grinnell College](https://www.grinnell.edu)  | Mathematics | Studying mathematics has always been one of my greatest pleasures. Grinnell's [Burling Library](https://www.grinnell.edu/spaces/burling-library) was my happy place|
 
 ## Work Experience
 
