@@ -1,12 +1,10 @@
 ---
-title: "Hi, I'm Nathaniel D. Phillips, PhD"
+title: "Welcome colleagues, friends and fellow travelers"
 ---
 
-I'm Nathaniel D. Phillips, PhD, I'm known for [R Piratery](www.bookdown.org/ndphillips/yarrr), [data science applications in healthcare](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), and [decision making research](https://github.com/ndphillips/FFTrees).
+I'm Nathaniel D. Phillips, PhD. I'm known for [R Piratery](www.bookdown.org/ndphillips/yarrr), [data science applications in healthcare](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), and [decision making research](https://github.com/ndphillips/FFTrees). If that sounds interesting to you, you're in the right place.
 
-This website is a place for me to jot down my professional and personal reflections, namely while I'm on an extended parental leave / sabbatical.
-
-Check out my [About](about.qmd), [Resources](resources.qmd), [Blog](blog.qmd), and [Contact](contact.qmd) pages to learn more about me and my work.
+Check out my [About](about.qmd), [Resources](resources.qmd), and [Contact](contact.qmd) pages to learn more about me and my work.
 
 ::: {.callout-note title="My old website is archived"}
 This is, as of 2024, my new website created using [Quarto](https://quarto.org/docs/websites/). You can find my old archived website  [here](https://ndphillips.github.io/old_ndphillips.github.io/)

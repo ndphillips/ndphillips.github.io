@@ -4,35 +4,77 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "The Transition\n\n\n\n\n\n\n\nR\n\n\n\n\nA period of transition\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nThe Hello World\n\n\n\n\n\n\n\nR\n\n\n\n\nHello World\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nPrisoners\n\n\n\n\n\n\n\nR\n\n\nSimulation\n\n\n\n\nThe Riddle that Seems Impossible Even If You Know the Answer\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "The Transition\n\n\n\n\n\n\n\nR\n\n\n\n\nA period of transition\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nThe Hello World\n\n\n\n\n\n\n\nR\n\n\n\n\nHello World\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "About",
+    "section": "",
+    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. I loathe unnecessary complexity,\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
+  },
+  {
+    "objectID": "personal.html#principles",
+    "href": "personal.html#principles",
+    "title": "About",
+    "section": "",
+    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. I loathe unnecessary complexity,\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
+  },
+  {
+    "objectID": "personal.html#tools",
+    "href": "personal.html#tools",
+    "title": "About",
+    "section": "Tools",
+    "text": "Tools\nHere are some of my favorite productivity tools\n\n\n\nTool\nDescription\n\n\n\n\nNotion\nI use Notion for everything from project management to personal notes\n\n\nRStudio\nMy favorite IDE for data science development\n\n\nQuarto\nThe successor to my beloved RMarkdown which powers just about every document I create (including this website)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome colleagues, friends and fellow travelers",
+    "section": "",
+    "text": "I’m Nathaniel D. Phillips, PhD. I’m known for R Piratery, data science applications in healthcare, and decision making research. If that sounds interesting to you, you’re in the right place.\nCheck out my About, Resources, and Contact pages to learn more about me and my work.\n\n\n\n\n\n\nMy old website is archived\n\n\n\nThis is, as of 2024, my new website created using Quarto. You can find my old archived website here"
+  },
+  {
+    "objectID": "posts/hello_world.html",
+    "href": "posts/hello_world.html",
+    "title": "The Hello World",
+    "section": "",
+    "text": "Hello World\nThis is a test post."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+  },
+  {
+    "objectID": "posts/the_transition.html",
+    "href": "posts/the_transition.html",
+    "title": "The Transition",
+    "section": "",
+    "text": "asdfsad"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
-  },
-  {
-    "objectID": "about.html#principles",
-    "href": "about.html#principles",
-    "title": "About",
-    "section": "",
-    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
+    "text": "Degree\nInstitution\nFocus\nNote\n\n\n\n\nPh.D.\nUniversity of Basel, Max Planck Institute for Human Development\nCognitive Psychology\nI am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.\n\n\nM.S.\nOhio University\nQuantitative Psychology\nI loved teaching introductory statistics and seeing the light in students’ eyes when ‘it clicked’\n\n\nB.A.\nGrinnell College\nMathematics\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
-    "section": "Education",
-    "text": "Education\n\n\n\nDegree\nInstitution\nFocus\nNote\n\n\n\n\nB.A.\nGrinnell College\nMathematics\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place\n\n\nM.S.\nOhio University\nQuantitative Psychology\n\n\n\nPh.D.\nUniversity of Basel\nCognitive Psychology"
+    "section": "",
+    "text": "Degree\nInstitution\nFocus\nNote\n\n\n\n\nPh.D.\nUniversity of Basel, Max Planck Institute for Human Development\nCognitive Psychology\nI am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.\n\n\nM.S.\nOhio University\nQuantitative Psychology\nI loved teaching introductory statistics and seeing the light in students’ eyes when ‘it clicked’\n\n\nB.A.\nGrinnell College\nMathematics\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place"
   },
   {
     "objectID": "about.html#work-experience",
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes"
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff"
   },
   {
     "objectID": "about.html#presentations-and-videos",
@@ -54,55 +96,6 @@
     "title": "About",
     "section": "Open Source Projects",
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\n\nTitle\nDescription\nStatus\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nActive\n\n\nyarrr\nA package for creating pirate plots in R\nActive"
-  },
-  {
-    "objectID": "posts/the_prisoners.html",
-    "href": "posts/the_prisoners.html",
-    "title": "Prisoners",
-    "section": "",
-    "text": "Sometime in early 2024, someone shared a YouTube video with me titled “The Riddle that Seems Impossible Even if You Know the Answer” from the channel Veritasium.\nI probably watched that video 10 times in a row. That week, I told everyone I met about the riddle."
-  },
-  {
-    "objectID": "posts/the_prisoners.html#r-code",
-    "href": "posts/the_prisoners.html#r-code",
-    "title": "Prisoners",
-    "section": "R Code",
-    "text": "R Code\n\nPackages Used\n\n\n\nPackage\nDescription\n\n\n\n\nprogress\nProgress bars\n\n\npurrr\nFunctional programming\n\n\ndplyr\nData manipulation\n\n\n\n\n\nFunctions\nHere are the functions we’ll create\n\n\n\n\n\n\n\nFunction\nDescription\n\n\n\n\nsimulate_game()\nSimulate the prisoners and boxes game multiple times for a given number of prisoners and return aggregate results\n\n\nsimulate_team()\nSimulate the result of a team of prisoner_n prisoners playing the game\n\n\nsimulate_prisoner()\nSimulate the result oof a single prisoner\n\n\ncreate_room()\nCreate a room of boxes with tickets\n\n\n\n\n\nCode\n#' Simulate the Prisoners and Boxes\n#'\n#' @param prisoners_n integer. The number of prisoners\n#' @param times integer. The number of times to run the simulation\n\n#' @return tibble. A tibble with the following columns:\n#'  - is_team_successs: logical. Whether all prisoners were successful\n#'  - boxes_opened_n_max: integer. The maximum number of boxes opened by a prisoner\nsimulate_game &lt;- function(prisoners_n = 100,\n                          times = 100) {\n  # Set up a progress bar\n  pb &lt;- progress::progress_bar$new(\n    format = \"  :current/:total [:bar] :percent eta: :eta\",\n    total = times,\n    clear = FALSE\n  )\n\n  out_ls &lt;- purrr::map(\n    1:times,\n    \\(x) {\n      pb$tick()\n      simulate_team(prisoners_n = prisoners_n)\n    }\n  )\n\n  out &lt;- purrr::map_dfr(\n    out_ls,\n    \\(x) {\n      tibble::tibble(\n        is_team_successs = x$is_team_successs,\n        boxes_opened_n_max = max(x$boxes_opened_n_vec)\n      )\n    }\n  )\n\n  out\n}\n\n#' Simulate the Prisoners and Boxes\n#'\n#' @param prisoners_n integer. The number of prisoners\n#'\n#' @return list. A list with the following elements:\n#'   - is_team_successs: logical. Whether all prisoners were successful\n#'   - boxes_opened_n_vec: integer vector. The number of boxes opened by each prisoner\n#'   - team_result_ls: list. The results of each prisoner's search\n#'\n#' @examples\nsimulate_team &lt;- function(prisoners_n = 100,\n                          pick_max = NULL) {\n  if (is.null(pick_max)) {\n    pick_max &lt;- floor(prisoners_n / 2)\n  }\n\n  room &lt;- create_room(prisoners_n = prisoners_n)\n\n  team_result_ls &lt;- purrr::map(\n    1:prisoners_n,\n    \\(prisoner_i) {\n      simulate_prisoner(\n        room = room,\n        prisoner_i = prisoner_i,\n        pick_max = pick_max\n      )\n    }\n  )\n\n  is_team_successs &lt;- all(purrr::map_lgl(\n    team_result_ls,\n    \\(x) x$is_success\n  ))\n\n  boxes_opened_n_vec &lt;- purrr::map_int(\n    team_result_ls,\n    \\(x) x$boxes_opened_n\n  )\n\n  out &lt;- list(\n    is_team_successs = is_team_successs,\n    boxes_opened_n_vec = boxes_opened_n_vec,\n    team_result_ls = team_result_ls\n  )\n\n  return(out)\n}\n\n#' Title\n#'\n#' @param room tbl. A tibble created by create_room()\n#' @param prisoner_i integer. The prisoner number\n#' @param pick_max integer. The maximum number of boxes to search\n#'\n#' @return  list\n#'\n#' @export\n#'\n#' @examples\nsimulate_prisoner &lt;- function(room = create_room(),\n                              prisoner_i = 1,\n                              pick_max = NULL) {\n  if (is.null(pick_max)) {\n    pick_max &lt;- floor(nrow(room) / 2)\n  }\n\n  pick_i &lt;- 1\n  ticket_v &lt;- room |&gt;\n    dplyr::filter(box == prisoner_i) |&gt;\n    dplyr::pull(ticket)\n\n  is_success_i &lt;- FALSE\n\n  if (ticket_v == prisoner_i) {\n    is_success_i &lt;- TRUE\n  }\n\n  while (length(ticket_v) &lt; pick_max && is_success_i == FALSE) {\n    pick_i &lt;- pick_i + 1\n\n    ticket_i &lt;- room |&gt;\n      dplyr::filter(box == ticket_v[pick_i - 1]) |&gt;\n      dplyr::pull(ticket)\n\n    ticket_v &lt;- c(ticket_v, ticket_i)\n\n    if (ticket_i == prisoner_i) {\n      is_success_i &lt;- TRUE\n    }\n  }\n\n  out &lt;- list(\n    prisoner = prisoner_i,\n    is_success = is_success_i,\n    ticket_v = ticket_v,\n    boxes_opened_n = length(ticket_v)\n  )\n\n  return(out)\n}\n\ncreate_room &lt;- function(prisoners_n = 100) {\n  tickets_v &lt;- sample(1:prisoners_n,\n    size = prisoners_n\n  )\n\n  room &lt;- tibble::tibble(\n    box = 1:prisoners_n,\n    ticket = tickets_v\n  )\n\n  room\n}"
-  },
-  {
-    "objectID": "posts/the_prisoners.html#results",
-    "href": "posts/the_prisoners.html#results",
-    "title": "Prisoners",
-    "section": "Results",
-    "text": "Results\nBelow I’ll run a simulation with 100 prisoners across 10 different rooms\n\n\nCode\nset.seed(123)\nresult_df &lt;- simulate_game(\n  prisoners_n = 100,\n  times = 200\n)"
-  },
-  {
-    "objectID": "posts/the_transition.html",
-    "href": "posts/the_transition.html",
-    "title": "The Transition",
-    "section": "",
-    "text": "asdfsad"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
-  },
-  {
-    "objectID": "posts/hello_world.html",
-    "href": "posts/hello_world.html",
-    "title": "The Hello World",
-    "section": "",
-    "text": "Hello World\nThis is a test post."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m Nathaniel D. Phillips, PhD",
-    "section": "",
-    "text": "I’m Nathaniel D. Phillips, PhD, I’m known for R Piratery, data science applications in healthcare, and decision making research.\nThis website is a place for me to jot down my professional and personal reflections, namely while I’m on an extended parental leave / sabbatical.\nCheck out my About, Resources, Blog, and Contact pages to learn more about me and my work.\n\n\n\n\n\n\nMy old website is archived\n\n\n\nThis is, as of 2024, my new website created using Quarto. You can find my old archived website here"
   },
   {
     "objectID": "resources.html",

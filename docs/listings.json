@@ -3,8 +3,7 @@
     "listing": "/blog.html",
     "items": [
       "/posts/the_transition.html",
-      "/posts/hello_world.html",
-      "/posts/the_prisoners.html"
+      "/posts/hello_world.html"
     ]
   }
 ]

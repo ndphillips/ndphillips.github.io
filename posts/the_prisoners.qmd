@@ -2,204 +2,89 @@
 author: "Nathaniel Phillips" 
 categories: [R, Simulation] 
 date: 2024-04-21
+draft: true
 format:
   html:
     toc: true
     toc-location: left
     code-fold: true
 description: "The Riddle that Seems Impossible Even If You Know the Answer" 
-title: "Prisoners" 
+title: "The Prisoner Riddle" 
 ---
+
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%", eval = FALSE,
+  fig.width = 7, fig.height = 7
+)
+```
 
 {{< video https://youtu.be/iSNsgj1OCLA?si=tYpBJ8sswvJUsXmP >}}
 
 Sometime in early 2024, someone shared a YouTube video with me titled "The Riddle that Seems Impossible Even if You Know the Answer" from the channel [Veritasium](https://www.youtube.com/@veritasium).
 
-I probably watched that video 10 times in a row. That week, I told *everyone* I met about the riddle.
+I probably watched that video 10 times in a row. The answer seemed so counter-intuitive. That week, I told *everyone* I met about the riddle.
 
-### The Riddle
+# Setup
 
-Here's the riddle:
+## The Riddle
 
-Imagine there are 100 prisoners, each with a distinct number from 1 to 100, and 100 boxes, each with a distinct number from 1 to 100. Each prisoner is assigned a box at random. The prisoners are allowed to open the boxes in any order they choose, but they must follow these rules:
+![](https://en.wikipedia.org/wiki/File:100_prisoners_problem_qtl1.svg)
 
-- Only one box can be open at a time.
-- The prisoners must close each box before opening the next one.
+Here's the riddle (see [https://en.wikipedia.org/wiki/100_prisoners_problem](https://en.wikipedia.org/wiki/100_prisoners_problem) for more details)
 
-## R Code
+> The director of a prison offers 100 death row prisoners, who are numbered from 1 to 100, a last chance. A room contains a cupboard with 100 drawers. The director randomly puts one prisoner's number in each closed drawer. The prisoners enter the room, one after another. Each prisoner may open and look into 50 drawers in any order. The drawers are closed again afterwards. If, during this search, every prisoner finds their number in one of the drawers, all prisoners are pardoned. If even one prisoner does not find their number, all prisoners die. Before the first prisoner enters the room, the prisoners may discuss strategy — but may not communicate once the first prisoner enters to look in the drawers. What is the prisoners' best strategy?
 
-#### Packages Used
+So what's the answer? See it below
 
-| Package | Description |
+::: {.callout-caution collapse="true" title="The Optimal Strategy"}
+
+1. Each prisoner first opens the drawer labeled with their own number.
+1. If this drawer contains their number, they are done and were successful.
+1. Otherwise, the drawer contains the number of another prisoner, and they next open the drawer labeled with this number.
+1. The prisoner repeats steps 2 and 3 until they find their own number, or fail because the number is not found in the first fifty opened drawers.
+:::
+
+I wanted to try simulating the optimal strategy in R.
+
+## Goals
+
+The goals of this project are as follows:
+
+1. Simulate the game using two different approaches.
+2. Compare the simulated performance of the optimal strategy to the mathematical solution.
+3. Create an animation showing the 
+
+## Simulation Methods
+
+| Method | Description |
 | --- | --- |
-| [progress](https://github.com/r-lib/progress) | Progress bars |
-| [purrr](https://purrr.tidyverse.org/) | Functional programming |
-| [dplyr](https://dplyr.tidyverse.org/) | Data manipulation |
+| Agent | Simulate the game using an agent-based approach |
+| Environmental | Simulate the game using an environmental classification approach |
 
-#### Functions
+# Method 1: Agent-Based Simulation
 
-Here are the functions we'll create
+* What is an agent based simulation? 
+* What are the pros and cons?
+* How will it work for this problem?
+
+## Functions
+
+```{r}
+library(prisonersriddle)
+```
+
+
+Here are the functions we'll create. 
 
 | Function | Description |
 | --- | --- |
-| `simulate_game()` | Simulate the prisoners and boxes game multiple times for a given number of prisoners and return aggregate results|
-| `simulate_team()` | Simulate the result of a team of `prisoner_n` prisoners playing the game|
-| `simulate_prisoner()` | Simulate the result oof a single prisoner|
 |`create_room()` | Create a room of boxes with tickets|
-
-```{r}
-#' Simulate the Prisoners and Boxes
-#'
-#' @param prisoners_n integer. The number of prisoners
-#' @param times integer. The number of times to run the simulation
-
-#' @return tibble. A tibble with the following columns:
-#'  - is_team_successs: logical. Whether all prisoners were successful
-#'  - boxes_opened_n_max: integer. The maximum number of boxes opened by a prisoner
-simulate_game <- function(prisoners_n = 100,
-                          times = 100) {
-  # Set up a progress bar
-  pb <- progress::progress_bar$new(
-    format = "  :current/:total [:bar] :percent eta: :eta",
-    total = times,
-    clear = FALSE
-  )
-
-  out_ls <- purrr::map(
-    1:times,
-    \(x) {
-      pb$tick()
-      simulate_team(prisoners_n = prisoners_n)
-    }
-  )
-
-  out <- purrr::map_dfr(
-    out_ls,
-    \(x) {
-      tibble::tibble(
-        is_team_successs = x$is_team_successs,
-        boxes_opened_n_max = max(x$boxes_opened_n_vec)
-      )
-    }
-  )
-
-  out
-}
-
-#' Simulate the Prisoners and Boxes
-#'
-#' @param prisoners_n integer. The number of prisoners
-#'
-#' @return list. A list with the following elements:
-#'   - is_team_successs: logical. Whether all prisoners were successful
-#'   - boxes_opened_n_vec: integer vector. The number of boxes opened by each prisoner
-#'   - team_result_ls: list. The results of each prisoner's search
-#'
-#' @examples
-simulate_team <- function(prisoners_n = 100,
-                          pick_max = NULL) {
-  if (is.null(pick_max)) {
-    pick_max <- floor(prisoners_n / 2)
-  }
-
-  room <- create_room(prisoners_n = prisoners_n)
-
-  team_result_ls <- purrr::map(
-    1:prisoners_n,
-    \(prisoner_i) {
-      simulate_prisoner(
-        room = room,
-        prisoner_i = prisoner_i,
-        pick_max = pick_max
-      )
-    }
-  )
-
-  is_team_successs <- all(purrr::map_lgl(
-    team_result_ls,
-    \(x) x$is_success
-  ))
-
-  boxes_opened_n_vec <- purrr::map_int(
-    team_result_ls,
-    \(x) x$boxes_opened_n
-  )
-
-  out <- list(
-    is_team_successs = is_team_successs,
-    boxes_opened_n_vec = boxes_opened_n_vec,
-    team_result_ls = team_result_ls
-  )
-
-  return(out)
-}
-
-#' Title
-#'
-#' @param room tbl. A tibble created by create_room()
-#' @param prisoner_i integer. The prisoner number
-#' @param pick_max integer. The maximum number of boxes to search
-#'
-#' @return  list
-#'
-#' @export
-#'
-#' @examples
-simulate_prisoner <- function(room = create_room(),
-                              prisoner_i = 1,
-                              pick_max = NULL) {
-  if (is.null(pick_max)) {
-    pick_max <- floor(nrow(room) / 2)
-  }
-
-  pick_i <- 1
-  ticket_v <- room |>
-    dplyr::filter(box == prisoner_i) |>
-    dplyr::pull(ticket)
-
-  is_success_i <- FALSE
-
-  if (ticket_v == prisoner_i) {
-    is_success_i <- TRUE
-  }
-
-  while (length(ticket_v) < pick_max && is_success_i == FALSE) {
-    pick_i <- pick_i + 1
-
-    ticket_i <- room |>
-      dplyr::filter(box == ticket_v[pick_i - 1]) |>
-      dplyr::pull(ticket)
-
-    ticket_v <- c(ticket_v, ticket_i)
-
-    if (ticket_i == prisoner_i) {
-      is_success_i <- TRUE
-    }
-  }
-
-  out <- list(
-    prisoner = prisoner_i,
-    is_success = is_success_i,
-    ticket_v = ticket_v,
-    boxes_opened_n = length(ticket_v)
-  )
-
-  return(out)
-}
-
-create_room <- function(prisoners_n = 100) {
-  tickets_v <- sample(1:prisoners_n,
-    size = prisoners_n
-  )
-
-  room <- tibble::tibble(
-    box = 1:prisoners_n,
-    ticket = tickets_v
-  )
-
-  room
-}
-```
+| `simulate_game_agent()` | Simulate the prisoners and boxes game across multiple groups of prisoners and return aggregate results|
 
 ## Results
 
@@ -207,12 +92,89 @@ Below I'll run a simulation with 100 prisoners across 10 different rooms
 
 ```{r}
 set.seed(123)
-result_df <- simulate_game(
+result_agent <- simulate_prisoner_game(
   prisoners_n = 100,
-  times = 200
+  teams_n = 10,
+  method = "agent"
 )
 ```
 
-# Next Steps
+Let's look at the results:
+
+```{r}
+result_agent$summaries$p_success
+
+hist(result_agent$outcomes$boxes_opened_n_max)
+
+result_agent$processing$sim_duration
+```
+
+## Conclusions
+
+* What did we find?
+    * Answers
+    * Processing times
+    * etc.
+
+# Method 2: Environment Classification
+
+* What is an environment classification approach?
+* What are the pros and cons?
+* How will it work for this problem?
+
+## Functions
+
+Here are the functions we'll create. 
+
+| Function | Verb | Description |
+| --- | --- |
+|`simulate_game_loops()` | `simulate_game_*()` | Simulate the prisoners and boxes game across multiple groups of prisoners and return aggregate results|
+| `add_loops()` | `add_*()`| Add loop classifications to a room object |
+| `set_box_loop_and_index()`| `set_*()`| Set the box, loop, and index for a room object |
+| `get_last_ticket()`, `get_last_index_in_loop()`, `get_start_box_in_loop()`, `get_current_loop()`| `get*()`| Various helper functions to get information from a room object |
+| `assert_valid_room()` | `assert_*()`| Assert that a room object is valid |
+
+## Results
+
+```{r}
+set.seed(123)
+result_environment <- simulate_prisoner_game(
+  prisoners_n = 100,
+  teams_n = 10,
+  method = "environment"
+)
+```
+
+Let's look at the results:
+
+```{r}
+mean(result_environment$team_tbl$is_success)
+
+hist(result_environment$team_tbl$boxes_opened_n_max)
+
+result_environment$processing$sim_duration
+```
+
+# Comparison
+
+
+# Conclusions
+
+* What did we find?
+    * Answers
+    * Processing times
+    * etc.
+
+# Wrap-Up
 
 - Create a `plot_simulation()` function to vizualize the results
+
+# Next Steps
+
+# Appendix
+
+## Session Info
+
+```{r}
+sessionInfo()
+```
