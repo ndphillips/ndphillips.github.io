@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The Transition\n\n\n\n\n\n\n\nR\n\n\n\n\nA period of transition\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nThe Hello World\n\n\n\n\n\n\n\nR\n\n\n\n\nHello World\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
+  },
+  {
+    "objectID": "about.html#principles",
+    "href": "about.html#principles",
+    "title": "About",
+    "section": "",
+    "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. Nothing frustrates me more than unnecessary complexity - especially if its intentional.\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Real world decision making always involves constraints - wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\nDegree\nInstitution\nFocus\nNote\n\n\n\n\nB.A.\nGrinnell College\nMathematics\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place\n\n\nM.S.\nOhio University\nQuantitative Psychology\n\n\n\nPh.D.\nUniversity of Basel\nCognitive Psychology"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About",
+    "section": "Work Experience",
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes"
+  },
+  {
+    "objectID": "about.html#presentations-and-videos",
+    "href": "about.html#presentations-and-videos",
+    "title": "About",
+    "section": "Presentations and Videos",
+    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\n\n\nTitle\nVenue\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)\n\n\nUsing R to Derive Robust Insights from Real-World Health Care Data\nR/Pharma (2022)\n\n\nTStat R Lecture #7: Loops in R\nIntroduction to R Programming course at the University of Konstanz (see all course videos here)"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About",
+    "section": "Publications",
+    "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\n\n\nTitle\nAuthors\nJournal\nNote\n\n\n\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nPhillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W.\nJudgment and Decision Making\n\n\n\nRivals in the dark: How competition influences search in decisions under uncertainty\nND Phillips, R Hertwig, Y Kareev, J Avrahami\nCognition"
+  },
+  {
+    "objectID": "about.html#open-source-projects",
+    "href": "about.html#open-source-projects",
+    "title": "About",
+    "section": "Open Source Projects",
+    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\n\nTitle\nDescription\nStatus\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nActive\n\n\nyarrr\nA package for creating pirate plots in R\nActive"
+  },
+  {
+    "objectID": "posts/the_transition.html",
+    "href": "posts/the_transition.html",
+    "title": "The Transition",
+    "section": "",
+    "text": "asdfsad"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+  },
+  {
+    "objectID": "posts/hello_world.html",
+    "href": "posts/hello_world.html",
+    "title": "The Hello World",
+    "section": "",
+    "text": "Hello World\nThis is a test post."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome colleagues, friends and fellow travelers",
+    "section": "",
+    "text": "I’m Nathaniel D. Phillips, PhD. I’m known for R Piratery, data science applications in healthcare, and decision making research. If that sounds interesting to you, you’re in the right place.\nCheck out my About, Resources, and Contact pages to learn more about me and my work.\n\n\n\n\n\n\nMy old website is archived\n\n\n\nThis is, as of 2024, my new website created using Quarto. You can find my old archived website here"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here are some of my favorite resources - a mixture of books, tutorials, blogs, podcasts and YouTube, and software."
+  },
+  {
+    "objectID": "resources.html#books",
+    "href": "resources.html#books",
+    "title": "Resources",
+    "section": "Books",
+    "text": "Books\nHere are some of my favorite books\n\n\n\nTitle\nAuthor\nNote\n\n\n\n\nThe Design of Everyday Things\nDonald A. Norman\nAs applicable to programming as it is to the design of toilets\n\n\nThe First 90 Days\nMichael D. Watkins\nA great resource for anyone starting a new job - recommended by Lura Long\n\n\nThe Checklist Manifesto\nAtul Gawande\nGawande is one of my favorite writers at the intersection of science and medicine.\n\n\nHow big things get done\nBent Flyvbjerg, Dan Gardner\nShould be required reading for anyone working on projects with teams - recommended by Nicole Mirea\n\n\nR for Data Science\nHadley Wickham, Garrett Grolemund\nA great resource for learning R\n\n\nWriting R Packages\nHadley Wickham\nThe bible of R package development\n\n\nIt\nStephen King\nI just wish they would print it in two separate volumes"
+  },
+  {
+    "objectID": "resources.html#tutorials",
+    "href": "resources.html#tutorials",
+    "title": "Resources",
+    "section": "Tutorials",
+    "text": "Tutorials\nHere are some of my favorite online tutorials and guides\n\n\n\nTitle\nAuthor\nNotes\n\n\n\n\nSurvival Analysis in R\nEmily Zabor\nA great introduction to survival analysis in R (by a fellow Grinnellian!)"
+  },
+  {
+    "objectID": "resources.html#blogs",
+    "href": "resources.html#blogs",
+    "title": "Resources",
+    "section": "Blogs",
+    "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\n\n\nTitle\nNotes\n\n\n\n\n\nRStudio Blog\nThe RStudio blog is a great resource for learning about new features in RStudio and R\n\n\n\nDanielle Navarro\nDanielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining her for a Postdoc in Sydney. I often wonder how my life would have turn out differently if I had\n\n\n\nEmily Riederer\nEmily Riederer is a leading voice in modern data science"
+  },
+  {
+    "objectID": "resources.html#podcasts-and-youtube",
+    "href": "resources.html#podcasts-and-youtube",
+    "title": "Resources",
+    "section": "Podcasts and YouTube",
+    "text": "Podcasts and YouTube\nHere are some of my favorite podcasts and YouTube channels\n\n\n\nTitle\nFavorite Episodes\n\n\n\n\nCautionary Tales by Tim Harford\nWrong Tools Cost Lives"
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "Software",
+    "text": "Software\nHere are some of my favorite software tools\n\n\n\nTool\nNotes\n\n\n\n\nNotion\nI use Notion for project management and note-taking\n\n\nRStudio\nI use RStudio for all of my R programming\n\n\nGitHub Copilot\nI use GitHub Copilot to help me write code"
+  }
+]
