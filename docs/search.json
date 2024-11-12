@@ -30,9 +30,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome colleagues, friends and fellow travelers",
+    "title": "Hello there",
     "section": "",
-    "text": "I’m Nathaniel D. Phillips, PhD. I’m known for R Piratery, data science applications in healthcare, and decision making research. If that sounds interesting to you, you’re in the right place.\nCheck out my About, Resources, and Contact pages to learn more about me and my work.\n\n\n\n\n\n\nMy old website is archived\n\n\n\nThis is, as of 2024, my new website created using Quarto. You can find my old archived website here"
+    "text": "I’m Nathaniel D. Phillips, PhD. I’m known for Healthcare Data Science, R Piratery, and Decision Making Research.\nCheck out my About, Resources, and Contact pages to learn more about me and my work."
+  },
+  {
+    "objectID": "index.html#am-i-open-to-work",
+    "href": "index.html#am-i-open-to-work",
+    "title": "Hello there",
+    "section": "Am I Open To Work?",
+    "text": "Am I Open To Work?\n\n\n\n\n\n\nQ4 2024: Yes!\n\n\n\nI am available for new opportunities to improve lives through data science at a value and purpose driven organization. Reach out to me at nathaniel.d.phillips.is@gmail.com to discuss!"
   },
   {
     "objectID": "posts/hello_world.html",
@@ -60,42 +67,42 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Degree\nInstitution\nFocus\nNote\n\n\n\n\nPh.D.\nUniversity of Basel, Max Planck Institute for Human Development\nCognitive Psychology\nI am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.\n\n\nM.S.\nOhio University\nQuantitative Psychology\nI loved teaching introductory statistics and seeing the light in students’ eyes when ‘it clicked’\n\n\nB.A.\nGrinnell College\nMathematics\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place"
+    "text": "This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
-    "section": "",
-    "text": "Degree\nInstitution\nFocus\nNote\n\n\n\n\nPh.D.\nUniversity of Basel, Max Planck Institute for Human Development\nCognitive Psychology\nI am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.\n\n\nM.S.\nOhio University\nQuantitative Psychology\nI loved teaching introductory statistics and seeing the light in students’ eyes when ‘it clicked’\n\n\nB.A.\nGrinnell College\nMathematics\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place"
+    "section": "Education",
+    "text": "Education\n\nPh.D, Cognitive Psychology, University of Basel, Max Planck Institute for Human Development\n\nI am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.\n\nM.S, Quantitative Psychology, Ohio University\n\nI loved teaching introductory statistics and seeing the light in students’ eyes when ‘it clicked’\n\nB.A, Mathematics, Grinnell College\n\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place"
   },
   {
     "objectID": "about.html#work-experience",
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\n\nPosition\nInstitution\nNote\n\n\n\n\nCTO, Co-Founder\nPlinth Analytics\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes\n\n\nQuantitative Scientist\nFlatiron Health\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.\n\n\nReal World Data Scientist\nRoche\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\n\nPostdoctoral Researcher\nUniversity of Basel\n\n\n\nPostdoctoral Researcher\nUniversity of Konstanz\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\n\nPre-Doctoral Researcher\nMax Planck Institute for Human Development\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff"
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
   },
   {
     "objectID": "about.html#presentations-and-videos",
     "href": "about.html#presentations-and-videos",
     "title": "About",
     "section": "Presentations and Videos",
-    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\n\n\nTitle\nVenue\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse\nRStudio Conf (2019)\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees\nuseR! (2017)\n\n\nUsing R to Derive Robust Insights from Real-World Health Care Data\nR/Pharma (2022)\n\n\nTStat R Lecture #7: Loops in R\nIntroduction to R Programming course at the University of Konstanz (see all course videos here)"
+    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse| RStudio Conf (2019)|\nFFTrees: An R package to create, visualise and use fast and frugal decision trees useR! (2017)|\nUsing R to Derive Robust Insights from Real-World Health Care Data | R/Pharma (2022) |\nTStat R Lecture #7: Loops in R | Introduction to R Programming course at the University of Konstanz (see all course videos here)|"
   },
   {
     "objectID": "about.html#publications",
     "href": "about.html#publications",
     "title": "About",
     "section": "Publications",
-    "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\n\n\nTitle\nAuthors\nJournal\nNote\n\n\n\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nPhillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W.\nJudgment and Decision Making\n\n\n\nRivals in the dark: How competition influences search in decisions under uncertainty\nND Phillips, R Hertwig, Y Kareev, J Avrahami\nCognition"
+    "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees, Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W., Judgment and Decision Making\nRivals in the dark: How competition influences search in decisions under uncertainty | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |"
   },
   {
     "objectID": "about.html#open-source-projects",
     "href": "about.html#open-source-projects",
     "title": "About",
     "section": "Open Source Projects",
-    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\n\n\nTitle\nDescription\nStatus\n\n\n\n\nFFTrees\nA toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nActive\n\n\nyarrr\nA package for creating pirate plots in R\nActive"
+    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
     "objectID": "resources.html",

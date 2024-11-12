@@ -2,26 +2,32 @@
 title: "About"
 ---
 
+This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:
+
 ## Education
 
-| Degree | Institution | Focus | Note |
-|--------|-------------|------|------|
-| Ph.D.  | [University of Basel](https://www.unibas.ch), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)| Cognitive Psychology | I am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.|
-| M.S.   | [Ohio University](https://www.ohio.edu) | Quantitative Psychology | I loved teaching introductory statistics and seeing the light in students' eyes when 'it clicked'|
-| B.A.   | [Grinnell College](https://www.grinnell.edu)  | Mathematics | Studying mathematics has always been one of my greatest pleasures. Grinnell's [Burling Library](https://www.grinnell.edu/spaces/burling-library) was my happy place|
+- Ph.D, Cognitive Psychology, [University of Basel](https://www.unibas.ch), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)
+    - I am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.
+- M.S,  Quantitative Psychology, [Ohio University](https://www.ohio.edu)
+    - I loved teaching introductory statistics and seeing the light in students' eyes when 'it clicked'
+- B.A, Mathematics, [Grinnell College](https://www.grinnell.edu)
+    - Studying mathematics has always been one of my greatest pleasures. Grinnell's [Burling Library](https://www.grinnell.edu/spaces/burling-library) was my happy place
 
 ## Work Experience
 
 Here is a selection of my work experience. See my [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) page for a more detailed history.
 
-| Position | Institution | Note |
-|----------|-------------|------|
-| CTO, Co-Founder | [Plinth Analytics](https://www.plinth.co) | The thrill of a lifetime with my co-founder and friend  [Kieran Mace](https://www.linkedin.com/in/kieranmace/), along with  rockstar data scientists [Nicole Mirea](https://www.linkedin.com/in/nimirea/), [Parker Barnes](https://www.linkedin.com/in/parker-barnes/) |
-| Quantitative Scientist | [Flatiron Health](https://www.flatiron.com) | Best culture and teams I've ever been a part of. Grateful to people like [Olivier Humblet](https://www.linkedin.com/in/ohumblet/), [Caleb Jordan](https://www.linkedin.com/in/caleb-jordan-92797565/), [Daniel Obeng](https://www.linkedin.com/in/daniel-obeng-8a0b932/), [Conal Scanlon](https://www.linkedin.com/in/conalscanlon/), [John Zielinksi](https://www.linkedin.com/in/john-zielinski/) (and so many more) for teaching and supporting me during my time there.|
-| Real World Data Scientist | [Roche](https://www.roche.com) | Where I learned how real world science is done by teams and what a great manager looks like (thank you [Robert Walls](https://www.linkedin.com/in/robert-walls-4406731/))|
-| Postdoctoral Researcher | [University of Basel](https://www.unibas.ch) | |
-| Postdoctoral Researcher | [University of Konstanz](https://www.uni-konstanz.de/en/) | Developing [FFTrees](https://github.com/ndphillips/FFTrees) with [Hansjoerg Neth](https://www.spds.uni-konstanz.de/en/hans-neth) and [Wolfgang Gaissmaier](https://www.spds.uni-konstanz.de/en/node/1240) was a turning point for the rest of my career|
-| Pre-Doctoral Researcher | [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) | Paradise for decision-making research thanks to [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer), [Ralph Hertwig](https://www.mpib-berlin.mpg.de/staff/ralph-hertwig) and where I discovered a love of R with my fellow PhD student [Dirk Wulff](https://www.linkedin.com/in/dirk-wulff-723a7772/)|
+1. CTO, Co-Founder, [Plinth Analytics](https://www.plinth.co)
+    - The thrill of a lifetime with my co-founder and friend  [Kieran Mace](https://www.linkedin.com/in/kieranmace/), along with  rockstar data scientists [Nicole Mirea](https://www.linkedin.com/in/nimirea/), [Parker Barnes](https://www.linkedin.com/in/parker-barnes/) |
+1. Quantitative Scientist, [Flatiron Health](https://www.flatiron.com)
+    - Best culture and teams I've ever been a part of. Grateful to people like [Olivier Humblet](https://www.linkedin.com/in/ohumblet/), [Caleb Jordan](https://www.linkedin.com/in/caleb-jordan-92797565/), [Daniel Obeng](https://www.linkedin.com/in/daniel-obeng-8a0b932/), [Conal Scanlon](https://www.linkedin.com/in/conalscanlon/), [John Zielinksi](https://www.linkedin.com/in/john-zielinski/) (and so many more) for teaching and supporting me during my time there.|
+1. Real World Data Scientist, [Roche](https://www.roche.com)
+    - Where I learned how real world science is done by teams and what a great manager looks like (thank you [Robert Walls](https://www.linkedin.com/in/robert-walls-4406731/))
+1. Postdoctoral Researcher, [University of Basel](https://www.unibas.ch)
+1. Postdoctoral Researcher, [University of Konstanz](https://www.uni-konstanz.de/en/)
+    - Developing [FFTrees](https://github.com/ndphillips/FFTrees) with [Hansjoerg Neth](https://www.spds.uni-konstanz.de/en/hans-neth) and [Wolfgang Gaissmaier](https://www.spds.uni-konstanz.de/en/node/1240) was a turning point for the rest of my career
+1. Pre-Doctoral Researcher, [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)
+    - Paradise for decision-making research thanks to [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer), [Ralph Hertwig](https://www.mpib-berlin.mpg.de/staff/ralph-hertwig) and where I discovered a love of R with my fellow PhD student [Dirk Wulff](https://www.linkedin.com/in/dirk-wulff-723a7772/)|
 
 ## Presentations and Videos
 
@@ -29,21 +35,19 @@ Here are some presentations and recordings of me speaking at various conferences
 
 <p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"><img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"></a></p>
 
-| Title | Venue |
-|-------|------------|
-| [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/)| RStudio Conf (2019)|
-| [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees) | useR! (2017)|
-| [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma) | [R/Pharma](https://rinpharma.com/) (2022) |
-| [TStat R Lecture #7: Loops in R](https://youtu.be/p7bJjOJoXLI) | Introduction to R Programming course at the University of Konstanz (see all course videos [here](https://www.youtube.com/playlist?list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU))|
+
+- [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/)| RStudio Conf (2019)|
+- [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees)  useR! (2017)|
+- [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma) | [R/Pharma](https://rinpharma.com/) (2022) |
+- [TStat R Lecture #7: Loops in R](https://youtu.be/p7bJjOJoXLI) | Introduction to R Programming course at the University of Konstanz (see all course videos [here](https://www.youtube.com/playlist?list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU))|
 
 ## Publications
 
 Here are the two publications I'm most proud of, see all of them at [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en)
 
-| Title | Authors | Journal | Note |
-|-------|---------|---------|------|
-| [FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:9vf0nzSNQJEC) | Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W. | Judgment and Decision Making | |
-| [Rivals in the dark: How competition influences search in decisions under uncertainty](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:2osOgNQ5qMEC) | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |
+
+- [FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:9vf0nzSNQJEC), Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W., Judgment and Decision Making
+- [Rivals in the dark: How competition influences search in decisions under uncertainty](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThWbpDQAAAAJ&citation_for_view=ThWbpDQAAAAJ:2osOgNQ5qMEC) | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |
 
 ## Open Source Projects
 
@@ -51,7 +55,5 @@ Most of my projects are proprietary, but here are some open source projects that
 
 ![](https://github.com/ndphillips/FFTrees/raw/master/man/figures/README-example-heart-plot-1.png)
 
-| Title | Description | Status | 
-|-------|-------------|------|
-| [FFTrees](https://github.com/ndphillips/FFTrees) | A toolbox to create, visualize, and evaluate fast-and-frugal decision trees | Active|
-| [yarrr](https://github.com/ndphillips/yarrr) | A package for creating pirate plots in R | Active |
+- [FFTrees](https://github.com/ndphillips/FFTrees), A toolbox to create, visualize, and evaluate fast-and-frugal decision trees 
+- [yarrr](https://github.com/ndphillips/yarrr), A package for creating pirate plots in R

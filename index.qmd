@@ -1,15 +1,20 @@
 ---
-title: "Welcome colleagues, friends and fellow travelers"
+title: "Hello there"
 ---
 
-I'm Nathaniel D. Phillips, PhD. I'm known for [R Piratery](www.bookdown.org/ndphillips/yarrr), [data science applications in healthcare](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), and [decision making research](https://github.com/ndphillips/FFTrees). If that sounds interesting to you, you're in the right place.
+I'm Nathaniel D. Phillips, PhD. I'm known for [ Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [R Piratery](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
 
 Check out my [About](about.qmd), [Resources](resources.qmd), and [Contact](contact.qmd) pages to learn more about me and my work.
 
-::: {.callout-note title="My old website is archived"}
-This is, as of 2024, my new website created using [Quarto](https://quarto.org/docs/websites/). You can find my old archived website  [here](https://ndphillips.github.io/old_ndphillips.github.io/)
+## Am I Open To Work?
+
+:::{.callout-tip title="Q4 2024: Yes!"}
+
+I am available for new opportunities to improve lives through data science at a value and purpose driven organization. Reach out to me at nathaniel.d.phillips.is@gmail.com to discuss!
+
 :::
 
 
-
-
+<!-- ::: {.callout-note title="My old website is archived"} -->
+<!-- This is, as of 2024, my new website created using [Quarto](https://quarto.org/docs/websites/). You can find my old archived website  [here](https://ndphillips.github.io/old_ndphillips.github.io/) -->
+<!-- ::: -->
