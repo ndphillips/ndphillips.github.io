@@ -21,13 +21,6 @@
     "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. I loathe unnecessary complexity,\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
   },
   {
-    "objectID": "personal.html#tools",
-    "href": "personal.html#tools",
-    "title": "About",
-    "section": "Tools",
-    "text": "Tools\nHere are some of my favorite productivity tools\n\n\n\nTool\nDescription\n\n\n\n\nNotion\nI use Notion for everything from project management to personal notes\n\n\nRStudio\nMy favorite IDE for data science development\n\n\nQuarto\nThe successor to my beloved RMarkdown which powers just about every document I create (including this website)"
-  },
-  {
     "objectID": "personal.html#rolling-list-of-interests",
     "href": "personal.html#rolling-list-of-interests",
     "title": "About",
@@ -130,7 +123,7 @@
     "href": "resources.html#blogs",
     "title": "Resources",
     "section": "Blogs",
-    "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\n\n\nTitle\nNotes\n\n\n\n\n\nRStudio Blog\nThe RStudio blog is a great resource for learning about new features in RStudio and R\n\n\n\nDanielle Navarro\nDanielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining her for a Postdoc in Sydney. I often wonder how my life would have turn out differently if I had\n\n\n\nEmily Riederer\nEmily Riederer is a leading voice in modern data science"
+    "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\n\n\nTitle\nNotes\n\n\n\n\n\nRStudio Blog\nThe RStudio blog is a great resource for learning about new features in RStudio and R.\n\n\n\nDanielle Navarro\nDanielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining Danielle for a Postdoc in Sydney back in 2016.\n\n\n\nEmily Riederer\nEmily Riederer is a leading voice in modern data science"
   },
   {
     "objectID": "resources.html#podcasts-and-youtube",
@@ -144,6 +137,6 @@
     "href": "resources.html#software",
     "title": "Resources",
     "section": "Software",
-    "text": "Software\nHere are some of my favorite software tools\n\n\n\nTool\nNotes\n\n\n\n\nNotion\nI use Notion for project management and note-taking\n\n\nRStudio\nI use RStudio for all of my R programming\n\n\nGitHub Copilot\nI use GitHub Copilot to help me write code"
+    "text": "Software\nHere are some of my favorite software tools\n\n\n\nTool\nNotes\n\n\n\n\nNotion\nI use Notion for everything from project management to personal notes\n\n\nRStudio\nMy favorite IDE for data science development\n\n\nGitHub Copilot\nYeah it’s pretty awesome.\n\n\nQuarto\nThe successor to my beloved RMarkdown which powers just about every document I create (including this website)"
   }
 ]

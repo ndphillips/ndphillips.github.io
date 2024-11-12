@@ -32,8 +32,8 @@ Here are some blogs I like by companies and people I admire
 
 | Title  | Notes
 | --- | --- | -- |
-| [RStudio Blog](https://blog.rstudio.com/) | The RStudio blog is a great resource for learning about new features in RStudio and R |
-| [Danielle Navarro](https://blog.djnavarro.net/) | Danielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining her for a Postdoc in Sydney. I often wonder how my life would have turn out differently if I had |
+| [RStudio Blog](https://blog.rstudio.com/) | The RStudio blog is a great resource for learning about new features in RStudio and R. |
+| [Danielle Navarro](https://blog.djnavarro.net/) | Danielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining Danielle for a Postdoc in Sydney back in 2016.|
 | [Emily Riederer](https://www.emilyriederer.com/) | Emily Riederer is a leading voice in modern data science|
 
 ## Podcasts and YouTube
@@ -51,6 +51,7 @@ Here are some of my favorite software tools
 
 | Tool | Notes | 
 |----- | ------ |
-| [Notion](https://www.notion.so/) | I use Notion for project management and note-taking |
-| [RStudio](https://www.rstudio.com/) | I use RStudio for all of my R programming |
-| [GitHub Copilot](https://copilot.github.com/) | I use GitHub Copilot to help me write code |
+| [Notion](www.notion.so) | I use Notion for everything from project management to personal notes |
+| [RStudio](https://posit.co/downloads/) | My favorite IDE for data science development|
+| [GitHub Copilot](https://copilot.github.com/) | Yeah it's pretty awesome.|
+| [Quarto](https://quarto.org/) | The successor to my beloved RMarkdown which powers just about every document I create (including this website) |

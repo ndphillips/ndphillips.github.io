@@ -12,16 +12,6 @@ Here are my core principles which guide my work and life:
 4. Resourceful. Wasted resources here could have been used elsewhere.
 5. Humble. I've been wrong before, and I'll be wrong again.
 
-## Tools
-
-Here are some of my favorite productivity tools
-
-| Tool | Description |
-|------|-------------|
-| [Notion](www.notion.so) | I use Notion for everything from project management to personal notes |
-| [RStudio](https://posit.co/downloads/) | My favorite IDE for data science development|
-| [Quarto](https://quarto.org/) | The successor to my beloved RMarkdown which powers just about every document I create (including this website) |
-
 ## Rolling list of interests
 
 * [Nov 2024] I'm pretty into anything cyberpunk / synthwave these days. Especially [Gunship](https://www.youtube.com/watch?v=-nC5TBv3sfU&ab_channel=GUNSHIPMUSIC). For that reason I updated this site to use the "Cyberpunk aesthetic" [vapor](https://bootswatch.com/vapor/) theme. I'm sure I'll change it to something more basic when the novelty wears off.
