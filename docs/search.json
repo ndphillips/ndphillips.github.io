@@ -28,41 +28,6 @@
     "text": "Rolling list of interests\n\n[Nov 2024] I’m pretty into anything cyberpunk / synthwave these days. Especially Gunship. For that reason I updated this site to use the “Cyberpunk aesthetic” vapor theme. I’m sure I’ll change it to something more basic when the novelty wears off.\n\n[Nov 12, 2024] It wore off."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "",
-    "text": "I am a Data Scientist with a PhD in Cognitive Psychology who loves helping people solve challenging problems and communicate them to technical and non-technical stakeholders.\nI have experience across academia and industry building products and teams that generate insights from messy data. I’m particularly known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
-  },
-  {
-    "objectID": "index.html#am-i-open-to-work-yes",
-    "href": "index.html#am-i-open-to-work-yes",
-    "title": "I’m Nathaniel D. Phillips, PhD",
-    "section": "Am I Open To Work? Yes!",
-    "text": "Am I Open To Work? Yes!\n\n\n\n\n\n\nQ4 2024: Yes!\n\n\n\nI am available for new opportunities to improve lives through data science at a value and purpose driven organization. Reach out to me at nathaniel.d.phillips.is@gmail.com to discuss!"
-  },
-  {
-    "objectID": "posts/hello_world.html",
-    "href": "posts/hello_world.html",
-    "title": "The Hello World",
-    "section": "",
-    "text": "Hello World\nThis is a test post."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
-  },
-  {
-    "objectID": "posts/the_transition.html",
-    "href": "posts/the_transition.html",
-    "title": "The Transition",
-    "section": "",
-    "text": "asdfsad"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -105,6 +70,111 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
+    "objectID": "posts/the_transition.html",
+    "href": "posts/the_transition.html",
+    "title": "The Transition",
+    "section": "",
+    "text": "asdfsad"
+  },
+  {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "I provide the following consulting services"
+  },
+  {
+    "objectID": "consulting.html#r-package-development",
+    "href": "consulting.html#r-package-development",
+    "title": "Consulting",
+    "section": "R Package Development",
+    "text": "R Package Development"
+  },
+  {
+    "objectID": "consulting.html#r-enhancement",
+    "href": "consulting.html#r-enhancement",
+    "title": "Consulting",
+    "section": "R Enhancement",
+    "text": "R Enhancement"
+  },
+  {
+    "objectID": "consulting.html#r-training",
+    "href": "consulting.html#r-training",
+    "title": "Consulting",
+    "section": "R Training",
+    "text": "R Training"
+  },
+  {
+    "objectID": "consulting.html#real-world-healthcare-analytics",
+    "href": "consulting.html#real-world-healthcare-analytics",
+    "title": "Consulting",
+    "section": "Real-World Healthcare Analytics",
+    "text": "Real-World Healthcare Analytics"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+  },
+  {
+    "objectID": "posts/hello_world.html",
+    "href": "posts/hello_world.html",
+    "title": "The Hello World",
+    "section": "",
+    "text": "Hello World\nThis is a test post."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "",
+    "text": "I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders.\nI have experience across academia and industry building products and teams that generate insights from messy data.\nI’m most well known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
+  },
+  {
+    "objectID": "index.html#current-role",
+    "href": "index.html#current-role",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Current Role",
+    "text": "Current Role\nI am currently working as an independent consultant for healthcare data science. See Consulting to learn more"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Education",
+    "text": "Education\nI have a Bachelor’s degree in Mathematics from Grinnell College, A Master’s in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel."
+  },
+  {
+    "objectID": "index.html#work-history",
+    "href": "index.html#work-history",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Work history",
+    "text": "Work history\nYou can find a complete view of my working history at https://www.linkedin.com/in/nathanieldphillips/."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Contact",
+    "text": "Contact\nYou can email me at nathaniel.d.phillips.is@gmail.com or book a meeting with me at https://calendly.com/nathaniel-d-phillips."
+  },
+  {
+    "objectID": "index.html#developer-notes",
+    "href": "index.html#developer-notes",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Developer Notes",
+    "text": "Developer Notes\nThis page was built using Quarto."
+  },
+  {
+    "objectID": "expertise.html",
+    "href": "expertise.html",
+    "title": "Expertise",
+    "section": "",
+    "text": "Scalable Data Science\nasdfasdf\n\n\nHeuristic Decision Making\nasdfasdf\n\n\nHealthcare Analytics\nasdf\n\n\nAnalytics Teaching"
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -145,26 +215,5 @@
     "title": "Resources",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion | I use Notion for everything from project management to personal notes\nRStudio | My favorite IDE for data science development\nGitHub Copilot | Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto | The successor to my beloved RMarkdown which powers just about every document I create (including this website) |"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Contact",
-    "text": "Contact\nYou can email me at nathaniel.d.phillips.is@gmail.com or book a meeting with me at https://calendly.com/nathaniel-d-phillips."
-  },
-  {
-    "objectID": "index.html#current-role",
-    "href": "index.html#current-role",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Current Role",
-    "text": "Current Role\nI am currently working as an independent consultant for healthcare data science."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "About",
-    "text": "About\nI am a Data Scientist with a PhD in Cognitive Psychology who loves helping people solve challenging problems and communicate them to technical and non-technical stakeholders.\nI have experience across academia and industry building products and teams that generate insights from messy data. I’m particularly known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
   }
 ]

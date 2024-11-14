@@ -1,0 +1,13 @@
+---
+title: "Consulting"
+---
+
+I provide the following consulting services
+
+## R Package Development
+
+## R Enhancement
+
+## R Training
+
+## Real-World Healthcare Analytics

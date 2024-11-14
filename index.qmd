@@ -2,26 +2,40 @@
 title: "Nathaniel D. Phillips, PhD"
 ---
 
+```{=html}
+<embed src="assets/logos.html" type="text/html" style="width: 100%; height: auto;">
+```
+
+
 ![](assets/phillips_portrait_full.jpg){width=50%}
 
-## About
 
-I am a Data Scientist with a PhD in Cognitive Psychology who loves helping people solve challenging problems and communicate them to technical and non-technical stakeholders. 
+I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. 
 
-I have experience across academia and industry building products and teams that generate insights from messy data. I'm particularly known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Open Source Data Science](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
+I have experience across academia and industry building products and teams that generate insights from messy data. 
+
+I'm most well known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Open Source Data Science](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
 
 ## Current Role
 
-I am currently working as an independent consultant for healthcare data science. 
+I am currently working as an independent consultant for healthcare data science. See [Consulting](consulting.qmd) to learn more
+
+## Education
+
+I have a Bachelor's degree in Mathematics from Grinnell College, A Master's in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel.
+
+## Work history
+
+You can find a complete view of my working history at  [https://www.linkedin.com/in/nathanieldphillips/](https://www.linkedin.com/in/nathanieldphillips/).
 
 ## Contact
 
 You can email me at nathaniel.d.phillips.is@gmail.com or book a meeting with me at [https://calendly.com/nathaniel-d-phillips](https://calendly.com/nathaniel-d-phillips).
 
-```{=html}
-<embed src="assets/logos.html" type="text/html" style="width: 100%; height: auto;">
-```
 
+## Developer Notes
+
+This page was built using [Quarto](https://quarto.org/docs/websites/).
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

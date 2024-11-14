@@ -9,15 +9,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: expertise.qmd
+        text: Expertise
    #   - href: blog.qmd
   #      text: Blog
-      - href: resources.qmd
-        text: Resources
-      - href: personal.qmd
-        text: Personal
+      - href: consulting.qmd
+        text: Consulting
       - href: contact.qmd
         text: Contact
+      - href: resources.qmd
+        text: Resources
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/nathanieldphillips/
