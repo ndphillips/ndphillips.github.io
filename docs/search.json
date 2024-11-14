@@ -30,42 +30,42 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Experience",
     "section": "",
     "text": "This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About",
+    "title": "Experience",
     "section": "Education",
-    "text": "Education\n\nPh.D, Cognitive Psychology, University of Basel, Max Planck Institute for Human Development\n\nI am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.\n\nM.S, Quantitative Psychology, Ohio University\n\nI loved teaching introductory statistics and seeing the light in students’ eyes when ‘it clicked’\n\nB.A, Mathematics, Grinnell College\n\nStudying mathematics has always been one of my greatest pleasures. Grinnell’s Burling Library was my happy place"
+    "text": "Education\nI have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI have a PhD in Cognitive Psychology from the University of Basel and the Max Planck Institute for Human Development. I have an MS in Quantitative Psychology from Ohio University and a BA in Mathematics from Grinnell College."
   },
   {
     "objectID": "about.html#work-experience",
     "href": "about.html#work-experience",
-    "title": "About",
+    "title": "Experience",
     "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
   },
   {
     "objectID": "about.html#presentations-and-videos",
     "href": "about.html#presentations-and-videos",
-    "title": "About",
+    "title": "Experience",
     "section": "Presentations and Videos",
     "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse| RStudio Conf (2019)|\nFFTrees: An R package to create, visualise and use fast and frugal decision trees useR! (2017)|\nUsing R to Derive Robust Insights from Real-World Health Care Data | R/Pharma (2022) |\nTStat R Lecture #7: Loops in R | Introduction to R Programming course at the University of Konstanz (see all course videos here)|"
   },
   {
     "objectID": "about.html#publications",
     "href": "about.html#publications",
-    "title": "About",
+    "title": "Experience",
     "section": "Publications",
     "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees, Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W., Judgment and Decision Making\nRivals in the dark: How competition influences search in decisions under uncertainty | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |"
   },
   {
     "objectID": "about.html#open-source-projects",
     "href": "about.html#open-source-projects",
-    "title": "About",
+    "title": "Experience",
     "section": "Open Source Projects",
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
@@ -137,7 +137,7 @@
     "href": "index.html#work-history",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Work history",
-    "text": "Work history\nYou can find a complete view of my working history at https://www.linkedin.com/in/nathanieldphillips/."
+    "text": "Work history\nI have a diverse work history as a developer, research scientist, and team lead across academia and industry. You can find a complete view of my working history at About https://www.linkedin.com/in/nathanieldphillips/."
   },
   {
     "objectID": "index.html#contact",
@@ -229,5 +229,54 @@
     "title": "Consulting",
     "section": "Functional Programming",
     "text": "Functional Programming"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Experience",
+    "text": "Experience\nI have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. You can find an overview of my experience on my About page or on LinkedIn."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:"
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Experience",
+    "section": "Education",
+    "text": "Education\nI have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI have a PhD in Cognitive Psychology from the University of Basel and the Max Planck Institute for Human Development. I have an MS in Quantitative Psychology from Ohio University and a BA in Mathematics from Grinnell College."
+  },
+  {
+    "objectID": "experience.html#work-experience",
+    "href": "experience.html#work-experience",
+    "title": "Experience",
+    "section": "Work Experience",
+    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
+  },
+  {
+    "objectID": "experience.html#presentations-and-videos",
+    "href": "experience.html#presentations-and-videos",
+    "title": "Experience",
+    "section": "Presentations and Videos",
+    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse| RStudio Conf (2019)|\nFFTrees: An R package to create, visualise and use fast and frugal decision trees useR! (2017)|\nUsing R to Derive Robust Insights from Real-World Health Care Data | R/Pharma (2022) |\nTStat R Lecture #7: Loops in R | Introduction to R Programming course at the University of Konstanz (see all course videos here)|"
+  },
+  {
+    "objectID": "experience.html#publications",
+    "href": "experience.html#publications",
+    "title": "Experience",
+    "section": "Publications",
+    "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees, Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W., Judgment and Decision Making\nRivals in the dark: How competition influences search in decisions under uncertainty | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |"
+  },
+  {
+    "objectID": "experience.html#open-source-projects",
+    "href": "experience.html#open-source-projects",
+    "title": "Experience",
+    "section": "Open Source Projects",
+    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   }
 ]

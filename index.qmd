@@ -22,9 +22,9 @@ I am currently working as an independent consultant for healthcare data science.
 
 I have a Bachelor's degree in Mathematics from Grinnell College, A Master's in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel.
 
-## Work history
+## Experience
 
-You can find a complete view of my working history at  [https://www.linkedin.com/in/nathanieldphillips/](https://www.linkedin.com/in/nathanieldphillips/).
+I have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. You can find an overview of my experience on my [About](about.qmd#work-experience) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
 
 ## Contact
 

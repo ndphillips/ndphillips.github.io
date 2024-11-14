@@ -1,21 +1,22 @@
 ---
-title: "About"
+title: "Experience"
 ---
 
 This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:
 
 ## Education
 
-- Ph.D, Cognitive Psychology, [University of Basel](https://www.unibas.ch), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)
-    - I am grateful to have completed my PhD in some of the top decision making research institutions in the world. My experiences there will forever shape how I approach scientific research.
-- M.S,  Quantitative Psychology, [Ohio University](https://www.ohio.edu)
-    - I loved teaching introductory statistics and seeing the light in students' eyes when 'it clicked'
-- B.A, Mathematics, [Grinnell College](https://www.grinnell.edu)
-    - Studying mathematics has always been one of my greatest pleasures. Grinnell's [Burling Library](https://www.grinnell.edu/spaces/burling-library) was my happy place
+I have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.
+
+I have a PhD in Cognitive Psychology from the University of Basel and the Max Planck Institute for Human Development. I have an MS in Quantitative Psychology from Ohio University and a BA in Mathematics from Grinnell College.
 
 ## Work Experience
 
 Here is a selection of my work experience. See my [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) page for a more detailed history.
+
+Most recently, I was the CTO and Co-Founder of [Plinth Analytics](https://www.plinth.co), a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases.
+
+I am currently a Quantitative Scientist at [Flatiron Health](https://www.flatiron.com), where I work on real-world data science problems in oncology.
 
 1. CTO, Co-Founder, [Plinth Analytics](https://www.plinth.co)
     - The thrill of a lifetime with my co-founder and friend  [Kieran Mace](https://www.linkedin.com/in/kieranmace/), along with  rockstar data scientists [Nicole Mirea](https://www.linkedin.com/in/nimirea/), [Parker Barnes](https://www.linkedin.com/in/parker-barnes/) |
@@ -34,7 +35,6 @@ Here is a selection of my work experience. See my [LinkedIn](https://www.linkedi
 Here are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.
 
 <p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"><img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"></a></p>
-
 
 - [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/)| RStudio Conf (2019)|
 - [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees)  useR! (2017)|

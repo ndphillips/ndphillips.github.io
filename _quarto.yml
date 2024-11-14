@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: experience.qmd
+        text: Experience
       - href: expertise.qmd
         text: Expertise
    #   - href: blog.qmd
