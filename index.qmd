@@ -1,20 +1,30 @@
 ---
-title: "Hello there"
+title: "Nathaniel D. Phillips, PhD"
 ---
 
-I'm Nathaniel D. Phillips, PhD. I'm known for [ Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [R Piratery](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
+![](assets/phillips_portrait_full.jpg){width=50%}
 
-Check out my [About](about.qmd), [Resources](resources.qmd), and [Contact](contact.qmd) pages to learn more about me and my work.
+## About
 
-## Am I Open To Work?
+I am a Data Scientist with a PhD in Cognitive Psychology who loves helping people solve challenging problems and communicate them to technical and non-technical stakeholders. 
 
-:::{.callout-tip title="Q4 2024: Yes!"}
+I have experience across academia and industry building products and teams that generate insights from messy data. I'm particularly known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Open Source Data Science](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
 
-I am available for new opportunities to improve lives through data science at a value and purpose driven organization. Reach out to me at nathaniel.d.phillips.is@gmail.com to discuss!
+## Current Role
 
-:::
+I am currently working as an independent consultant for healthcare data science. 
+
+## Contact
+
+You can email me at nathaniel.d.phillips.is@gmail.com or book a meeting with me at [https://calendly.com/nathaniel-d-phillips](https://calendly.com/nathaniel-d-phillips).
+
+```{=html}
+<embed src="assets/logos.html" type="text/html" style="width: 100%; height: auto;">
+```
 
 
-<!-- ::: {.callout-note title="My old website is archived"} -->
-<!-- This is, as of 2024, my new website created using [Quarto](https://quarto.org/docs/websites/). You can find my old archived website  [here](https://ndphillips.github.io/old_ndphillips.github.io/) -->
-<!-- ::: -->
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/nathaniel-d-phillips/15min', text: 'Meet with me', color: '#0069ff', textColor: '#ffffff' }); }</script>
+

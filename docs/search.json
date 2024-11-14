@@ -25,21 +25,21 @@
     "href": "personal.html#rolling-list-of-interests",
     "title": "About",
     "section": "Rolling list of interests",
-    "text": "Rolling list of interests\n\n[Nov 2024] I’m pretty into anything cyberpunk / synthwave these days. Especially Gunship. For that reason I updated this site to use the “Cyberpunk aesthetic” vapor theme. I’m sure I’ll change it to something more basic when the novelty wears off."
+    "text": "Rolling list of interests\n\n[Nov 2024] I’m pretty into anything cyberpunk / synthwave these days. Especially Gunship. For that reason I updated this site to use the “Cyberpunk aesthetic” vapor theme. I’m sure I’ll change it to something more basic when the novelty wears off.\n\n[Nov 12, 2024] It wore off."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello there",
+    "title": "Nathaniel D. Phillips, PhD",
     "section": "",
-    "text": "I’m Nathaniel D. Phillips, PhD. I’m known for Healthcare Data Science, R Piratery, and Decision Making Research.\nCheck out my About, Resources, and Contact pages to learn more about me and my work."
+    "text": "I am a Data Scientist with a PhD in Cognitive Psychology who loves helping people solve challenging problems and communicate them to technical and non-technical stakeholders.\nI have experience across academia and industry building products and teams that generate insights from messy data. I’m particularly known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
   },
   {
-    "objectID": "index.html#am-i-open-to-work",
-    "href": "index.html#am-i-open-to-work",
-    "title": "Hello there",
-    "section": "Am I Open To Work?",
-    "text": "Am I Open To Work?\n\n\n\n\n\n\nQ4 2024: Yes!\n\n\n\nI am available for new opportunities to improve lives through data science at a value and purpose driven organization. Reach out to me at nathaniel.d.phillips.is@gmail.com to discuss!"
+    "objectID": "index.html#am-i-open-to-work-yes",
+    "href": "index.html#am-i-open-to-work-yes",
+    "title": "I’m Nathaniel D. Phillips, PhD",
+    "section": "Am I Open To Work? Yes!",
+    "text": "Am I Open To Work? Yes!\n\n\n\n\n\n\nQ4 2024: Yes!\n\n\n\nI am available for new opportunities to improve lives through data science at a value and purpose driven organization. Reach out to me at nathaniel.d.phillips.is@gmail.com to discuss!"
   },
   {
     "objectID": "posts/hello_world.html",
@@ -145,5 +145,26 @@
     "title": "Resources",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion | I use Notion for everything from project management to personal notes\nRStudio | My favorite IDE for data science development\nGitHub Copilot | Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto | The successor to my beloved RMarkdown which powers just about every document I create (including this website) |"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Contact",
+    "text": "Contact\nYou can email me at nathaniel.d.phillips.is@gmail.com or book a meeting with me at https://calendly.com/nathaniel-d-phillips."
+  },
+  {
+    "objectID": "index.html#current-role",
+    "href": "index.html#current-role",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Current Role",
+    "text": "Current Role\nI am currently working as an independent consultant for healthcare data science."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "About",
+    "text": "About\nI am a Data Scientist with a PhD in Cognitive Psychology who loves helping people solve challenging problems and communicate them to technical and non-technical stakeholders.\nI have experience across academia and industry building products and teams that generate insights from messy data. I’m particularly known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
   }
 ]
