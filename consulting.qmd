@@ -2,12 +2,16 @@
 title: "Consulting"
 ---
 
-I provide the following consulting services
+I provide the following consulting services and engagement types
 
-## R Package Development
+# Services
 
-## R Enhancement
+## Functional Programming
+
+## Analytical Methods
 
 ## R Training
 
-## Real-World Healthcare Analytics
+# Engagements
+
+I offer hourly and project-based consulting services. Please contact me for more information.

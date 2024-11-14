@@ -6,9 +6,7 @@ title: "Nathaniel D. Phillips, PhD"
 <embed src="assets/logos.html" type="text/html" style="width: 100%; height: auto;">
 ```
 
-
 ![](assets/phillips_portrait_full.jpg){width=50%}
-
 
 I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. 
 

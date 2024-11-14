@@ -81,7 +81,7 @@
     "href": "consulting.html",
     "title": "Consulting",
     "section": "",
-    "text": "I provide the following consulting services"
+    "text": "I provide the following consulting services and engagement types"
   },
   {
     "objectID": "consulting.html#r-package-development",
@@ -91,25 +91,11 @@
     "text": "R Package Development"
   },
   {
-    "objectID": "consulting.html#r-enhancement",
-    "href": "consulting.html#r-enhancement",
+    "objectID": "consulting.html#analytical-methods",
+    "href": "consulting.html#analytical-methods",
     "title": "Consulting",
-    "section": "R Enhancement",
-    "text": "R Enhancement"
-  },
-  {
-    "objectID": "consulting.html#r-training",
-    "href": "consulting.html#r-training",
-    "title": "Consulting",
-    "section": "R Training",
-    "text": "R Training"
-  },
-  {
-    "objectID": "consulting.html#real-world-healthcare-analytics",
-    "href": "consulting.html#real-world-healthcare-analytics",
-    "title": "Consulting",
-    "section": "Real-World Healthcare Analytics",
-    "text": "Real-World Healthcare Analytics"
+    "section": "Analytical Methods",
+    "text": "Analytical Methods"
   },
   {
     "objectID": "contact.html",
@@ -215,5 +201,33 @@
     "title": "Resources",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion | I use Notion for everything from project management to personal notes\nRStudio | My favorite IDE for data science development\nGitHub Copilot | Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto | The successor to my beloved RMarkdown which powers just about every document I create (including this website) |"
+  },
+  {
+    "objectID": "consulting.html#r-traoining",
+    "href": "consulting.html#r-traoining",
+    "title": "Consulting",
+    "section": "R Traoining",
+    "text": "R Traoining"
+  },
+  {
+    "objectID": "consulting.html#r-trainoing",
+    "href": "consulting.html#r-trainoing",
+    "title": "Consulting",
+    "section": "R Trainoing",
+    "text": "R Trainoing"
+  },
+  {
+    "objectID": "consulting.html#r-training",
+    "href": "consulting.html#r-training",
+    "title": "Consulting",
+    "section": "R Training",
+    "text": "R Training"
+  },
+  {
+    "objectID": "consulting.html#functional-programming",
+    "href": "consulting.html#functional-programming",
+    "title": "Consulting",
+    "section": "Functional Programming",
+    "text": "Functional Programming"
   }
 ]
