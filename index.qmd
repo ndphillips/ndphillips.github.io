@@ -3,9 +3,22 @@ title: "Nathaniel D. Phillips, PhD"
 ---
 
 ```{=html}
-<embed src="assets/logos.html" type="text/html" style="width: 100%; height: auto;">
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+          <a href="https://www.flatiron.com" target="_blank">
+        <img src="assets/flatiron_logo.png" alt="Flatiron Health" width="150">
+    </a>
+      <a href="https://www.roche.com" target="_blank">
+        <img src="assets/roche_logo.png" alt="Roche" width="150">
+    </a>
+    <a href="https://www.unibas.ch" target="_blank">
+        <img src="assets/basel_logo.png" alt="University of Basel" width="150">
+    </a>
+    <a href="https://www.uni-konstanz.de" target="_blank">
+        <img src="assets/konstanz_logo.png" alt="Universty of Konstanz" width="150">
+    </a>
+</div>
 ```
-
+<br>
 ![](assets/phillips_portrait_full.jpg){width=50%}
 
 I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. 
