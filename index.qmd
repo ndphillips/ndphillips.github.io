@@ -5,39 +5,37 @@ title: "Nathaniel D. Phillips, PhD"
 ```{=html}
 <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
           <a href="https://www.flatiron.com" target="_blank">
-        <img src="assets/flatiron_logo.png" alt="Flatiron Health" width="150">
+        <img src="assets/flatiron_logo.png" alt="Flatiron Health" width="125">
     </a>
       <a href="https://www.roche.com" target="_blank">
-        <img src="assets/roche_logo.png" alt="Roche" width="150">
+        <img src="assets/roche_logo.png" alt="Roche" width="125">
     </a>
     <a href="https://www.unibas.ch" target="_blank">
-        <img src="assets/basel_logo.png" alt="University of Basel" width="150">
+        <img src="assets/basel_logo.png" alt="University of Basel" width="125">
     </a>
     <a href="https://www.uni-konstanz.de" target="_blank">
-        <img src="assets/konstanz_logo.png" alt="Universty of Konstanz" width="150">
+        <img src="assets/konstanz_logo.png" alt="Universty of Konstanz" width="125">
     </a>
 </div>
 ```
 <br>
 ![](assets/phillips_portrait_full.jpg){width=50%}
 
-I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. 
-
-I have experience across academia and industry building products and teams that generate insights from messy data. 
+I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. I have experience across academia and industry building products and teams that generate insights from messy data. 
 
 I'm most well known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Open Source Data Science](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
 
-## Current Role
+## Consulting
 
-I am currently working as an independent consultant for healthcare data science. See [Consulting](consulting.qmd) to learn more
+I am currently working as an independent consultant in healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data.
 
-## Education
+See [Consulting](consulting.qmd) to learn more.
 
-I have a Bachelor's degree in Mathematics from Grinnell College, A Master's in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel.
+## Experience and Education
 
-## Experience
+I have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. I have a Bachelor's degree in Mathematics from Grinnell College, A Master's in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel.
 
-I have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. You can find an overview of my experience on my [About](about.qmd#work-experience) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
+You can find an overview of my experience on my [About](about.qmd#work-experience) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
 
 ## Contact
 

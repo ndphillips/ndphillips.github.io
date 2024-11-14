@@ -116,21 +116,21 @@
     "href": "index.html",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "",
-    "text": "I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders.\nI have experience across academia and industry building products and teams that generate insights from messy data.\nI’m most well known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
+    "text": "I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. I have experience across academia and industry building products and teams that generate insights from messy data.\nI’m most well known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
   },
   {
     "objectID": "index.html#current-role",
     "href": "index.html#current-role",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Current Role",
-    "text": "Current Role\nI am currently working as an independent consultant for healthcare data science. See Consulting to learn more"
+    "text": "Current Role\nI am currently working as an independent consultant in healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data. See Consulting to learn more."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Education",
-    "text": "Education\nI have a Bachelor’s degree in Mathematics from Grinnell College, A Master’s in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel."
+    "text": "Education"
   },
   {
     "objectID": "index.html#work-history",
@@ -278,5 +278,19 @@
     "title": "Experience",
     "section": "Open Source Projects",
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
+  },
+  {
+    "objectID": "index.html#consulting",
+    "href": "index.html#consulting",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Consulting",
+    "text": "Consulting\nI am currently working as an independent consultant in healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data.\nSee Consulting to learn more."
+  },
+  {
+    "objectID": "index.html#experience-and-education",
+    "href": "index.html#experience-and-education",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Experience and Education",
+    "text": "Experience and Education\nI have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. I have a Bachelor’s degree in Mathematics from Grinnell College, A Master’s in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel.\nYou can find an overview of my experience on my About page or on LinkedIn."
   }
 ]
