@@ -16,35 +16,38 @@ title: "Nathaniel D. Phillips, PhD"
     <a href="https://www.uni-konstanz.de" target="_blank">
         <img src="assets/konstanz_logo.png" alt="Universty of Konstanz" width="125">
     </a>
+    <a href="https://www.plinth.co" target="_blank">
+        <img src="assets/plinth_logo.png" alt="Plinth Analytics" width="90">
+    </a>
 </div>
 ```
 <br>
+
 ![](assets/phillips_portrait_full.jpg){width=50%}
+
 
 I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. I have experience across academia and industry building products and teams that generate insights from messy data. 
 
 I'm most well known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Open Source Data Science](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
 
+## Experience
+
+I have diverse experience as a research scientist, developer, manager, and team lead across academia and industry Each role and organization has taught me something new about how to solve problems and work with diverse stakeholders. I have done my best to create a legacy of contagious enthusiasm and practical tools with every organization I've been a part of.
+
+See my [About](about.qmd) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) to learn more about my experience.
+
 ## Consulting
 
-I am currently working as an independent consultant in healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data.
+I offer a range of consulting services healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data. If you are have a project or question that you could use help with, I'd love to hear from you.
 
 See [Consulting](consulting.qmd) to learn more.
 
-## Experience and Education
-
-I have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. I have a Bachelor's degree in Mathematics from Grinnell College, A Master's in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel.
-
-You can find an overview of my experience on my [About](about.qmd#work-experience) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
-
 ## Contact
 
-You can email me at nathaniel.d.phillips.is@gmail.com or book a meeting with me at [https://calendly.com/nathaniel-d-phillips](https://calendly.com/nathaniel-d-phillips).
+The best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. 
 
+If you'd like to meet, you can book a meeting with me at [https://calendly.com/nathaniel-d-phillips](https://calendly.com/nathaniel-d-phillips).
 
-## Developer Notes
-
-This page was built using [Quarto](https://quarto.org/docs/websites/).
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

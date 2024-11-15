@@ -2,19 +2,33 @@
 title: "Experience"
 ---
 
-This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:
-
 ## Education
 
 I have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.
 
-I have a PhD in Cognitive Psychology from the University of Basel and the Max Planck Institute for Human Development. I have an MS in Quantitative Psychology from Ohio University and a BA in Mathematics from Grinnell College.
+I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the [Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) lead by [Dr. Ralph Hertwig](https://www.mpib-berlin.mpg.de/person/ralph-hertwig/57631).
 
-## Work Experience
+Prior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo.
+
+I obtained BA in Mathematics with a f
+ocus on probability and statistics from Grinnell College.
+
+## Work
 
 Here is a selection of my work experience. See my [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) page for a more detailed history.
 
-Most recently, I was the CTO and Co-Founder of [Plinth Analytics](https://www.plinth.co), a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases.
+### CTO & Co-Founder, Plinth Analytics
+
+::: {.callout-tip}
+## From $0 to $1M in 1.5 years of bootstrapped development
+
+In just 1.5 years, we went from two people with an idea to a team of 5 and $1M in revenue across multiple pharma and healthtech clients.
+:::
+
+
+Most recently, I was the CTO and Co-Founder of [Plinth Analytics](https://www.plinth.co), a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases for EHR, claims and genomic data.
+
+
 
 I am currently a Quantitative Scientist at [Flatiron Health](https://www.flatiron.com), where I work on real-world data science problems in oncology.
 

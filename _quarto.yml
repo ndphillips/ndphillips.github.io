@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Nathaniel D. Phillips, PhD"
+  title: "Phillips Analytics"
   google-analytics: "G-H0ZF5JL7LN"
   navbar:
     left:

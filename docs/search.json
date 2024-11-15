@@ -144,7 +144,7 @@
     "href": "index.html#contact",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Contact",
-    "text": "Contact\nYou can email me at nathaniel.d.phillips.is@gmail.com or book a meeting with me at https://calendly.com/nathaniel-d-phillips."
+    "text": "Contact\nThe best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com.\nIf you’d like to meet, you can book a meeting with me at https://calendly.com/nathaniel-d-phillips."
   },
   {
     "objectID": "index.html#developer-notes",
@@ -235,21 +235,21 @@
     "href": "index.html#experience",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Experience",
-    "text": "Experience\nI have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. You can find an overview of my experience on my About page or on LinkedIn."
+    "text": "Experience\nI have diverse experience as a research scientist, developer, manager, and team lead across academia and industry Each role and organization has taught me something new about how to solve problems and work with diverse stakeholders. I have done my best to create a legacy of contagious enthusiasm and practical tools with every organization I’ve been a part of.\nSee my About page or on LinkedIn to learn more about my experience."
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:"
+    "text": "I have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig.\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo.\nI obtained BA in Mathematics with a f ocus on probability and statistics from Grinnell College."
   },
   {
     "objectID": "experience.html#education",
     "href": "experience.html#education",
     "title": "Experience",
-    "section": "Education",
-    "text": "Education\nI have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI have a PhD in Cognitive Psychology from the University of Basel and the Max Planck Institute for Human Development. I have an MS in Quantitative Psychology from Ohio University and a BA in Mathematics from Grinnell College."
+    "section": "",
+    "text": "I have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig.\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo.\nI obtained BA in Mathematics with a f ocus on probability and statistics from Grinnell College."
   },
   {
     "objectID": "experience.html#work-experience",
@@ -284,13 +284,20 @@
     "href": "index.html#consulting",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Consulting",
-    "text": "Consulting\nI am currently working as an independent consultant in healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data.\nSee Consulting to learn more."
+    "text": "Consulting\nI offer a range of consulting services healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data. If you are have a project or question that you could use help with, I’d love to hear from you.\nSee Consulting to learn more."
   },
   {
     "objectID": "index.html#experience-and-education",
     "href": "index.html#experience-and-education",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Experience and Education",
-    "text": "Experience and Education\nI have a diverse experience as a research scientist, developer, manager, and team lead across academia and industry. I have a Bachelor’s degree in Mathematics from Grinnell College, A Master’s in Experimental Psychology at Ohio University, and a PhD in Experimental Psychology at the University of Basel.\nYou can find an overview of my experience on my About page or on LinkedIn."
+    "text": "Experience and Education\nI have diverse experience as a research scientist, developer, manager, and team lead across multiple academic and industry organizations. Each role and organization has taught me something new about how to solve problems and work with diverse stakeholders.\nSee my About page or on LinkedIn to learn more about my experience and education."
+  },
+  {
+    "objectID": "experience.html#work",
+    "href": "experience.html#work",
+    "title": "Experience",
+    "section": "Work",
+    "text": "Work\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\nCTO & Co-Founder, Plinth Analytics\n\n\n\n\n\n\nFrom $0 to $1M in 1.5 years of bootstrapped development\n\n\n\nIn just 1.5 years, we went from two people with an idea to a team of 5 and $1M in revenue across multiple pharma and healthtech clients.\n\n\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases for EHR, claims and genomic data.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
   }
 ]
