@@ -22,7 +22,7 @@ title: "Nathaniel D. Phillips, PhD"
 <!-- </div> -->
 <!-- ``` -->
 
-![](assets/portrait_nov2024_zoom.jpg){width=30%}
+![](assets/portrait_nov2024_zoom.jpg){width=50%}
 
 I am a professional learner and solution designer driven to help people and organizations solve challenging problems and tell impact stories from data. I am passionate about creating tools and systems that reduce waste and empower people to make better decisions.
 
