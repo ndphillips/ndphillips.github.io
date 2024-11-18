@@ -38,7 +38,7 @@ I am most well known for [Healthcare Data Science](https://posit.co/resources/vi
 
 I have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. While I have spent most of my career create technical solutions, I leverage my background in decision making psychology to ensure that every solution I design, and every presentation I deliver, are practical and engaging and will actually impact flesh and blood decision makers. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I'm privileged to be a part of.
 
-See my [About](about.qmd) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) to learn more about my experience.
+See my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) for a detailed list of my professional experience.
 
 ## Projects and Publications
 
@@ -50,11 +50,19 @@ See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&h
 
 ### Presentations
 
-<p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"><img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"></a></p>
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte">
+    <img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" 
+         width="400" height="225" style="width: 400px; height: 225px;">
+  </a>
+  <figcaption>
+    Watch: How we overhauled a Frankensteinian SQL workflow with the tidyverse.
+  </figcaption>
+</figure>
 
-- [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/), RStudio Conf, 2019
 - [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees), useR!, 2017
 - [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma), R/Pharma, 2022
+- [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/), RStudio Conf, 2019
 
 ### Open Source Projects
 
