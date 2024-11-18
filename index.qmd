@@ -81,8 +81,8 @@ The best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.
 
 If you'd like to meet, you can book a meeting with me at [https://calendly.com/nathaniel-d-phillips](https://calendly.com/nathaniel-d-phillips).
 
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/nathaniel-d-phillips/15min', text: 'Meet with me', color: '#0069ff', textColor: '#ffffff' }); }</script>
+<!-- <!-- Calendly badge widget begin --> -->
+<!-- <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> -->
+<!-- <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> -->
+<!-- <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/nathaniel-d-phillips/15min', text: 'Meet with me', color: '#0069ff', textColor: '#ffffff' }); }</script> -->
 
