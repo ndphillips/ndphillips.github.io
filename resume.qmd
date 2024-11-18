@@ -3,6 +3,8 @@ title: "Resume"
 date: "2024-11"
 ---
 
-I am in the progress of updating my resume and will post it here when ready.
+Below is my base resume updated as of November 2024.
 
-In the meantime, check out my [LinkedIn profile](https://www.linkedin.com/in/nathanieldphillips) or contact me for more info.
+<iframe src="assets/Nathaniel Phillips - Scientist [Nov 2024].pdf" width="100%" height="600px"></iframe>
+
+[Download Resume](resume.pdf){.btn .btn-primary download="Nathaniel Phillips PhD Resume.pdf"}
