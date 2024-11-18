@@ -34,9 +34,13 @@ I am most well known for [Healthcare Data Science](https://posit.co/resources/vi
 - MS, Quantitative Psychology, Ohio University, Athens, OH
 - BA, Mathematics, Grinnell College, Grinnell, IA
 
-## Experience
+## Experience And Skills
 
-I have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. While I have spent most of my career create technical solutions, I leverage my background in decision making psychology to ensure that every solution I design, and every presentation I deliver, are practical and engaging and will actually impact flesh and blood decision makers. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I'm privileged to be a part of.
+I have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder.
+
+While I have spent most of my career creating technical solutions, I leverage my background in decision making psychology to ensure that every solution I design, and every presentation I deliver, is practical, engaging and will actually impact flesh and blood decision makers.
+
+At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I'm privileged to be a part of.
 
 See my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) for a detailed list of my professional experience.
 
