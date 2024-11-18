@@ -116,7 +116,7 @@
     "href": "index.html",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "",
-    "text": "I am a scientist driven to help people and organizations solve challenging problems and tell impact stories from data.\nI’m most well known for Healthcare Data Science, Statistical Programming with R, and Medical Decision Making."
+    "text": "I am a professional learner and solution designer driven to help people and organizations solve challenging problems and tell impact stories from data. I am passionate about creating tools and systems that reduce waste and empower people to make better decisions.\nI am most well known for Healthcare Data Science, Statistical Programming with R, and Medical Decision Making."
   },
   {
     "objectID": "index.html#edcuation",
@@ -130,7 +130,7 @@
     "href": "index.html#experience",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Experience",
-    "text": "Experience\nI have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. Each role and organization has taught me new ways to solve problems and generate meaningful impact. My work philosophy is centered on creating solutions, both technical and non-technical, that are functional, practical, and engaging to users. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m privileged to be a part of.\nSee my About page or on LinkedIn to learn more about my experience."
+    "text": "Experience\nI have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. While I have spent most of my career create technical solutions, I leverage my background in decision making psychology to ensure that every solution I design, and every presentation I deliver, are practical and engaging and will actually impact flesh and blood decision makers. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m privileged to be a part of.\nSee my About page or on LinkedIn to learn more about my experience."
   },
   {
     "objectID": "index.html#projects-and-publications",
@@ -163,42 +163,42 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Resources",
+    "title": "Tips",
     "section": "",
     "text": "Here are some of my favorite resources - a mixture of books, tutorials, blogs, podcasts and YouTube, and software.\nI’ll do my best to keep this updated but it will almost certainly be out of date by the time you read it. If you have any suggestions for resources I should add, please let me know."
   },
   {
     "objectID": "resources.html#books",
     "href": "resources.html#books",
-    "title": "Resources",
+    "title": "Tips",
     "section": "Books",
     "text": "Books\nHere are some of my favorite books\n\nThe Design of Everyday Things, Donald A. Norman\n\nAs applicable to programming as it is to the design of doors\n\nThe First 90 Days, Michael D. Watkins\n\nA great resource for anyone starting a new job - recommended by Lura Long\n\nThe Checklist Manifesto, Atul Gawande\n\nGawande is one of my favorite writers at the intersection of science and medicine.\n\nHow big things get done, Bent Flyvbjerg, Dan Gardner\n\nShould be required reading for anyone working on projects with teams - recommended by Nicole Mirea\n\nR for Data Science, Hadley Wickham, Garrett Grolemund\n\nA great resource for learning R\n\nWriting R Packages, Hadley Wickham\n\nThe bible of R package development"
   },
   {
     "objectID": "resources.html#tutorials",
     "href": "resources.html#tutorials",
-    "title": "Resources",
+    "title": "Tips",
     "section": "Tutorials",
     "text": "Tutorials\nHere are some of my favorite online tutorials and guides\n\nSurvival Analysis in R, Emily Zabor\n\nA great introduction to survival analysis in R (by a fellow Grinnellian!)"
   },
   {
     "objectID": "resources.html#blogs",
     "href": "resources.html#blogs",
-    "title": "Resources",
+    "title": "Tips",
     "section": "Blogs",
     "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\nDanielle Navarro, Danielle Navarro is a cognitive scientist who writes about statistics and programming in R.\nEmily Riederer. Emily Riederer is a leading voice in modern data science across multiple languages and platforms.\nEmily Zabor. Emily Zabor is an expert in epidemiology and public health who writes about data science and statistics in R"
   },
   {
     "objectID": "resources.html#podcasts-and-youtube",
     "href": "resources.html#podcasts-and-youtube",
-    "title": "Resources",
+    "title": "Tips",
     "section": "Podcasts and YouTube",
     "text": "Podcasts and YouTube\nHere are some of my favorite podcasts and YouTube channels\n\nCautionary Tales by Tim Harford | Wrong Tools Cost Lives|"
   },
   {
     "objectID": "resources.html#software",
     "href": "resources.html#software",
-    "title": "Resources",
+    "title": "Tips",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
   }

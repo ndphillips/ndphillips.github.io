@@ -18,13 +18,13 @@ website:
     #    text: Consulting
 
       - href: resources.qmd
-        text: Resources
-      - href: contact.qmd
-        text: Contact
+        text: Tips
       - href: resume.qmd
         text: Resume
-      - href: blog.qmd
-        text: Blog
+    #  - href: blog.qmd
+    #    text: Blog
+      - href: contact.qmd
+        text: Contact
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/nathanieldphillips/
