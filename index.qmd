@@ -42,15 +42,11 @@ See my [About](about.qmd) page or on [LinkedIn](https://www.linkedin.com/in/nath
 
 ## Projects and Publications
 
-Here is a selection of my work:
+While most of my professional healthcare work is proprietary, here is a selection of my open source projects, presentations, and publications.
 
-### Open Source Projects
+### Publications
 
-- [FFTrees](https://github.com/ndphillips/FFTrees). The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier. 
-
-- [yarrr](https://bookdown.org/ndphillips/yarrr/). The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.
-
-- [The Pirate's Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.
+See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) page for a partial list of publications. Note that most of my healthcare publications are not listed here.
 
 ### Presentations
 
@@ -60,9 +56,13 @@ Here is a selection of my work:
 - [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees), useR!, 2017
 - [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma), R/Pharma, 2022
 
-### Publications
+### Open Source Projects
 
-See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) page for a partial list of publications. Note that most of my healthcare publications are not listed here.
+- [FFTrees](https://github.com/ndphillips/FFTrees). The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier. 
+
+- [yarrr](https://bookdown.org/ndphillips/yarrr/). The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.
+
+- [The Pirate's Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.
 
 ## Working Status
 
@@ -79,9 +79,4 @@ I am available for consulting on a short-term, hourly basis. Contact me to learn
 The best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also reach me on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) or [Github](https://www.github.com/ndphillips).
 
 If you'd like to meet, you can book a meeting with me at [https://calendly.com/nathaniel-d-phillips](https://calendly.com/nathaniel-d-phillips).
-
-<!-- <!-- Calendly badge widget begin --> -->
-<!-- <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> -->
-<!-- <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> -->
-<!-- <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/nathaniel-d-phillips/15min', text: 'Meet with me', color: '#0069ff', textColor: '#ffffff' }); }</script> -->
 
