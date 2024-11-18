@@ -17,8 +17,8 @@ website:
     #  - href: consulting.qmd
     #    text: Consulting
 
-      - href: resources.qmd
-        text: Tips
+    #  - href: resources.qmd
+    #    text: Tips
       - href: resume.qmd
         text: Resume
     #  - href: blog.qmd
