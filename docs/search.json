@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "The Transition\n\n\n\n\n\n\n\nR\n\n\n\n\nA period of transition\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n  \n\n\n\n\nThe Hello World\n\n\n\n\n\n\n\nR\n\n\n\n\nHello World\n\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "In Construction\n\n\n\nThis is a placeholder for future blog posts. I hope to start publishing them in Q1 2025. If you have an idea of the kind of content you’d like to see from me, please reach out and let me know.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -28,235 +28,25 @@
     "text": "Rolling list of interests\n\n[Nov 2024] I’m pretty into anything cyberpunk / synthwave these days. Especially Gunship. For that reason I updated this site to use the “Cyberpunk aesthetic” vapor theme. I’m sure I’ll change it to something more basic when the novelty wears off.\n\n[Nov 12, 2024] It wore off."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Experience",
-    "section": "",
-    "text": "This page contains an overview of my Education, Work Experience, Presentations and Videos, Publications, and Open Source projects:"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Experience",
-    "section": "Education",
-    "text": "Education\nI have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI have a PhD in Cognitive Psychology from the University of Basel and the Max Planck Institute for Human Development. I have an MS in Quantitative Psychology from Ohio University and a BA in Mathematics from Grinnell College."
-  },
-  {
-    "objectID": "about.html#work-experience",
-    "href": "about.html#work-experience",
-    "title": "Experience",
-    "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
-  },
-  {
-    "objectID": "about.html#presentations-and-videos",
-    "href": "about.html#presentations-and-videos",
-    "title": "Experience",
-    "section": "Presentations and Videos",
-    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse| RStudio Conf (2019)|\nFFTrees: An R package to create, visualise and use fast and frugal decision trees useR! (2017)|\nUsing R to Derive Robust Insights from Real-World Health Care Data | R/Pharma (2022) |\nTStat R Lecture #7: Loops in R | Introduction to R Programming course at the University of Konstanz (see all course videos here)|"
-  },
-  {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "Experience",
-    "section": "Publications",
-    "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees, Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W., Judgment and Decision Making\nRivals in the dark: How competition influences search in decisions under uncertainty | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |"
-  },
-  {
-    "objectID": "about.html#open-source-projects",
-    "href": "about.html#open-source-projects",
-    "title": "Experience",
-    "section": "Open Source Projects",
-    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
-  },
-  {
-    "objectID": "posts/the_transition.html",
-    "href": "posts/the_transition.html",
-    "title": "The Transition",
-    "section": "",
-    "text": "asdfsad"
-  },
-  {
-    "objectID": "consulting.html",
-    "href": "consulting.html",
-    "title": "Consulting",
-    "section": "",
-    "text": "I provide the following consulting services and engagement types"
-  },
-  {
-    "objectID": "consulting.html#r-package-development",
-    "href": "consulting.html#r-package-development",
-    "title": "Consulting",
-    "section": "R Package Development",
-    "text": "R Package Development"
-  },
-  {
-    "objectID": "consulting.html#analytical-methods",
-    "href": "consulting.html#analytical-methods",
-    "title": "Consulting",
-    "section": "Analytical Methods",
-    "text": "Analytical Methods"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Here’s how you can reach me:\n\nEmail: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
-  },
-  {
-    "objectID": "posts/hello_world.html",
-    "href": "posts/hello_world.html",
-    "title": "The Hello World",
-    "section": "",
-    "text": "Hello World\nThis is a test post."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "",
-    "text": "I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. I have experience across academia and industry building products and teams that generate insights from messy data.\nI’m most well known for Healthcare Data Science, Open Source Data Science, and Decision Making Research."
-  },
-  {
-    "objectID": "index.html#current-role",
-    "href": "index.html#current-role",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Current Role",
-    "text": "Current Role\nI am currently working as an independent consultant in healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data. See Consulting to learn more."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "index.html#work-history",
-    "href": "index.html#work-history",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Work history",
-    "text": "Work history\nI have a diverse work history as a developer, research scientist, and team lead across academia and industry. You can find a complete view of my working history at About https://www.linkedin.com/in/nathanieldphillips/."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Contact",
-    "text": "Contact\nThe best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com.\nIf you’d like to meet, you can book a meeting with me at https://calendly.com/nathaniel-d-phillips."
-  },
-  {
-    "objectID": "index.html#developer-notes",
-    "href": "index.html#developer-notes",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Developer Notes",
-    "text": "Developer Notes\nThis page was built using Quarto."
-  },
-  {
-    "objectID": "expertise.html",
-    "href": "expertise.html",
-    "title": "Expertise",
-    "section": "",
-    "text": "Scalable Data Science\nasdfasdf\n\n\nHeuristic Decision Making\nasdfasdf\n\n\nHealthcare Analytics\nasdf\n\n\nAnalytics Teaching"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Here are some of my favorite resources - a mixture of books, tutorials, blogs, podcasts and YouTube, and software."
-  },
-  {
-    "objectID": "resources.html#books",
-    "href": "resources.html#books",
-    "title": "Resources",
-    "section": "Books",
-    "text": "Books\nHere are some of my favorite books\n\nThe Design of Everyday Things | Donald A. Norman | As applicable to programming as it is to the design of toilets|\nThe First 90 Days | Michael D. Watkins | A great resource for anyone starting a new job - recommended by Lura Long|\nThe Checklist Manifesto | Atul Gawande | Gawande is one of my favorite writers at the intersection of science and medicine. |\nHow big things get done | Bent Flyvbjerg, Dan Gardner | Should be required reading for anyone working on projects with teams - recommended by Nicole Mirea|\nR for Data Science | Hadley Wickham, Garrett Grolemund | A great resource for learning R |\nWriting R Packages | Hadley Wickham |The bible of R package development|"
-  },
-  {
-    "objectID": "resources.html#tutorials",
-    "href": "resources.html#tutorials",
-    "title": "Resources",
-    "section": "Tutorials",
-    "text": "Tutorials\nHere are some of my favorite online tutorials and guides\n\nSurvival Analysis in R | Emily Zabor | A great introduction to survival analysis in R (by a fellow Grinnellian!)|"
-  },
-  {
-    "objectID": "resources.html#blogs",
-    "href": "resources.html#blogs",
-    "title": "Resources",
-    "section": "Blogs",
-    "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\nRStudio Blog | The RStudio blog is a great resource for learning about new features in RStudio and R.\nDanielle Navarro | Danielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining Danielle for a Postdoc in Sydney back in 2016.|\nEmily Riederer | Emily Riederer is a leading voice in modern data science|"
-  },
-  {
-    "objectID": "resources.html#podcasts-and-youtube",
-    "href": "resources.html#podcasts-and-youtube",
-    "title": "Resources",
-    "section": "Podcasts and YouTube",
-    "text": "Podcasts and YouTube\nHere are some of my favorite podcasts and YouTube channels\n\nCautionary Tales by Tim Harford | Wrong Tools Cost Lives|"
-  },
-  {
-    "objectID": "resources.html#software",
-    "href": "resources.html#software",
-    "title": "Resources",
-    "section": "Software",
-    "text": "Software\nHere are some of my favorite software tools\n\nNotion | I use Notion for everything from project management to personal notes\nRStudio | My favorite IDE for data science development\nGitHub Copilot | Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto | The successor to my beloved RMarkdown which powers just about every document I create (including this website) |"
-  },
-  {
-    "objectID": "consulting.html#r-traoining",
-    "href": "consulting.html#r-traoining",
-    "title": "Consulting",
-    "section": "R Traoining",
-    "text": "R Traoining"
-  },
-  {
-    "objectID": "consulting.html#r-trainoing",
-    "href": "consulting.html#r-trainoing",
-    "title": "Consulting",
-    "section": "R Trainoing",
-    "text": "R Trainoing"
-  },
-  {
-    "objectID": "consulting.html#r-training",
-    "href": "consulting.html#r-training",
-    "title": "Consulting",
-    "section": "R Training",
-    "text": "R Training"
-  },
-  {
-    "objectID": "consulting.html#functional-programming",
-    "href": "consulting.html#functional-programming",
-    "title": "Consulting",
-    "section": "Functional Programming",
-    "text": "Functional Programming"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Experience",
-    "text": "Experience\nI have diverse experience as a research scientist, developer, manager, and team lead across academia and industry Each role and organization has taught me something new about how to solve problems and work with diverse stakeholders. I have done my best to create a legacy of contagious enthusiasm and practical tools with every organization I’ve been a part of.\nSee my About page or on LinkedIn to learn more about my experience."
-  },
-  {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "I have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig.\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo.\nI obtained BA in Mathematics with a f ocus on probability and statistics from Grinnell College."
+    "text": "I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig. The focus of my PhD research was on adaptive decision making rules in individuals and groups. See Phillips, Hertwig, Kareev & Avrahami, 2014 for an example publication from my PhD.\n\n\n\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo. The focus of my Master’s thesis was on the role of experiences and expert advice on decisions.\n\n\n\nI obtained BA in Mathematics from Grinnell College. My undergraduate coursework focused on probability and statistics and behavioral decision making."
   },
   {
     "objectID": "experience.html#education",
     "href": "experience.html#education",
     "title": "Experience",
     "section": "",
-    "text": "I have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.\nI obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig.\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo.\nI obtained BA in Mathematics with a f ocus on probability and statistics from Grinnell College."
+    "text": "I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig. The focus of my PhD research was on adaptive decision making rules in individuals and groups. See Phillips, Hertwig, Kareev & Avrahami, 2014 for an example publication from my PhD.\n\n\n\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo. The focus of my Master’s thesis was on the role of experiences and expert advice on decisions.\n\n\n\nI obtained BA in Mathematics from Grinnell College. My undergraduate coursework focused on probability and statistics and behavioral decision making."
   },
   {
-    "objectID": "experience.html#work-experience",
-    "href": "experience.html#work-experience",
+    "objectID": "experience.html#experience",
+    "href": "experience.html#experience",
     "title": "Experience",
-    "section": "Work Experience",
-    "text": "Work Experience\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
+    "section": "Experience",
+    "text": "Experience\n\nAcademia\n\nPre-Doctoral Researcher, Ohio University\nAs a pre-doctoral researcher at Ohio University, I taught multiple university courses in statistics and research methods for psychology undergraduate students.\n\n\nPre-Doctoral Researcher, University of Basel\nAs a pre-doctoral researcher at the University of Basel, I taught undergraduate and masters level seminars in research methods.\n\n\nResearcher, University of Konstanz\n\n\n\n\n\n\nPublishing an e-book on statistical programming with R\n\n\n\nI converted my teaching materials on statistical programming with R into a free e-book “YaRrr! The Pirate’s Guide to R” that is still used by students and researchers around the world\n\n\nFollowing the completion of my PhD, I completed a research position at at the University of Konstanz in Konstanz, Germany in the department of Social Psychology and Decision Sciences lead by Dr. Wolfgang Gaissmaier. There I taught Bachelors, Masters, and PhD-level courses in statistical programming with R, and decision making. I ultimately translated my statistical programming teaching materials into a free e-book “YaRrr! The Pirate’s Guide to R”. The book was, and still is, used by many students and researchers around the world to learn statistical programming with R. The book is still available at https://bookdown.org/ndphillips/YaRrr/.\nIn addition to teaching\n\n\nResearcher, University of Basel\nI also completed a post-doctoral research position at the University of Basel in the department of Economic Psychology lead by Dr. Joerg Rieskamp.\n\n\n\nIndustry\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\nCTO & Co-Founder, Plinth Analytics\n\n\n\n\n\n\nFrom $0 to $1M in 1.5 years of bootstrapped development\n\n\n\nIn just 1.5 years, we went from two people with an idea to a team of 5 and $1M in revenue across multiple pharma and healthtech clients.\n\n\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases for EHR, claims and genomic data.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
   },
   {
     "objectID": "experience.html#presentations-and-videos",
@@ -280,24 +70,122 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
-    "objectID": "index.html#consulting",
-    "href": "index.html#consulting",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Consulting",
-    "text": "Consulting\nI offer a range of consulting services healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data. If you are have a project or question that you could use help with, I’d love to hear from you.\nSee Consulting to learn more."
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "I provide the following consulting services and engagement types"
   },
   {
-    "objectID": "index.html#experience-and-education",
-    "href": "index.html#experience-and-education",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Experience and Education",
-    "text": "Experience and Education\nI have diverse experience as a research scientist, developer, manager, and team lead across multiple academic and industry organizations. Each role and organization has taught me something new about how to solve problems and work with diverse stakeholders.\nSee my About page or on LinkedIn to learn more about my experience and education."
+    "objectID": "consulting.html#functional-programming",
+    "href": "consulting.html#functional-programming",
+    "title": "Consulting",
+    "section": "Functional Programming",
+    "text": "Functional Programming"
   },
   {
-    "objectID": "experience.html#work",
-    "href": "experience.html#work",
-    "title": "Experience",
-    "section": "Work",
-    "text": "Work\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\nCTO & Co-Founder, Plinth Analytics\n\n\n\n\n\n\nFrom $0 to $1M in 1.5 years of bootstrapped development\n\n\n\nIn just 1.5 years, we went from two people with an idea to a team of 5 and $1M in revenue across multiple pharma and healthtech clients.\n\n\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases for EHR, claims and genomic data.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
+    "objectID": "consulting.html#analytical-methods",
+    "href": "consulting.html#analytical-methods",
+    "title": "Consulting",
+    "section": "Analytical Methods",
+    "text": "Analytical Methods"
+  },
+  {
+    "objectID": "consulting.html#r-training",
+    "href": "consulting.html#r-training",
+    "title": "Consulting",
+    "section": "R Training",
+    "text": "R Training"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "",
+    "text": "I am a scientist driven to help people and organizations solve challenging problems and tell impact stories from data.\nI’m most well known for Healthcare Data Science, Statistical Programming with R, and Medical Decision Making."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Experience",
+    "text": "Experience\nI have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. Each role and organization has taught me new ways to solve problems and generate meaningful impact. My work philosophy is centered on creating solutions, both technical and non-technical, that are functional, practical, and engaging to users. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m privileged to be a part of.\nSee my About page or on LinkedIn to learn more about my experience."
+  },
+  {
+    "objectID": "index.html#working-status",
+    "href": "index.html#working-status",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Working Status",
+    "text": "Working Status\n\nFull Time\n[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.\n\n\nConsulting\nI am available for consulting on a short-term, hourly basis. Contact me to learn more."
+  },
+  {
+    "objectID": "index.html#projects-and-publications",
+    "href": "index.html#projects-and-publications",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Projects and Publications",
+    "text": "Projects and Publications\nHere is a selection of my work:\n\nOpen Source Projects\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.\n\n\n\nPresentations\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\n\n\n\nPublications\nSee my Google Scholar page for a full list of publications."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Contact",
+    "text": "Contact\nThe best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also reach me on LinkedIn or Github.\nIf you’d like to meet, you can book a meeting with me at https://calendly.com/nathaniel-d-phillips."
+  },
+  {
+    "objectID": "expertise.html",
+    "href": "expertise.html",
+    "title": "Expertise",
+    "section": "",
+    "text": "Scalable Data Science\nasdfasdf\n\n\nHeuristic Decision Making\nasdfasdf\n\n\nHealthcare Analytics\nasdf\n\n\nAnalytics Teaching"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here are some of my favorite resources - a mixture of books, tutorials, blogs, podcasts and YouTube, and software.\nI’ll do my best to keep this updated but it will almost certainly be out of date by the time you read it. If you have any suggestions for resources I should add, please let me know."
+  },
+  {
+    "objectID": "resources.html#books",
+    "href": "resources.html#books",
+    "title": "Resources",
+    "section": "Books",
+    "text": "Books\nHere are some of my favorite books\n\nThe Design of Everyday Things, Donald A. Norman\n\nAs applicable to programming as it is to the design of doors\n\nThe First 90 Days, Michael D. Watkins\n\nA great resource for anyone starting a new job - recommended by Lura Long\n\nThe Checklist Manifesto, Atul Gawande\n\nGawande is one of my favorite writers at the intersection of science and medicine.\n\nHow big things get done, Bent Flyvbjerg, Dan Gardner\n\nShould be required reading for anyone working on projects with teams - recommended by Nicole Mirea\n\nR for Data Science, Hadley Wickham, Garrett Grolemund\n\nA great resource for learning R\n\nWriting R Packages, Hadley Wickham\n\nThe bible of R package development"
+  },
+  {
+    "objectID": "resources.html#tutorials",
+    "href": "resources.html#tutorials",
+    "title": "Resources",
+    "section": "Tutorials",
+    "text": "Tutorials\nHere are some of my favorite online tutorials and guides\n\nSurvival Analysis in R, Emily Zabor\n\nA great introduction to survival analysis in R (by a fellow Grinnellian!)"
+  },
+  {
+    "objectID": "resources.html#blogs",
+    "href": "resources.html#blogs",
+    "title": "Resources",
+    "section": "Blogs",
+    "text": "Blogs\nHere are some blogs I like by companies and people I admire\n\nDanielle Navarro, Danielle Navarro is a cognitive scientist who writes about statistics and programming in R.\nEmily Riederer. Emily Riederer is a leading voice in modern data science across multiple languages and platforms.\nEmily Zabor. Emily Zabor is an expert in epidemiology and public health who writes about data science and statistics in R"
+  },
+  {
+    "objectID": "resources.html#podcasts-and-youtube",
+    "href": "resources.html#podcasts-and-youtube",
+    "title": "Resources",
+    "section": "Podcasts and YouTube",
+    "text": "Podcasts and YouTube\nHere are some of my favorite podcasts and YouTube channels\n\nCautionary Tales by Tim Harford | Wrong Tools Cost Lives|"
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "Software",
+    "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
   }
 ]

@@ -4,16 +4,47 @@ title: "Experience"
 
 ## Education
 
-I have a diverse educational background that has shaped my approach to data science and decision making. I am grateful for the opportunities I have had to learn from some of the best in the field.
+#### PhD, Cognitive Psychology, University of Basel
 
-I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the [Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) lead by [Dr. Ralph Hertwig](https://www.mpib-berlin.mpg.de/person/ralph-hertwig/57631).
+I obtained a PhD in Cognitive Psychology from the [University of Basel](https://www.unibas.ch/de.html) in Basel, Switzerland and the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin, Germany within the [Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality) lead by [Dr. Ralph Hertwig](https://www.mpib-berlin.mpg.de/person/ralph-hertwig/57631). The focus of my PhD research was on adaptive decision making rules in individuals and groups. See [Phillips, Hertwig, Kareev & Avrahami, 2014](https://www.sciencedirect.com/science/article/abs/pii/S0010027714001164) for an example publication from my PhD.
 
-Prior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo.
+#### Masters, Quantitative Psychology, Ohio University
 
-I obtained BA in Mathematics with a f
-ocus on probability and statistics from Grinnell College.
+Prior to my PhD, I obtained a Masters in Psychology at [Ohio University](https://www.ohio.edu/) at the department of Social Judgment and Behavioral Decision making under [Dr. Claudia Gonzalez-Vallejo](https://www.ohio.edu/cas/gonzalez). The focus of my Master's thesis was on the role of experiences and expert advice on decisions.
 
-## Work
+#### Bachelors, Mathematics, Grinnell College
+
+I obtained BA in Mathematics from [Grinnell College](https://www.grinnell.edu/). My undergraduate coursework focused on probability and statistics and behavioral decision making.
+
+## Experience
+
+### Academia
+
+#### Pre-Doctoral Researcher, Ohio University
+
+As a pre-doctoral researcher at Ohio University, I taught multiple university courses in statistics and research methods for psychology undergraduate students.
+
+#### Pre-Doctoral Researcher, University of Basel
+
+As a pre-doctoral researcher at the University of Basel, I taught undergraduate and masters level seminars in research methods.
+
+#### Researcher, University of Konstanz
+
+::: {.callout-tip}
+## Publishing an e-book on statistical programming with R
+
+I converted my teaching materials on statistical programming with R into a free e-book "YaRrr! The Pirate's Guide to R" that is still used by students and researchers around the world
+:::
+
+Following the completion of my PhD, I completed a research position at at the [University of Konstanz](https://www.uni-konstanz.de/en/) in Konstanz, Germany in the department of Social Psychology and Decision Sciences lead by [Dr. Wolfgang Gaissmaier](https://spds.uni-konstanz.de/en/prof-wolfgang-gaissmaier). There I taught Bachelors, Masters, and PhD-level courses in statistical programming with R, and decision making. I ultimately translated my statistical programming teaching materials into a free e-book "YaRrr! The Pirate's Guide to R". The book was, and still is, used by many students and researchers around the world to learn statistical programming with R. The book is still available at [https://bookdown.org/ndphillips/YaRrr/]().
+
+In addition to teaching 
+
+#### Researcher, University of Basel
+
+I also completed a post-doctoral research position at the [University of Basel](https://www.unibas.ch/de.html) in the department of [Economic Psychology](https://psychologie.unibas.ch/en/faculty/centers/economic-psychology/) lead by [Dr. Joerg Rieskamp](https://psychologie.unibas.ch/en/persons/joerg-rieskamp/).
+
+### Industry
 
 Here is a selection of my work experience. See my [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) page for a more detailed history.
 

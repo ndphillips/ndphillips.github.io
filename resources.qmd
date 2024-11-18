@@ -4,30 +4,39 @@ title: "Resources"
 
 Here are some of my favorite resources - a mixture of [books](#books), [tutorials](#tutorials), [blogs](#blogs), [podcasts and YouTube](#podcasts-and-youtube), and [software](#software).
 
+I'll do my best to keep this updated but it will almost certainly be out of date by the time you read it. If you have any suggestions for resources I should add, please let me know.
+
 ## Books
 
 Here are some of my favorite books
 
-- [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | Donald A. Norman |  As applicable to programming as it is to the design of toilets|
-- [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days?ref=nav_sb_ss_1_17) | Michael D. Watkins | A great resource for anyone starting a new job - recommended by [Lura Long](https://www.linkedin.com/in/luralong/)|
-- [The Checklist Manifesto]() | Atul Gawande  | Gawande is one of my favorite writers at the intersection of science and medicine. |
-- [How big things get done](https://www.goodreads.com/en/book/show/61327449) | Bent Flyvbjerg, Dan Gardner | Should be required reading for anyone working on projects with teams - recommended by [Nicole Mirea](https://www.linkedin.com/in/nimirea/)|
-- [R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garrett Grolemund | A great resource for learning R |
-- [Writing R Packages](https://r-pkgs.org/) | Hadley Wickham |The bible of R package development|
+- [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things), Donald A. Norman
+    - As applicable to programming as it is to the design of doors
+- [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days?ref=nav_sb_ss_1_17), Michael D. Watkins
+    - A great resource for anyone starting a new job - recommended by [Lura Long](https://www.linkedin.com/in/luralong/)
+- [The Checklist Manifesto](), Atul Gawande
+    - Gawande is one of my favorite writers at the intersection of science and medicine.
+- [How big things get done](https://www.goodreads.com/en/book/show/61327449), Bent Flyvbjerg, Dan Gardner
+    - Should be required reading for anyone working on projects with teams - recommended by [Nicole Mirea](https://www.linkedin.com/in/nimirea/)
+- [R for Data Science](https://r4ds.had.co.nz/), Hadley Wickham, Garrett Grolemund
+    - A great resource for learning R
+- [Writing R Packages](https://r-pkgs.org/), Hadley Wickham
+    - The bible of R package development
 
 ## Tutorials
 
 Here are some of my favorite online tutorials and guides
 
-- [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) | [Emily Zabor](https://www.linkedin.com/in/emily-zabor-59b902b7/) | A great introduction to survival analysis in R (by a fellow Grinnellian!)|
+- [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html), [Emily Zabor](https://www.linkedin.com/in/emily-zabor-59b902b7/)
+    - A great introduction to survival analysis in R (by a fellow Grinnellian!)
 
 ## Blogs
 
 Here are some blogs I like by companies and people I admire
 
-- [RStudio Blog](https://blog.rstudio.com/) | The RStudio blog is a great resource for learning about new features in RStudio and R.
-- [Danielle Navarro](https://blog.djnavarro.net/) | Danielle Navarro is a cognitive scientist who writes about statistics and programming in R. I was :this: close to joining Danielle for a Postdoc in Sydney back in 2016.|
-- [Emily Riederer](https://www.emilyriederer.com/) | Emily Riederer is a leading voice in modern data science|
+- [Danielle Navarro](https://blog.djnavarro.net/), Danielle Navarro is a cognitive scientist who writes about statistics and programming in R. 
+- [Emily Riederer](https://www.emilyriederer.com/). Emily Riederer is a leading voice in modern data science across multiple languages and platforms.
+- [Emily Zabor](https://www.emilyzabor.com/). Emily Zabor is an expert in epidemiology and public health who writes about data science and statistics in R
 
 ## Podcasts and YouTube
 
@@ -39,7 +48,7 @@ Here are some of my favorite podcasts and YouTube channels
 
 Here are some of my favorite software tools
 
-- [Notion](www.notion.so) | I use Notion for everything from project management to personal notes 
-- [RStudio](https://posit.co/downloads/) | My favorite IDE for data science development
-- [GitHub Copilot](https://copilot.github.com/) | Copilot is spectatular, especially using the [RStudio Copilot Plugin](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)
-- [Quarto](https://quarto.org/) | The successor to my beloved RMarkdown which powers just about every document I create (including this website) |
+- [Notion](www.notion.so). I use Notion for everything from project management to personal notes 
+- [RStudio](https://posit.co/downloads/). My favorite IDE for data science development
+- [GitHub Copilot](https://copilot.github.com/). Copilot is spectatular, especially using the [RStudio Copilot Plugin](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)
+- [Quarto](https://quarto.org/). The successor to my beloved RMarkdown which powers just about every document I create (including this website).

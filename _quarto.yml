@@ -3,24 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "Phillips Analytics"
+  title: "Nathaniel D. Phillips, PhD"
   google-analytics: "G-H0ZF5JL7LN"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: experience.qmd
-        text: Experience
-      - href: expertise.qmd
-        text: Expertise
-   #   - href: blog.qmd
-  #      text: Blog
-      - href: consulting.qmd
-        text: Consulting
-      - href: contact.qmd
-        text: Contact
+    #  - href: experience.qmd
+    #    text: Experience
+    #  - href: expertise.qmd
+    #    text: Expertise
+
+    #  - href: consulting.qmd
+    #    text: Consulting
+
       - href: resources.qmd
         text: Resources
+      - href: contact.qmd
+        text: Contact
+      - href: blog.qmd
+        text: Blog
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/nathanieldphillips/

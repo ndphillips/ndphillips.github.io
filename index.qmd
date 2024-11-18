@@ -23,31 +23,57 @@ title: "Nathaniel D. Phillips, PhD"
 ```
 <br>
 
-![](assets/phillips_portrait_full.jpg){width=50%}
+![](assets/portrait_nov2024_zoom.jpg){width=50%}
 
+I am a scientist driven to help people and organizations solve challenging problems and tell impact stories from data.
 
-I am a Data Scientist who loves helping people solve challenging problems and tell impact stories to technical and non-technical stakeholders. I have experience across academia and industry building products and teams that generate insights from messy data. 
-
-I'm most well known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Open Source Data Science](www.bookdown.org/ndphillips/yarrr), and [Decision Making Research](https://github.com/ndphillips/FFTrees).
+I'm most well known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Statistical Programming with R](www.bookdown.org/ndphillips/yarrr), and [Medical Decision Making](https://github.com/ndphillips/FFTrees).
 
 ## Experience
 
-I have diverse experience as a research scientist, developer, manager, and team lead across academia and industry Each role and organization has taught me something new about how to solve problems and work with diverse stakeholders. I have done my best to create a legacy of contagious enthusiasm and practical tools with every organization I've been a part of.
+I have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. Each role and organization has taught me new ways to solve problems and generate meaningful impact. My work philosophy is centered on creating solutions, both technical and non-technical, that are functional, practical, and engaging to users. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I'm privileged to be a part of.
 
 See my [About](about.qmd) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) to learn more about my experience.
 
-## Consulting
+## Working Status
 
-I offer a range of consulting services healthcare data science. I work with clients who want to make it easier to solve problems and answer questions from healthcare data. If you are have a project or question that you could use help with, I'd love to hear from you.
+### Full Time
 
-See [Consulting](consulting.qmd) to learn more.
+[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.
+
+### Consulting
+
+I am available for consulting on a short-term, hourly basis. Contact me to learn more.
+
+## Projects and Publications
+
+Here is a selection of my work:
+
+### Open Source Projects
+
+- [FFTrees](https://github.com/ndphillips/FFTrees). The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier. 
+
+- [yarrr](https://bookdown.org/ndphillips/yarrr/). The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.
+
+- [The Pirate's Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.
+
+### Presentations
+
+<!-- <p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"><img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte"></a></p> -->
+
+- [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/), RStudio Conf, 2019
+- [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees), useR!, 2017
+- [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma), R/Pharma, 2022
+
+### Publications
+
+See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) page for a full list of publications.
 
 ## Contact
 
-The best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. 
+The best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also reach me on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) or [Github](https://www.github.com/ndphillips).
 
 If you'd like to meet, you can book a meeting with me at [https://calendly.com/nathaniel-d-phillips](https://calendly.com/nathaniel-d-phillips).
-
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-Here's how you can reach me:
-
 - Email: nathaniel.d.phillips.is@gmail.com
 - LinkedIn: [www.linkedin.com/nathanieldphillips]()
 - GitHub: [www.github.com/ndphillips]()
