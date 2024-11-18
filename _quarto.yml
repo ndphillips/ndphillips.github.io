@@ -9,20 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-    #  - href: experience.qmd
-    #    text: Experience
-    #  - href: expertise.qmd
-    #    text: Expertise
-
-    #  - href: consulting.qmd
-    #    text: Consulting
-
-    #  - href: resources.qmd
-    #    text: Tips
       - href: resume.qmd
         text: Resume
-    #  - href: blog.qmd
-    #    text: Blog
       - href: contact.qmd
         text: Contact
     tools:

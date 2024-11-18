@@ -58,7 +58,10 @@ See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&h
 
 ### Open Source Projects
 
-![](assets/heartfft.png){width=100%}
+<div style="text-align: center;">
+![](assets/heartfft.png){width=75% style="border: 2px solid black;" fig-cap="This is a caption with a bordered image."}  <p style="font-style: italic; font-size: 0.9em;">Output created by the FFTrees decision making algorithm and accompanying R package</p>
+</div>
+
 
 - [FFTrees](https://github.com/ndphillips/FFTrees). The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier. 
 
