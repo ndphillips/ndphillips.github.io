@@ -21,6 +21,8 @@ website:
         text: Resources
       - href: contact.qmd
         text: Contact
+      - href: resume.qmd
+        text: Resume
       - href: blog.qmd
         text: Blog
     tools:

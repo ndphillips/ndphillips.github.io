@@ -70,6 +70,13 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+  },
+  {
     "objectID": "consulting.html",
     "href": "consulting.html",
     "title": "Consulting",
@@ -98,11 +105,11 @@
     "text": "R Training"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "Email: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+    "text": "I am in the progress of updating my resume and will post it here when ready.\nIn the meantime, check out my LinkedIn profile or contact me for more info."
   },
   {
     "objectID": "index.html",
@@ -112,6 +119,13 @@
     "text": "I am a scientist driven to help people and organizations solve challenging problems and tell impact stories from data.\nI’m most well known for Healthcare Data Science, Statistical Programming with R, and Medical Decision Making."
   },
   {
+    "objectID": "index.html#edcuation",
+    "href": "index.html#edcuation",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Edcuation",
+    "text": "Edcuation\n\nPhD, Cognitive Psychology, University of Basel, Basel, Switzerland\nMS, Quantitative Psychology, Ohio University, Athens, OH\nBA, Mathematics, Grinnell College, Grinnell, IA"
+  },
+  {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Nathaniel D. Phillips, PhD",
@@ -119,18 +133,18 @@
     "text": "Experience\nI have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. Each role and organization has taught me new ways to solve problems and generate meaningful impact. My work philosophy is centered on creating solutions, both technical and non-technical, that are functional, practical, and engaging to users. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m privileged to be a part of.\nSee my About page or on LinkedIn to learn more about my experience."
   },
   {
+    "objectID": "index.html#projects-and-publications",
+    "href": "index.html#projects-and-publications",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Projects and Publications",
+    "text": "Projects and Publications\nHere is a selection of my work:\n\nOpen Source Projects\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.\n\n\n\nPresentations\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\n\n\n\nPublications\nSee my Google Scholar page for a partial list of publications. Note that most of my healthcare publications are not listed here."
+  },
+  {
     "objectID": "index.html#working-status",
     "href": "index.html#working-status",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Working Status",
     "text": "Working Status\n\nFull Time\n[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.\n\n\nConsulting\nI am available for consulting on a short-term, hourly basis. Contact me to learn more."
-  },
-  {
-    "objectID": "index.html#projects-and-publications",
-    "href": "index.html#projects-and-publications",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Projects and Publications",
-    "text": "Projects and Publications\nHere is a selection of my work:\n\nOpen Source Projects\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.\n\n\n\nPresentations\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\n\n\n\nPublications\nSee my Google Scholar page for a full list of publications."
   },
   {
     "objectID": "index.html#contact",

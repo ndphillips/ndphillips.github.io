@@ -21,7 +21,6 @@ title: "Nathaniel D. Phillips, PhD"
     </a>
 </div>
 ```
-<br>
 
 ![](assets/portrait_nov2024_zoom.jpg){width=50%}
 
@@ -29,21 +28,17 @@ I am a scientist driven to help people and organizations solve challenging probl
 
 I'm most well known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Statistical Programming with R](www.bookdown.org/ndphillips/yarrr), and [Medical Decision Making](https://github.com/ndphillips/FFTrees).
 
+## Edcuation
+
+- PhD, Cognitive Psychology, University of Basel, Basel, Switzerland
+- MS, Quantitative Psychology, Ohio University, Athens, OH
+- BA, Mathematics, Grinnell College, Grinnell, IA
+
 ## Experience
 
 I have over 10 years of experience across academia and industry, from large corporations (e.g.; Roche) to small start-ups (e.g.; Plinth Analytics), as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. Each role and organization has taught me new ways to solve problems and generate meaningful impact. My work philosophy is centered on creating solutions, both technical and non-technical, that are functional, practical, and engaging to users. At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I'm privileged to be a part of.
 
 See my [About](about.qmd) page or on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) to learn more about my experience.
-
-## Working Status
-
-### Full Time
-
-[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.
-
-### Consulting
-
-I am available for consulting on a short-term, hourly basis. Contact me to learn more.
 
 ## Projects and Publications
 
@@ -67,7 +62,18 @@ Here is a selection of my work:
 
 ### Publications
 
-See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) page for a full list of publications.
+See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) page for a partial list of publications. Note that most of my healthcare publications are not listed here.
+
+## Working Status
+
+### Full Time
+
+[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.
+
+### Consulting
+
+I am available for consulting on a short-term, hourly basis. Contact me to learn more.
+
 
 ## Contact
 
