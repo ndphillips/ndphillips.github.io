@@ -24,21 +24,19 @@ title: "Nathaniel D. Phillips, PhD"
 
 ![](assets/nov2024_portrait_small.jpg){width=100%}
 
-I am a scientific leader with over 10 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science tooling, and real-world healthcare analytics. 
+I am a scientist with over 10 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science, and healthcare analytics. I consider it my job to think deeply, discover hidden truths, and communicate what I've learned to decision makers who can create meaningful change.
 
-Practically speaking, I lead the development of solutions to problems with data, both in terms of process approaches and software implementations.
+Practically speaking, I lead the development of data-driven solutions to problems. Sometimes these solutions take the form of a strategic or scientific recommendation. Other times they take the form of a piece of software or scientific report. Either way, these solutions are delivered with a recognition of what we know and what we don't. We will never have perfect information and cannot wait until we do (spoiler alert: we never will). Any important scientific or organizational decision will inherently involve risk and success is never guaranteed. Success comes not from having perfect information, but from making bold decisions based on the best information we have available, while always being prepared to change course if we discover critical new information.
 
-When I am not developing solutions, I train and guide junior scientists to be more confident and effective in their roles.
+I believe strongly in the power of a growth mindset -- an ironclad trust that every problem has an idea that will solve it. By combining curiosity, collaboration, and perseverance, we will discover that idea, and build something better than we ever could have imagined.
 
-I believe in always having a growth mindset, an ironclad trust that every problem has an idea that will solve it and that we can discover through collaboration and perseverance.
+When I am not developing solutions, I strive to train and guide others to be more confident and effective in their roles, while learning the same from my own mentors.
 
-"If you want to go fast, go alone. If you want to go far, go together" ~ African Proverb
+## Where am I doing right now?
 
-## Working Status
+As of November 2024, I am open to new full-time opportunities for scientific leadership with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please do let me know.
 
-[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.
-
-I am available for consulting on a short-term, hourly basis. Contact me to learn more.
+I am also available for consulting on a short-term, hourly basis. Contact me to learn more.
 
 ## Contact
 
