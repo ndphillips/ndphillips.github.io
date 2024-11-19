@@ -2,7 +2,9 @@
 title: "About"
 ---
 
-This page is more of a personal reflection than a professional summary See my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) for a formal summary of my experience and skills.
+## Note
+
+A brief note to those reading this page. What's below is more of a personal reflection of my career journey rather than a professional summary. For a professional summary of my experience and skills, see my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
 
 ## My Education Journey
 

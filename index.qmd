@@ -22,11 +22,11 @@ title: "Nathaniel D. Phillips, PhD"
 <!-- </div> -->
 <!-- ``` -->
 
-![](assets/portrait_nov2024_zoom.jpg){width=50%}
+![](assets/nov2024_portrait_small.jpg){width=100%}
 
 I am a scientific leader with over 10 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science tooling, and real-world healthcare analytics. 
 
-Practically speaking, I lead the development of solutions to problems with data, both in terms of process approaches and software implementations. 
+Practically speaking, I lead the development of solutions to problems with data, both in terms of process approaches and software implementations.
 
 When I am not developing solutions, I train and guide junior scientists to be more confident and effective in their roles.
 
