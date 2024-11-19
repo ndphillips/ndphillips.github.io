@@ -2,9 +2,11 @@
 title: "About"
 ---
 
-## My Education
+## My Education Journey
 
-I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. I then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany.
+Ever since I was a teenager, I loved mathematics and dreamed of, one day, earning a degree in mathematics. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. Earning this degree continues to be one of my greatest sources of pride.
+
+I then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany.
 
 ## My Experience And Skills
 
@@ -37,12 +39,14 @@ Below is a list of all the presentations I've given that are available online (a
 - [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/), RStudio Conf, 2019
 
 <div style="text-align: center;">
-![](assets/heartfft.png){width=75% style="border: 2px solid black;" fig-cap="This is a caption with a bordered image."}  <p style="font-style: italic; font-size: 0.9em;">Output created by the FFTrees decision making algorithm and accompanying R package</p>
+![](assets/heartfft.png){width=75% style="border: 2px solid black;" fig-cap="This is a caption with a bordered image."}  <p style="font-style: italic; font-size: 0.9em;">The output created by the FFTrees decision making algorithm and accompanying R package.</p>
 </div>
 
-I have built and maintained dozens of open-source data science packages packages and instructional materials over the years. All are built using the R programming language which I've developed quite some expertise in. Most, but not all of my projects are available at https://github.com/ndphillips. 
+I have built and maintained dozens of open-source data science packages packages and instructional materials over the years. Most, but not all of my projects are available at https://github.com/ndphillips. 
 
-Here are the 3 most popular popen source projects I've developed:
+All are built using the R programming language which I've developed quite some expertise in. Well, that is a bit of an understatement as over the course of almost 15 years, I used and loved R almost to the point of obsession. 
+
+Here are the 3 most popular open source projects I've developed:
 
 1. [FFTrees](https://github.com/ndphillips/FFTrees). The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier. 
 
@@ -52,9 +56,9 @@ Here are the 3 most popular popen source projects I've developed:
 
 ## My Healthcare Data Science Work
 
-*Coming Soon*
+*Coming Soon: An overview of my most memorable healthcare data science work over the course of my career from big pharma (Roche), to small healthtech (Flatiron Health) to a two-person analytics consulting company.*
 
 ## My Teaching
 
-*Coming Soon*
+*Coming Soon: Memories and links from years of teaching at universities in the US, Switzerland, and Germany.*
 

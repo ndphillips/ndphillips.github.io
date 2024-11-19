@@ -32,7 +32,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. I then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
+    "text": "Ever since I was a teenager, I loved mathematics and dreamed of, one day, earning a degree in mathematics. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. Earning this degree continues to be one of my greatest sources of pride.\nI then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
   },
   {
     "objectID": "about.html#my-education",
@@ -53,21 +53,21 @@
     "href": "about.html#my-presentations-publications-and-open-source-projects",
     "title": "About",
     "section": "My Presentations, Publications and Open Source Projects",
-    "text": "My Presentations, Publications and Open Source Projects\nI have a handfull of publications in peer-reviewed journals. See Google Scholar for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.\n\n  \n\nA screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.\n\n\nBelow is a list of all the presentations I’ve given that are available online (at least as far as I know):\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\n\nOutput created by the FFTrees decision making algorithm and accompanying R package\n\n\nI have built and maintained dozens of open-source data science packages packages and instructional materials over the years. All are built using the R programming language which I’ve developed quite some expertise in. Most, but not all of my projects are available at https://github.com/ndphillips.\nHere are the 3 most popular popen source projects I’ve developed:\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world."
+    "text": "My Presentations, Publications and Open Source Projects\nI have a handfull of publications in peer-reviewed journals. See Google Scholar for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.\n\n  \n\nA screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.\n\n\nBelow is a list of all the presentations I’ve given that are available online (at least as far as I know):\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\n\nThe output created by the FFTrees decision making algorithm and accompanying R package.\n\n\nI have built and maintained dozens of open-source data science packages packages and instructional materials over the years. Most, but not all of my projects are available at https://github.com/ndphillips.\nAll are built using the R programming language which I’ve developed quite some expertise in. Well, that is a bit of an understatement as over the course of almost 15 years, I used and loved R almost to the point of obsession.\nHere are the 3 most popular open source projects I’ve developed:\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world."
   },
   {
     "objectID": "about.html#my-healthcare-data-science-work",
     "href": "about.html#my-healthcare-data-science-work",
     "title": "About",
     "section": "My Healthcare Data Science Work",
-    "text": "My Healthcare Data Science Work\nComing Soon"
+    "text": "My Healthcare Data Science Work\nComing Soon: An overview of my most memorable healthcare data science work over the course of my career from big pharma (Roche), to small healthtech (Flatiron Health) to a two-person analytics consulting company."
   },
   {
     "objectID": "about.html#my-teaching",
     "href": "about.html#my-teaching",
     "title": "About",
     "section": "My Teaching",
-    "text": "My Teaching\nComing Soon"
+    "text": "My Teaching\nComing Soon: Memories and links from years of teaching at universities in the US, Switzerland, and Germany."
   },
   {
     "objectID": "index.html",
@@ -229,5 +229,12 @@
     "title": "Showcase",
     "section": "",
     "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+  },
+  {
+    "objectID": "about.html#my-education-journey",
+    "href": "about.html#my-education-journey",
+    "title": "About",
+    "section": "",
+    "text": "Ever since I was a teenager, I loved mathematics and dreamed of, one day, earning a degree in mathematics. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. Earning this degree continues to be one of my greatest sources of pride.\nI then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
   }
 ]
