@@ -2,9 +2,11 @@
 title: "About"
 ---
 
-## Note
+![](assets/nov2024_portrait_small.jpg){width=100%}
 
-A brief note to those reading this page. What's below is more of a personal reflection of my career journey rather than a professional summary. For a professional summary of my experience and skills, see my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
+::: {.callout-note}
+This page is more of a personal reflection of my career journey rather than a professional summary. For a professional summary of my experience and skills, see my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
+:::
 
 ## My Education Journey
 
