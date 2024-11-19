@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![](assets/nov2024_portrait_small.jpg){width=100%}
+![](assets/portrait_nov24_v2.jpg){width=100%}
 
 ::: {.callout-note}
 This page is more of a personal reflection of my career journey rather than a professional summary. For a professional summary of my experience and skills, see my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).
@@ -10,7 +10,7 @@ This page is more of a personal reflection of my career journey rather than a pr
 
 ## My Education Journey
 
-Ever since I was a teenager, I loved mathematics and dreamed of, one day, earning a degree in mathematics. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. Earning this degree continues to be one of my greatest sources of pride.
+Ever since I was 8 years old, I loved mathematics. One of my favorite things to do with my father was to go to a used bookstore and find the oldest looking math books I can find and flip through them, dreaming that one day I'd actually understand them. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa with a focus on probability and statistics. Earning this degree continues to be one of my greatest sources of pride.
 
 I then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany.
 
