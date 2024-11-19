@@ -3,6 +3,6 @@ title: "Resume"
 date: "2024-11"
 ---
 
-You can access my resume at: [Nathaniel Phillips Resume.pdf](assets/Nathaniel Phillips Resume.pdf) or using the window below:
+You can access my resume at: [Nathaniel Phillips Resume.pdf](assets/nathanielphillips.pdf) or using the window below:
 
-<iframe src="assets/Nathaniel Phillips Resume.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/nathanielphillips.pdf" width="100%" height="600px"></iframe>
