@@ -9,23 +9,128 @@
   {
     "objectID": "personal.html",
     "href": "personal.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
     "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. I loathe unnecessary complexity,\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
   },
   {
     "objectID": "personal.html#principles",
     "href": "personal.html#principles",
-    "title": "About",
+    "title": "Projects",
     "section": "",
     "text": "Here are my core principles which guide my work and life:\n\nUseful. If it’s not useful, then what’s the point?\nClear. I loathe unnecessary complexity,\nRespectful. We don’t all share the same values, and beliefs. That’s a good thing.\nResourceful. Wasted resources here could have been used elsewhere.\nHumble. I’ve been wrong before, and I’ll be wrong again."
   },
   {
     "objectID": "personal.html#rolling-list-of-interests",
     "href": "personal.html#rolling-list-of-interests",
-    "title": "About",
+    "title": "Projects",
     "section": "Rolling list of interests",
     "text": "Rolling list of interests\n\n[Nov 2024] I’m pretty into anything cyberpunk / synthwave these days. Especially Gunship. For that reason I updated this site to use the “Cyberpunk aesthetic” vapor theme. I’m sure I’ll change it to something more basic when the novelty wears off.\n\n[Nov 12, 2024] It wore off."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. I then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
+  },
+  {
+    "objectID": "about.html#my-education",
+    "href": "about.html#my-education",
+    "title": "About",
+    "section": "",
+    "text": "I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. I then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
+  },
+  {
+    "objectID": "about.html#my-experience-and-skills",
+    "href": "about.html#my-experience-and-skills",
+    "title": "About",
+    "section": "My Experience And Skills",
+    "text": "My Experience And Skills\nI have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. None of these roles has been a perfect fit, but I can geniuinely say that I have learned something new about myself and the world in each one.\nWhile I have spent most of my career creating technical solutions, I use my background in the psychology of decision making to ensure that every solution I design, and every presentation I deliver, is practical, engaging and has a high likelihood of actually being put into practice by decision makers. I have gotten much better at impacting people over time, not because I’m a natural, but because I haven’t been afraid to make mistakes and learn from them.\nAt a personal level, I gain sincere joy from seeing users enjoy using a tool I’ve designed. I gain even more joy helping a junior team member accomplish more than they thought they could. As it may come as no surprise, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m a part of.\nSee my Resume page or LinkedIn for a detailed list of my professional experience."
+  },
+  {
+    "objectID": "about.html#my-presentations-publications-and-open-source-projects",
+    "href": "about.html#my-presentations-publications-and-open-source-projects",
+    "title": "About",
+    "section": "My Presentations, Publications and Open Source Projects",
+    "text": "My Presentations, Publications and Open Source Projects\nI have a handfull of publications in peer-reviewed journals. See Google Scholar for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.\n\n  \n\nA screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.\n\n\nBelow is a list of all the presentations I’ve given that are available online (at least as far as I know):\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\n\nOutput created by the FFTrees decision making algorithm and accompanying R package\n\n\nI have built and maintained dozens of open-source data science packages packages and instructional materials over the years. All are built using the R programming language which I’ve developed quite some expertise in. Most, but not all of my projects are available at https://github.com/ndphillips.\nHere are the 3 most popular popen source projects I’ve developed:\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world."
+  },
+  {
+    "objectID": "about.html#my-healthcare-data-science-work",
+    "href": "about.html#my-healthcare-data-science-work",
+    "title": "About",
+    "section": "My Healthcare Data Science Work",
+    "text": "My Healthcare Data Science Work\nComing Soon"
+  },
+  {
+    "objectID": "about.html#my-teaching",
+    "href": "about.html#my-teaching",
+    "title": "About",
+    "section": "My Teaching",
+    "text": "My Teaching\nComing Soon"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "",
+    "text": "I am a scientific leader with over 10 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science tooling, and real-world healthcare analytics.\nPractically speaking, I lead the development of solutions to problems with data, both in terms of process approaches and software implementations.\nWhen I am not developing solutions, I train and guide junior researchers to be more confident and effective in their roles.\nI believe in always having an aspirational mindset, an ironclad trust that every problem has an idea that will solve it.\n“If you want to go fast, go alone. If you want to go far, go together” ~ African Proverb"
+  },
+  {
+    "objectID": "index.html#working-status",
+    "href": "index.html#working-status",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Working Status",
+    "text": "Working Status\n[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.\nI am available for consulting on a short-term, hourly basis. Contact me to learn more."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Contact",
+    "text": "Contact\nThe best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also reach me on LinkedIn or Github."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below:"
+  },
+  {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "I provide the following consulting services and engagement types"
+  },
+  {
+    "objectID": "consulting.html#functional-programming",
+    "href": "consulting.html#functional-programming",
+    "title": "Consulting",
+    "section": "Functional Programming",
+    "text": "Functional Programming"
+  },
+  {
+    "objectID": "consulting.html#analytical-methods",
+    "href": "consulting.html#analytical-methods",
+    "title": "Consulting",
+    "section": "Analytical Methods",
+    "text": "Analytical Methods"
+  },
+  {
+    "objectID": "consulting.html#r-training",
+    "href": "consulting.html#r-training",
+    "title": "Consulting",
+    "section": "R Training",
+    "text": "R Training"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
   },
   {
     "objectID": "experience.html",
@@ -68,90 +173,6 @@
     "title": "Experience",
     "section": "Open Source Projects",
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
-  },
-  {
-    "objectID": "consulting.html",
-    "href": "consulting.html",
-    "title": "Consulting",
-    "section": "",
-    "text": "I provide the following consulting services and engagement types"
-  },
-  {
-    "objectID": "consulting.html#functional-programming",
-    "href": "consulting.html#functional-programming",
-    "title": "Consulting",
-    "section": "Functional Programming",
-    "text": "Functional Programming"
-  },
-  {
-    "objectID": "consulting.html#analytical-methods",
-    "href": "consulting.html#analytical-methods",
-    "title": "Consulting",
-    "section": "Analytical Methods",
-    "text": "Analytical Methods"
-  },
-  {
-    "objectID": "consulting.html#r-training",
-    "href": "consulting.html#r-training",
-    "title": "Consulting",
-    "section": "R Training",
-    "text": "R Training"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below:"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "",
-    "text": "I am a scientist and solution designer driven to help people and organizations solve challenging problems and tell impact stories from data. I am passionate about creating tools and systems that reduce waste and empower people to make better decisions.\nI am most well known for Healthcare Data Science, Statistical Programming with R, and Medical Decision Making."
-  },
-  {
-    "objectID": "index.html#edcuation",
-    "href": "index.html#edcuation",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Edcuation",
-    "text": "Edcuation\n\nPhD, Cognitive Psychology, University of Basel, Basel, Switzerland\nMS, Quantitative Psychology, Ohio University, Athens, OH\nBA, Mathematics, Grinnell College, Grinnell, IA"
-  },
-  {
-    "objectID": "index.html#experience-and-skills",
-    "href": "index.html#experience-and-skills",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Experience And Skills",
-    "text": "Experience And Skills\nI have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder.\nWhile I have spent most of my career creating technical solutions, I leverage my background in decision making psychology to ensure that every solution I design, and every presentation I deliver, is practical, engaging and will actually impact flesh and blood decision makers.\nAt a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m privileged to be a part of.\nSee my Resume page or LinkedIn for a detailed list of my professional experience."
-  },
-  {
-    "objectID": "index.html#projects-and-publications",
-    "href": "index.html#projects-and-publications",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Projects and Publications",
-    "text": "Projects and Publications\nWhile most of my professional healthcare work is proprietary, here is a selection of my open source projects, presentations, and publications.\n\nPublications\nSee my Google Scholar page for a partial list of publications. Note that most of my healthcare publications are not listed here.\n\n\nPresentations\n\n  \n\nWatch: How we overhauled a Frankensteinian SQL workflow with the tidyverse.\n\n\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\nOpen Source Projects\n\n\n\nOutput created by the FFTrees decision making algorithm and accompanying R package\n\n\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world."
-  },
-  {
-    "objectID": "index.html#working-status",
-    "href": "index.html#working-status",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Working Status",
-    "text": "Working Status\n\nFull Time\n[Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.\n\n\nConsulting\nI am available for consulting on a short-term, hourly basis. Contact me to learn more."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Contact",
-    "text": "Contact\nThe best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also reach me on LinkedIn or Github."
   },
   {
     "objectID": "expertise.html",

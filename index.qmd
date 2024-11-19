@@ -24,70 +24,19 @@ title: "Nathaniel D. Phillips, PhD"
 
 ![](assets/portrait_nov2024_zoom.jpg){width=50%}
 
-I am a scientist and solution designer driven to help people and organizations solve challenging problems and tell impact stories from data. I am passionate about creating tools and systems that reduce waste and empower people to make better decisions.
+I am a scientific leader with over 10 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science tooling, and real-world healthcare analytics. 
 
-I am most well known for [Healthcare Data Science](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse), [Statistical Programming with R](www.bookdown.org/ndphillips/yarrr), and [Medical Decision Making](https://github.com/ndphillips/FFTrees).
+Practically speaking, I lead the development of solutions to problems with data, both in terms of process approaches and software implementations. 
 
-## Edcuation
+When I am not developing solutions, I train and guide junior researchers to be more confident and effective in their roles. 
 
-- PhD, Cognitive Psychology, University of Basel, Basel, Switzerland
-- MS, Quantitative Psychology, Ohio University, Athens, OH
-- BA, Mathematics, Grinnell College, Grinnell, IA
+I believe in always having an aspirational mindset, an ironclad trust that every problem has an idea that will solve it.
 
-## Experience And Skills
-
-I have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder.
-
-While I have spent most of my career creating technical solutions, I leverage my background in decision making psychology to ensure that every solution I design, and every presentation I deliver, is practical, engaging and will actually impact flesh and blood decision makers.
-
-At a personal level, I aim to be source of contagious enthusiasm and create a legacy at every organization I'm privileged to be a part of.
-
-See my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) for a detailed list of my professional experience.
-
-## Projects and Publications
-
-While most of my professional healthcare work is proprietary, here is a selection of my open source projects, presentations, and publications.
-
-### Publications
-
-See my [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) page for a partial list of publications. Note that most of my healthcare publications are not listed here.
-
-### Presentations
-
-<figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte">
-    <img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" 
-         width="400" height="225" style="width: 400px; height: 225px;">
-  </a>
-  <figcaption>
-    Watch: How we overhauled a Frankensteinian SQL workflow with the tidyverse.
-  </figcaption>
-</figure>
-
-- [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees), useR!, 2017
-- [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma), R/Pharma, 2022
-- [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/), RStudio Conf, 2019
-
-### Open Source Projects
-
-<div style="text-align: center;">
-![](assets/heartfft.png){width=75% style="border: 2px solid black;" fig-cap="This is a caption with a bordered image."}  <p style="font-style: italic; font-size: 0.9em;">Output created by the FFTrees decision making algorithm and accompanying R package</p>
-</div>
-
-
-- [FFTrees](https://github.com/ndphillips/FFTrees). The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier. 
-
-- [yarrr](https://bookdown.org/ndphillips/yarrr/). The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.
-
-- [The Pirate's Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.
+"If you want to go fast, go alone. If you want to go far, go together" ~ African Proverb
 
 ## Working Status
 
-### Full Time
-
 [Q4 2024] I am currently open to new full-time opportunities with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please reach out.
-
-### Consulting
 
 I am available for consulting on a short-term, hourly basis. Contact me to learn more.
 

@@ -1,0 +1,60 @@
+---
+title: "About"
+---
+
+## My Education
+
+I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa. I then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany.
+
+## My Experience And Skills
+
+I have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. None of these roles has been a perfect fit, but I can geniuinely say that I have learned something new about myself and the world in each one.
+
+While I have spent most of my career creating technical solutions, I use my background in the psychology of decision making to ensure that every solution I design, and every presentation I deliver, is practical, engaging and has a high likelihood of actually being put into practice by decision makers. I have gotten much better at impacting people over time, not because I'm a natural, but because I haven't been afraid to make mistakes and learn from them.
+
+At a personal level, I gain sincere joy from seeing users enjoy using a tool I've designed. I gain even more joy helping a junior team member accomplish more than they thought they could. As it may come as no surprise, I aim to be source of contagious enthusiasm and create a legacy at every organization I'm a part of.
+
+See my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) for a detailed list of my professional experience.
+
+## My Presentations, Publications and Open Source Projects
+
+I have a handfull of publications in peer-reviewed journals. See [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.
+
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte">
+    <img src="https://embed-ssl.wistia.com/deliveries/11d7a43ff9a4bcaa41f76c93736f718d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" 
+         width="400" height="225" style="width: 400px; height: 225px;">
+  </a>
+  <figcaption>
+    A screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.
+  </figcaption>
+</figure>
+
+Below is a list of all the presentations I've given that are available online (at least as far as I know):
+
+- [FFTrees: An R package to create, visualise and use fast and frugal decision trees](https://learn.microsoft.com/en-us/events/user-international-r-user-conferences-user-international-r-user-2017-conference/fftrees-r-package-to-create-visualise-use-fast-frugal-decision-trees), useR!, 2017
+- [Using R to Derive Robust Insights from Real-World Health Care Data](https://www.youtube.com/watch?v=Ok4ARePys_E&ab_channel=RinPharma), R/Pharma, 2022
+- [FlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse](https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/), RStudio Conf, 2019
+
+<div style="text-align: center;">
+![](assets/heartfft.png){width=75% style="border: 2px solid black;" fig-cap="This is a caption with a bordered image."}  <p style="font-style: italic; font-size: 0.9em;">Output created by the FFTrees decision making algorithm and accompanying R package</p>
+</div>
+
+I have built and maintained dozens of open-source data science packages packages and instructional materials over the years. All are built using the R programming language which I've developed quite some expertise in. Most, but not all of my projects are available at https://github.com/ndphillips. 
+
+Here are the 3 most popular popen source projects I've developed:
+
+1. [FFTrees](https://github.com/ndphillips/FFTrees). The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier. 
+
+2. [yarrr](https://bookdown.org/ndphillips/yarrr/). The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.
+
+3. [The Pirate's Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.
+
+## My Healthcare Data Science Work
+
+*Coming Soon*
+
+## My Teaching
+
+*Coming Soon*
+
