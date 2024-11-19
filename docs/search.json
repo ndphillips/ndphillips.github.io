@@ -222,5 +222,12 @@
     "title": "Tips",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
+  },
+  {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase",
+    "section": "",
+    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
   }
 ]

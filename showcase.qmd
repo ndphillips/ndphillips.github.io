@@ -2,3 +2,4 @@
 title: "Showcase"
 ---
 
+*Coming soon: A selection of the stories behind some of the most noteworthy projects I've worked on*
