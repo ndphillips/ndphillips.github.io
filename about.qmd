@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![](assets/portrait_nov24_v2.jpg){width=100%}
+![](assets/portrait_nov24_full.jpg){width=100%}
 
 ::: {.callout-note}
 This page is more of a personal reflection of my career journey rather than a professional summary. For a professional summary of my experience and skills, see my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/).

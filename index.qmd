@@ -22,7 +22,7 @@ title: "Nathaniel D. Phillips, PhD"
 <!-- </div> -->
 <!-- ``` -->
 
-![](assets/portrait_nov24_v2.jpg){width=100%}
+![](assets/portrait_nov24_full.jpg){width=100%}
 
 I am a scientist with over 10 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science, and healthcare analytics. I consider it my job to think deeply, discover hidden truths, and communicate what I've learned to decision makers who can create meaningful change.
 
