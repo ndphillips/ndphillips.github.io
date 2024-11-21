@@ -24,7 +24,7 @@ title: "Nathaniel D. Phillips, PhD"
 
 ![](assets/portrait_nov24_full.jpg){width=100%}
 
-I am a scientist with over 10 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science, and healthcare analytics. It is my calling to understand problems, think deeply, discover hidden truths, and communicate what I've learned to decision makers who can create meaningful change.
+I am a scientist with over 20 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science, and healthcare analytics. It is my calling to understand problems, think deeply, discover hidden truths, and communicate what I've learned to decision makers who can create meaningful change.
 
 Practically speaking, I lead the development of data-driven solutions to problems. Sometimes these solutions take the form of a strategic or scientific recommendation. Other times they take the form of a piece of software or technical report. Either way, I deliver these solutions with a recognition of what we know and what we don't. We will never have perfect information and cannot wait until we do. Any important scientific or organizational decision will inherently involve risk and success is never guaranteed. Success comes not from having perfect information, but from making bold decisions based on the best information we have available, while always being prepared to change course if we discover critical new information.
 
