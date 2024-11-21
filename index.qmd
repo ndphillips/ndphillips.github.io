@@ -24,13 +24,15 @@ title: "Nathaniel D. Phillips, PhD"
 
 ![](assets/portrait_nov24_full.jpg){width=100%}
 
-I am a scientist with over 20 years of experience across academia, pharma and tech in the domains of behavioral decision making, open-source data science, and healthcare analytics. It is my calling to understand problems, think deeply, discover hidden truths, and communicate what I've learned to decision makers who can create meaningful change.
+I am a scientist with 20 years of experience across academia, pharma and tech in the domains of economic decision making, data science, and healthcare analytics. No matter my role, I consider it my job to think deeply, collaborate intentionally, and influence others in order to improve and extend lives.
 
-Practically speaking, I lead the development of data-driven solutions to problems. Sometimes these solutions take the form of a strategic or scientific recommendation. Other times they take the form of a piece of software or technical report. Either way, I deliver these solutions with a recognition of what we know and what we don't. We will never have perfect information and cannot wait until we do. Any important scientific or organizational decision will inherently involve risk and success is never guaranteed. Success comes not from having perfect information, but from making bold decisions based on the best information we have available, while always being prepared to change course if we discover critical new information.
+In practice, I lead the development of data-driven solutions to problems. Sometimes these solutions take the form of a strategic or scientific recommendation. Other times they take the form of a piece of software or scientific report.
 
-I believe strongly in the power of a growth mindset -- an ironclad trust that every problem has an idea that, if correctly executed, will solve it. By combining curiosity, collaboration, and perseverance, we are guaranteed to create something meaningful.
+I believe strongly in the power of a growth mindset -- an ironclad trust that every problem has an idea that will solve it. By combining curiosity, collaboration, and perseverance, we will discover that idea, and build something better than we ever could have imagined.
 
-When I am not developing solutions, I strive to train and guide others to be more confident and effective in their roles. I also strive to be surrounded by my own mentors who will teach me the same.
+I believe success comes not from having perfect information, but from making bold decisions based on the best information available, while always being prepared to change course if we discover something new.
+
+When I am not developing solutions, I strive to train and guide others to be more confident and effective in their roles, while learning the same from my own mentors.
 
 ## Where am I doing now?
 
