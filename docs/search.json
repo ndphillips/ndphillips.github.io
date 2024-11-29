@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "In Construction\n\n\n\nThis is a placeholder for future blog posts. I hope to start publishing them in Q1 2025.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Hello World\n\n\n\n\n\n\nR\n\n\n\nHello World\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto ‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nPhoto | Pumpkin Patch\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "In Construction\n\n\n\nThis is a sandbox for blog posts. I’ll remove this warning when I think it’s offically ready for prime time\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -70,25 +70,11 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
-    "objectID": "posts/hello_world.html",
-    "href": "posts/hello_world.html",
-    "title": "The Hello World",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Hello World\nThis is a test post."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
-  },
-  {
-    "objectID": "showcase.html",
-    "href": "showcase.html",
-    "title": "Showcase",
-    "section": "",
-    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+    "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
   },
   {
     "objectID": "consulting.html",
@@ -119,23 +105,30 @@
     "text": "R Training"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase",
     "section": "",
-    "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
+    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
   },
   {
     "objectID": "posts/photo_pumpkinpatch.html",
     "href": "posts/photo_pumpkinpatch.html",
-    "title": "Photo ‘Pick Up Here’",
+    "title": "‘Pick Up Here’",
     "section": "",
     "text": "“Pick Up Here”. Copyright by Nathaniel Phillips."
   },
   {
     "objectID": "posts/photo_pumpkinpatch.html#footnotes",
     "href": "posts/photo_pumpkinpatch.html#footnotes",
-    "title": "Photo ‘Pick Up Here’",
+    "title": "‘Pick Up Here’",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nI became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!↩︎"
   },

@@ -7,8 +7,8 @@ format:
   html:
     toc: true
     toc-location: left
-description: "Photo | Pumpkin Patch" 
-title: "Photo 'Pick Up Here'" 
+description: "A hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR" 
+title: "'Pick Up Here'" 
 lightbox: true
 ---
 
