@@ -10,9 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
-      - href: showcase.qmd
-        text: Showcase
+        text: About Me
+      # - href: showcase.qmd
+      #   text: Showcase
       - href: resume.qmd
         text: Resume
       - href: contact.qmd
@@ -28,6 +28,7 @@ format:
     theme: simplex
     css: styles.css
     toc: true
+    fig-cap: true
 
 theme:
   light: flatly

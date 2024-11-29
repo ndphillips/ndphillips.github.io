@@ -2,6 +2,4 @@
 title: "Contact"
 ---
 
-- Email: nathaniel.d.phillips.is@gmail.com
-- LinkedIn: [www.linkedin.com/nathanieldphillips]()
-- GitHub: [www.github.com/ndphillips]()
+The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com.

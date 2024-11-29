@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 ![](assets/portrait_nov24_full.jpg){width=100%}
@@ -26,7 +26,7 @@ See my [Resume](resume.qmd) page or [LinkedIn](https://www.linkedin.com/in/natha
 
 ## My Presentations, Publications and Open Source Projects
 
-I have a handfull of publications in peer-reviewed journals. See [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.
+I have a handful of publications in peer-reviewed journals. See [Google Scholar](https://scholar.google.com/citations?user=ThWbpDQAAAAJ&hl=en) for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <a href="https://posit.co/resources/videos/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/?wvideo=7mp0kqqdte">
@@ -58,11 +58,11 @@ Here are the 3 most popular open source projects I've developed:
 
 2. [yarrr](https://bookdown.org/ndphillips/yarrr/). The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.
 
-3. [The Pirate's Guide to R](https://github.com/ndphillips/ThePiratesGuideToR) is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world.
+3. [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/) is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world. Be warned -- its writing style reflects the good (and bad) of a 25-ish year old grad student.
 
 ## My Healthcare Data Science Work
 
-*Coming Soon: An overview of my most memorable healthcare data science work over the course of my career from big pharma (Roche), to small healthtech (Flatiron Health) to a two-person analytics consulting company.*
+I have spent the 
 
 ## My Teaching
 

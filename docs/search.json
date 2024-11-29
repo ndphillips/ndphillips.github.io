@@ -30,35 +30,35 @@
   {
     "objectID": "about.html#my-education-journey",
     "href": "about.html#my-education-journey",
-    "title": "About",
+    "title": "About Me",
     "section": "My Education Journey",
     "text": "My Education Journey\nEver since I was 8 years old, I loved mathematics. One of my favorite things to do with my father was to go to a used bookstore and find the oldest looking math books I can find and flip through them, dreaming that one day I’d actually understand them. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa with a focus on probability and statistics. Earning this degree continues to be one of my greatest sources of pride.\nI then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
   },
   {
     "objectID": "about.html#my-experience-and-skills",
     "href": "about.html#my-experience-and-skills",
-    "title": "About",
+    "title": "About Me",
     "section": "My Experience And Skills",
     "text": "My Experience And Skills\nI have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. None of these roles has been a perfect fit, but I can geniuinely say that I have learned something new about myself and the world in each one.\nWhile I have spent most of my career creating technical solutions, I use my background in the psychology of decision making to ensure that every solution I design, and every presentation I deliver, is practical, engaging and has a high likelihood of actually being put into practice by decision makers. I have gotten much better at impacting people over time, not because I’m a natural, but because I haven’t been afraid to make mistakes and learn from them.\nAt a personal level, I gain sincere joy from seeing users enjoy using a tool I’ve designed. I gain even more joy helping a junior team member accomplish more than they thought they could. As it may come as no surprise, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m a part of.\nSee my Resume page or LinkedIn for a detailed list of my professional experience."
   },
   {
     "objectID": "about.html#my-presentations-publications-and-open-source-projects",
     "href": "about.html#my-presentations-publications-and-open-source-projects",
-    "title": "About",
+    "title": "About Me",
     "section": "My Presentations, Publications and Open Source Projects",
-    "text": "My Presentations, Publications and Open Source Projects\nI have a handfull of publications in peer-reviewed journals. See Google Scholar for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.\n\n  \n\nA screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.\n\n\nBelow is a list of all the presentations I’ve given that are available online (at least as far as I know):\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\n\nThe output created by the FFTrees decision making algorithm and accompanying R package.\n\n\nI have built and maintained dozens of open-source data science packages packages and instructional materials over the years. Most, but not all of my projects are available at https://github.com/ndphillips.\nAll are built using the R programming language which I’ve developed quite some expertise in. Well, that is a bit of an understatement as over the course of almost 15 years, I used and loved R almost to the point of obsession.\nHere are the 3 most popular open source projects I’ve developed:\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world."
+    "text": "My Presentations, Publications and Open Source Projects\nI have a handful of publications in peer-reviewed journals. See Google Scholar for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.\n\n  \n\nA screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.\n\n\nBelow is a list of all the presentations I’ve given that are available online (at least as far as I know):\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\n\nThe output created by the FFTrees decision making algorithm and accompanying R package.\n\n\nI have built and maintained dozens of open-source data science packages packages and instructional materials over the years. Most, but not all of my projects are available at https://github.com/ndphillips.\nAll are built using the R programming language which I’ve developed quite some expertise in. Well, that is a bit of an understatement as over the course of almost 15 years, I used and loved R almost to the point of obsession.\nHere are the 3 most popular open source projects I’ve developed:\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world. Be warned – its writing style reflects the good (and bad) of a 25-ish year old grad student."
   },
   {
     "objectID": "about.html#my-healthcare-data-science-work",
     "href": "about.html#my-healthcare-data-science-work",
-    "title": "About",
+    "title": "About Me",
     "section": "My Healthcare Data Science Work",
-    "text": "My Healthcare Data Science Work\nComing Soon: An overview of my most memorable healthcare data science work over the course of my career from big pharma (Roche), to small healthtech (Flatiron Health) to a two-person analytics consulting company."
+    "text": "My Healthcare Data Science Work\nI have spent the"
   },
   {
     "objectID": "about.html#my-teaching",
     "href": "about.html#my-teaching",
-    "title": "About",
+    "title": "About Me",
     "section": "My Teaching",
     "text": "My Teaching\nComing Soon: Memories and links from years of teaching at universities in the US, Switzerland, and Germany."
   },
@@ -67,28 +67,35 @@
     "href": "index.html",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "",
-    "text": "I am a scientist with 20 years of experience across academia, pharma and tech in the domains of economic decision making, data science, and healthcare analytics. No matter my role, I consider it my job to think deeply, collaborate intentionally, and influence others in order to improve and extend lives.\nIn practice, I lead the development of data-driven solutions to problems. Sometimes these solutions take the form of a strategic or scientific recommendation. Other times they take the form of a piece of software or scientific report.\nI believe strongly in the power of a growth mindset – an ironclad trust that every problem has an idea that will solve it. By combining curiosity, collaboration, and perseverance, we will discover that idea, and build something better than we ever could have imagined.\nI believe success comes not from having perfect information, but from making bold decisions based on the best information available, while always being prepared to change course if we discover something new.\nWhen I am not developing solutions, I strive to train and guide others to be more confident and effective in their roles, while learning the same from my own mentors."
+    "text": "Photo credit to my wife Suzanne! Taken in our backyard on November 20, 2024."
   },
   {
-    "objectID": "index.html#where-am-i-doing-now",
-    "href": "index.html#where-am-i-doing-now",
+    "objectID": "index.html#why-create-a-site-isnt-that-pretty-2010",
+    "href": "index.html#why-create-a-site-isnt-that-pretty-2010",
     "title": "Nathaniel D. Phillips, PhD",
-    "section": "Where am I doing now?",
-    "text": "Where am I doing now?\nAs of November 2024, I am open to new full-time opportunities for scientific leadership with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please do let me know.\nI am also available for consulting on a short-term, hourly basis. Contact me to learn more."
+    "section": "Why create a site? Isn’t that pretty 2010?",
+    "text": "Why create a site? Isn’t that pretty 2010?\nI have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don’t think I know of anyone who maintains a personal website these days. I think I have two main reasons for creating it.\n\nI want to write more, but I also want to move away from creating “content” on places like LinkedIn (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes. My hope is that writing in the context of my own website, where I get no immediate feedback other than my own, gives me so much more confidence and freedom than the steady drip of likes on LinkedIn, will help me be more authentic.\nI would like to write a book one day (or a second one if we count The Pirate’s Guide to R), but I don’t know what it would be about. If I sat down and tried to figure out what it would be I’ve heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes."
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
+    "objectID": "index.html#what-am-i-doing-now",
+    "href": "index.html#what-am-i-doing-now",
     "title": "Nathaniel D. Phillips, PhD",
-    "section": "Contact",
-    "text": "Contact\nThe best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also reach me on LinkedIn or Github."
+    "section": "What am I doing now?",
+    "text": "What am I doing now?\nAs of November 2024 (the last time I updated this page), I am a full-time stay at home father of an infant. Having a child was one of my biggest life-long dreams and I am grateful to have had the opportunity to spend the first year of his life with him almost every day.\nWhile I love being a stay-at-home Dad, I also love practicing science. For that reason I am open to new full-time opportunities for scientific leadership with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please do let me know.\nI am also available for consulting on an hourly basis. Contact me to learn more."
+  },
+  {
+    "objectID": "index.html#developer-notes",
+    "href": "index.html#developer-notes",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Developer notes",
+    "text": "Developer notes\nI created this site with Quarto, the content is hosted on GitHub"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below:"
+    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
   },
   {
     "objectID": "showcase.html",
@@ -130,7 +137,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: nathaniel.d.phillips.is@gmail.com\nLinkedIn: www.linkedin.com/nathanieldphillips\nGitHub: www.github.com/ndphillips"
+    "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
   },
   {
     "objectID": "experience.html",

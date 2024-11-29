@@ -2,6 +2,12 @@
 title: "Nathaniel D. Phillips, PhD"
 ---
 
+<style>
+figure {
+  color: lightgray; /* Adjust this to your preferred shade */
+}
+</style>
+
 <!-- ```{=html} -->
 <!-- <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;"> -->
 <!--           <a href="https://www.flatiron.com" target="_blank"> -->
@@ -22,7 +28,24 @@ title: "Nathaniel D. Phillips, PhD"
 <!-- </div> -->
 <!-- ``` -->
 
+::: {figure}
 ![](assets/portrait_nov24_full.jpg){width=100%}
+Photo credit to my wife Suzanne! Taken in our backyard on November 20, 2024.
+:::
+
+# What is this site?
+
+I see this site as a place to write and share my, mostly professional, but also occasionally personal, thoughts on a range of topics. The professional topics will likely range from data science, to healthcare analytics, to organizational leadership. The personal ones will probably be a mixture of personal reflections on my career journey and artistic content like photography. 
+
+## Why create a site? Isn't that pretty 2010?
+
+I have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don't think I know of anyone who maintains a personal website these days. I think I have two main reasons for creating it.
+
+1. I want to write more, but I also want to move away from creating "content" on places like [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes. My hope is that writing in the context of my own website, where I get no immediate feedback other than my own, gives me so much more confidence and freedom than the steady drip of likes on LinkedIn, will help me be more authentic.
+
+2. I would like to write a book one day (or a second one if we count [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)), but I don't know what it would be about. If I sat down and tried to figure out what it would be I've heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.
+
+# Who am I?
 
 I am a scientist with 20 years of experience across academia, pharma and tech in the domains of economic decision making, data science, and healthcare analytics. No matter my role, I consider it my job to think deeply, collaborate intentionally, and influence others in order to improve and extend lives.
 
@@ -34,12 +57,18 @@ I believe success comes not from having perfect information, but from making bol
 
 When I am not developing solutions, I strive to train and guide others to be more confident and effective in their roles, while learning the same from my own mentors.
 
-## Where am I doing now?
+## What am I doing now?
 
-As of November 2024, I am open to new full-time opportunities for scientific leadership with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please do let me know.
+As of November 2024 (the last time I updated this page), I am a full-time stay at home father of an infant. Having a child was one of my biggest life-long dreams and I am grateful to have had the opportunity to spend the first year of his life with him almost every day.
 
-I am also available for consulting on a short-term, hourly basis. Contact me to learn more.
+While I love being a stay-at-home Dad, I also love practicing science. For that reason I am open to new full-time opportunities for scientific leadership with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please do let me know.
 
-## Contact
+I am also available for consulting on an hourly basis. Contact me to learn more.
 
-The best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also reach me on [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) or [Github](https://www.github.com/ndphillips).
+# Contact
+
+The best way to get in contact me is via email at nathaniel.d.phillips.is@gmail.com. You can also use [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) but I don't check that nearly as often.
+
+## Developer notes
+
+I created this site with [Quarto](https://quarto.org/docs/websites/), the content is hosted on [GitHub](https://github.com/ndphillips/ndphillips.github.io)
