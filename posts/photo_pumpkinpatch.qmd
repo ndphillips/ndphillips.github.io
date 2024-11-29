@@ -14,7 +14,7 @@ lightbox: true
 
 # Photo
 
-!["Pick Up Here". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/photo_pumpkinpatch.jpg)
+!["Pick Up Here". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/photo_pumpkinpatch.jpg){style="border: 1px solid darkgray;"}
 
 # Backstory
 
