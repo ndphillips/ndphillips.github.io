@@ -41,7 +41,7 @@ I see this site as a place to write and share my, mostly professional, but also 
 
 I have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don't think I know of anyone who maintains a personal website these days. I think I have two main reasons for creating it.
 
-1. I want to write more, but I also want to move away from creating "content" on places like [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes. My hope is that writing in the context of my own website, where I get no immediate feedback other than my own, gives me so much more confidence and freedom than the steady drip of likes on LinkedIn, will help me be more authentic.
+1. I want to write for the sake of writing, but I also want to move away from creating "content" on places like [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes. My hope is that writing in the context of my own website, where I get no immediate feedback other than my own, gives me so much more confidence and freedom than the steady drip of likes on LinkedIn, will help me be more authentic.
 
 2. I would like to write a book one day (or a second one if we count [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)), but I don't know what it would be about. If I sat down and tried to figure out what it would be I've heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.
 
@@ -51,13 +51,21 @@ I am a scientist with 20 years of experience across academia, pharma and tech in
 
 In practice, I lead the development of data-driven solutions to problems. Sometimes these solutions take the form of a strategic or scientific recommendation. Other times they take the form of a piece of software or scientific report.
 
-I believe strongly in the power of a growth mindset -- an ironclad trust that every problem has an idea that will solve it. By combining curiosity, collaboration, and perseverance, we will discover that idea, and build something better than we ever could have imagined.
-
-I believe success comes not from having perfect information, but from making bold decisions based on the best information available, while always being prepared to change course if we discover something new.
-
 When I am not developing solutions, I strive to train and guide others to be more confident and effective in their roles, while learning the same from my own mentors.
 
-## What am I doing now?
+## What are my core beliefs?
+
+Distilling my spontaneous thoughts into a set of core beliefs is an exercise I've tried many times, but never seemed to keep track of. Let me try again here.
+
+I believe in having a [growth mindset](https://www.renaissance.com/edword/growth-mindset/#:~:text=What%20is%20growth%20mindset%3F,that%20is%20not%20the%20case.). I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.
+
+I believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer) during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.
+
+I believe in honestly and transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like [R](https://en.wikipedia.org/wiki/R_programming_language).
+
+I believe that the state of [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like [FFTrees](https://github.com/ndphillips/FFTrees)). By contrast, in periods of distraction, the best I can do is something mediocre.
+
+# What am I doing now?
 
 As of November 2024 (the last time I updated this page), I am a full-time stay at home father of an infant. Having a child was one of my biggest life-long dreams and I am grateful to have had the opportunity to spend the first year of his life with him almost every day.
 
