@@ -45,6 +45,8 @@ I have to admit it feels pretty weird to me to be creating a website with the in
 
 2. I would like to write a book one day (or a second one if we count [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)), but I don't know what it would be about. If I sat down and tried to figure out what it would be I've heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.
 
+3. I want a place to share my favorite photos (and other potential artistic endeavors) other than social media.
+
 # Who am I?
 
 I am a scientist with 20 years of experience across academia, pharma and tech in the domains of economic decision making, data science, and healthcare analytics. No matter my role, I consider it my job to think deeply, collaborate intentionally, and influence others in order to improve and extend lives.
