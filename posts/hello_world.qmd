@@ -2,7 +2,7 @@
 author: "Nathaniel Phillips" 
 categories: [R] 
 date: 2024-04-21
-draft: true
+draft: false
 format:
   html:
     toc: true

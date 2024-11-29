@@ -1,6 +1,9 @@
 [
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/posts/hello_world.html",
+      "/posts/photo_pumpkinpatch.html"
+    ]
   }
 ]

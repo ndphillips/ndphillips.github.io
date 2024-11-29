@@ -9,5 +9,5 @@ listing:
 
 ::: {.callout-caution}
 ## In Construction
-This is a placeholder for future blog posts. I hope to start publishing them in Q1 2025. If you have an idea of the kind of content you'd like to see from me, please reach out and let me know.
+This is a placeholder for future blog posts. I hope to start publishing them in Q1 2025.
 :::

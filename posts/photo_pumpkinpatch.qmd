@@ -1,0 +1,32 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Photography] 
+date: 2024-04-21
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "Photo | Pumpkin Patch" 
+title: "Photo 'Pick Up Here'" 
+lightbox: true
+---
+
+# Photo
+
+!["Pick Up Here". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/photo_pumpkinpatch.jpg)
+
+# Backstory
+
+I took the "Pick Up Here" at The Pumpkin Patch on Sauvie Island in Portland, OR. This was just 2 weeks after our family moved from Brooklyn, NY to Portland. We were in the middle of a stressful move and we decided we had to take a break and do one of my favorite things, during my favorite time of year - visit a pumpkin patch [^1] in the Fall!
+
+# What I like
+
+My favorite part of the photo is the expression of the cook. He is the centerpiece of the photo. If he wasn't there, this would be a much more boring photo. He has piercing eyes and I like how his vintage Nike hat adds to his style. I also like the contrast between the hard lines of the door and siding, compared to the comparatively messy collection of pumpkins and ketchup and mustard dispensers.
+
+# Gear
+
+- Ricoh GR
+
+[^1]: I became enchanted with pumpkin patches during a visit to [Tim's Pumpkin Patch](https://www.timspumpkinpatch.com/) in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!
+

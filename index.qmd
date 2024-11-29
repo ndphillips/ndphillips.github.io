@@ -30,7 +30,7 @@ figure {
 
 ::: {figure}
 ![](assets/portrait_nov24_full.jpg){width=100%}
-Photo credit to my wife Suzanne! Taken in our backyard on November 20, 2024.
+Photo credit to my wife Suzanne. Taken in the backyard of our new home in NE Portland on November 20, 2024.
 :::
 
 # What is this site?

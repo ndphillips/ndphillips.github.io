@@ -15,6 +15,8 @@ website:
       #   text: Showcase
       - href: resume.qmd
         text: Resume
+      - href: blog.qmd
+        text: Blog
       - href: contact.qmd
         text: Contact
     tools:

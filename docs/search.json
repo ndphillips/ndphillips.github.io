@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "In Construction\n\n\n\nThis is a placeholder for future blog posts. I hope to start publishing them in Q1 2025. If you have an idea of the kind of content you’d like to see from me, please reach out and let me know.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "In Construction\n\n\n\nThis is a placeholder for future blog posts. I hope to start publishing them in Q1 2025.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Hello World\n\n\n\n\n\n\nR\n\n\n\nHello World\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto ‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nPhoto | Pumpkin Patch\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -28,67 +28,53 @@
     "text": "Rolling list of interests\n\n[Nov 2024] I’m pretty into anything cyberpunk / synthwave these days. Especially Gunship. For that reason I updated this site to use the “Cyberpunk aesthetic” vapor theme. I’m sure I’ll change it to something more basic when the novelty wears off.\n\n[Nov 12, 2024] It wore off."
   },
   {
-    "objectID": "about.html#my-education-journey",
-    "href": "about.html#my-education-journey",
-    "title": "About Me",
-    "section": "My Education Journey",
-    "text": "My Education Journey\nEver since I was 8 years old, I loved mathematics. One of my favorite things to do with my father was to go to a used bookstore and find the oldest looking math books I can find and flip through them, dreaming that one day I’d actually understand them. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa with a focus on probability and statistics. Earning this degree continues to be one of my greatest sources of pride.\nI then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
-  },
-  {
-    "objectID": "about.html#my-experience-and-skills",
-    "href": "about.html#my-experience-and-skills",
-    "title": "About Me",
-    "section": "My Experience And Skills",
-    "text": "My Experience And Skills\nI have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. None of these roles has been a perfect fit, but I can geniuinely say that I have learned something new about myself and the world in each one.\nWhile I have spent most of my career creating technical solutions, I use my background in the psychology of decision making to ensure that every solution I design, and every presentation I deliver, is practical, engaging and has a high likelihood of actually being put into practice by decision makers. I have gotten much better at impacting people over time, not because I’m a natural, but because I haven’t been afraid to make mistakes and learn from them.\nAt a personal level, I gain sincere joy from seeing users enjoy using a tool I’ve designed. I gain even more joy helping a junior team member accomplish more than they thought they could. As it may come as no surprise, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m a part of.\nSee my Resume page or LinkedIn for a detailed list of my professional experience."
-  },
-  {
-    "objectID": "about.html#my-presentations-publications-and-open-source-projects",
-    "href": "about.html#my-presentations-publications-and-open-source-projects",
-    "title": "About Me",
-    "section": "My Presentations, Publications and Open Source Projects",
-    "text": "My Presentations, Publications and Open Source Projects\nI have a handful of publications in peer-reviewed journals. See Google Scholar for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.\n\n  \n\nA screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.\n\n\nBelow is a list of all the presentations I’ve given that are available online (at least as far as I know):\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\n\nThe output created by the FFTrees decision making algorithm and accompanying R package.\n\n\nI have built and maintained dozens of open-source data science packages packages and instructional materials over the years. Most, but not all of my projects are available at https://github.com/ndphillips.\nAll are built using the R programming language which I’ve developed quite some expertise in. Well, that is a bit of an understatement as over the course of almost 15 years, I used and loved R almost to the point of obsession.\nHere are the 3 most popular open source projects I’ve developed:\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world. Be warned – its writing style reflects the good (and bad) of a 25-ish year old grad student."
-  },
-  {
-    "objectID": "about.html#my-healthcare-data-science-work",
-    "href": "about.html#my-healthcare-data-science-work",
-    "title": "About Me",
-    "section": "My Healthcare Data Science Work",
-    "text": "My Healthcare Data Science Work\nI have spent the"
-  },
-  {
-    "objectID": "about.html#my-teaching",
-    "href": "about.html#my-teaching",
-    "title": "About Me",
-    "section": "My Teaching",
-    "text": "My Teaching\nComing Soon: Memories and links from years of teaching at universities in the US, Switzerland, and Germany."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathaniel D. Phillips, PhD",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "Photo credit to my wife Suzanne! Taken in our backyard on November 20, 2024."
+    "text": "I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig. The focus of my PhD research was on adaptive decision making rules in individuals and groups. See Phillips, Hertwig, Kareev & Avrahami, 2014 for an example publication from my PhD.\n\n\n\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo. The focus of my Master’s thesis was on the role of experiences and expert advice on decisions.\n\n\n\nI obtained BA in Mathematics from Grinnell College. My undergraduate coursework focused on probability and statistics and behavioral decision making."
   },
   {
-    "objectID": "index.html#why-create-a-site-isnt-that-pretty-2010",
-    "href": "index.html#why-create-a-site-isnt-that-pretty-2010",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Why create a site? Isn’t that pretty 2010?",
-    "text": "Why create a site? Isn’t that pretty 2010?\nI have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don’t think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it.\n\nI want to write for the sake of writing, but I also want to move away from creating “content” on places like LinkedIn (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes.\nI would like to write a book one day (or a second one if we count The Pirate’s Guide to R), but I don’t know what it would be about. I’ve heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.\nI want a place to share my favorite photos (and other potential artistic endeavors) other than social media."
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Experience",
+    "section": "",
+    "text": "I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig. The focus of my PhD research was on adaptive decision making rules in individuals and groups. See Phillips, Hertwig, Kareev & Avrahami, 2014 for an example publication from my PhD.\n\n\n\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo. The focus of my Master’s thesis was on the role of experiences and expert advice on decisions.\n\n\n\nI obtained BA in Mathematics from Grinnell College. My undergraduate coursework focused on probability and statistics and behavioral decision making."
   },
   {
-    "objectID": "index.html#what-are-my-core-beliefs",
-    "href": "index.html#what-are-my-core-beliefs",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "What are my core beliefs?",
-    "text": "What are my core beliefs?\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nGrowth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nHeuristic Decision Making\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nTransparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nFlow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
+    "objectID": "experience.html#experience",
+    "href": "experience.html#experience",
+    "title": "Experience",
+    "section": "Experience",
+    "text": "Experience\n\nAcademia\n\nPre-Doctoral Researcher, Ohio University\nAs a pre-doctoral researcher at Ohio University, I taught multiple university courses in statistics and research methods for psychology undergraduate students.\n\n\nPre-Doctoral Researcher, University of Basel\nAs a pre-doctoral researcher at the University of Basel, I taught undergraduate and masters level seminars in research methods.\n\n\nResearcher, University of Konstanz\n\n\n\n\n\n\nPublishing an e-book on statistical programming with R\n\n\n\nI converted my teaching materials on statistical programming with R into a free e-book “YaRrr! The Pirate’s Guide to R” that is still used by students and researchers around the world\n\n\nFollowing the completion of my PhD, I completed a research position at at the University of Konstanz in Konstanz, Germany in the department of Social Psychology and Decision Sciences lead by Dr. Wolfgang Gaissmaier. There I taught Bachelors, Masters, and PhD-level courses in statistical programming with R, and decision making. I ultimately translated my statistical programming teaching materials into a free e-book “YaRrr! The Pirate’s Guide to R”. The book was, and still is, used by many students and researchers around the world to learn statistical programming with R. The book is still available at https://bookdown.org/ndphillips/YaRrr/.\nIn addition to teaching\n\n\nResearcher, University of Basel\nI also completed a post-doctoral research position at the University of Basel in the department of Economic Psychology lead by Dr. Joerg Rieskamp.\n\n\n\nIndustry\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\nCTO & Co-Founder, Plinth Analytics\n\n\n\n\n\n\nFrom $0 to $1M in 1.5 years of bootstrapped development\n\n\n\nIn just 1.5 years, we went from two people with an idea to a team of 5 and $1M in revenue across multiple pharma and healthtech clients.\n\n\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases for EHR, claims and genomic data.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
   },
   {
-    "objectID": "index.html#developer-notes",
-    "href": "index.html#developer-notes",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Developer notes",
-    "text": "Developer notes\nI created this site with Quarto, the content is hosted on GitHub"
+    "objectID": "experience.html#presentations-and-videos",
+    "href": "experience.html#presentations-and-videos",
+    "title": "Experience",
+    "section": "Presentations and Videos",
+    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse| RStudio Conf (2019)|\nFFTrees: An R package to create, visualise and use fast and frugal decision trees useR! (2017)|\nUsing R to Derive Robust Insights from Real-World Health Care Data | R/Pharma (2022) |\nTStat R Lecture #7: Loops in R | Introduction to R Programming course at the University of Konstanz (see all course videos here)|"
+  },
+  {
+    "objectID": "experience.html#publications",
+    "href": "experience.html#publications",
+    "title": "Experience",
+    "section": "Publications",
+    "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees, Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W., Judgment and Decision Making\nRivals in the dark: How competition influences search in decisions under uncertainty | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |"
+  },
+  {
+    "objectID": "experience.html#open-source-projects",
+    "href": "experience.html#open-source-projects",
+    "title": "Experience",
+    "section": "Open Source Projects",
+    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
+  },
+  {
+    "objectID": "posts/hello_world.html",
+    "href": "posts/hello_world.html",
+    "title": "The Hello World",
+    "section": "",
+    "text": "Hello World\nThis is a test post."
   },
   {
     "objectID": "resume.html",
@@ -140,53 +126,81 @@
     "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
+    "objectID": "posts/photo_pumpkinpatch.html",
+    "href": "posts/photo_pumpkinpatch.html",
+    "title": "Photo ‘Pick Up Here’",
     "section": "",
-    "text": "I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig. The focus of my PhD research was on adaptive decision making rules in individuals and groups. See Phillips, Hertwig, Kareev & Avrahami, 2014 for an example publication from my PhD.\n\n\n\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo. The focus of my Master’s thesis was on the role of experiences and expert advice on decisions.\n\n\n\nI obtained BA in Mathematics from Grinnell College. My undergraduate coursework focused on probability and statistics and behavioral decision making."
+    "text": "“Pick Up Here”. Copyright by Nathaniel Phillips."
   },
   {
-    "objectID": "experience.html#education",
-    "href": "experience.html#education",
-    "title": "Experience",
+    "objectID": "posts/photo_pumpkinpatch.html#footnotes",
+    "href": "posts/photo_pumpkinpatch.html#footnotes",
+    "title": "Photo ‘Pick Up Here’",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathaniel D. Phillips, PhD",
     "section": "",
-    "text": "I obtained a PhD in Cognitive Psychology from the University of Basel in Basel, Switzerland and the Max Planck Institute for Human Development in Berlin, Germany within the Center for Adaptive Rationality lead by Dr. Ralph Hertwig. The focus of my PhD research was on adaptive decision making rules in individuals and groups. See Phillips, Hertwig, Kareev & Avrahami, 2014 for an example publication from my PhD.\n\n\n\nPrior to my PhD, I obtained a Masters in Psychology at Ohio University at the department of Social Judgment and Behavioral Decision making under Dr. Claudia Gonzalez-Vallejo. The focus of my Master’s thesis was on the role of experiences and expert advice on decisions.\n\n\n\nI obtained BA in Mathematics from Grinnell College. My undergraduate coursework focused on probability and statistics and behavioral decision making."
+    "text": "Photo credit to my wife Suzanne. Taken in the backyard of our new home in NE Portland on November 20, 2024."
   },
   {
-    "objectID": "experience.html#experience",
-    "href": "experience.html#experience",
-    "title": "Experience",
-    "section": "Experience",
-    "text": "Experience\n\nAcademia\n\nPre-Doctoral Researcher, Ohio University\nAs a pre-doctoral researcher at Ohio University, I taught multiple university courses in statistics and research methods for psychology undergraduate students.\n\n\nPre-Doctoral Researcher, University of Basel\nAs a pre-doctoral researcher at the University of Basel, I taught undergraduate and masters level seminars in research methods.\n\n\nResearcher, University of Konstanz\n\n\n\n\n\n\nPublishing an e-book on statistical programming with R\n\n\n\nI converted my teaching materials on statistical programming with R into a free e-book “YaRrr! The Pirate’s Guide to R” that is still used by students and researchers around the world\n\n\nFollowing the completion of my PhD, I completed a research position at at the University of Konstanz in Konstanz, Germany in the department of Social Psychology and Decision Sciences lead by Dr. Wolfgang Gaissmaier. There I taught Bachelors, Masters, and PhD-level courses in statistical programming with R, and decision making. I ultimately translated my statistical programming teaching materials into a free e-book “YaRrr! The Pirate’s Guide to R”. The book was, and still is, used by many students and researchers around the world to learn statistical programming with R. The book is still available at https://bookdown.org/ndphillips/YaRrr/.\nIn addition to teaching\n\n\nResearcher, University of Basel\nI also completed a post-doctoral research position at the University of Basel in the department of Economic Psychology lead by Dr. Joerg Rieskamp.\n\n\n\nIndustry\nHere is a selection of my work experience. See my LinkedIn page for a more detailed history.\n\n\nCTO & Co-Founder, Plinth Analytics\n\n\n\n\n\n\nFrom $0 to $1M in 1.5 years of bootstrapped development\n\n\n\nIn just 1.5 years, we went from two people with an idea to a team of 5 and $1M in revenue across multiple pharma and healthtech clients.\n\n\nMost recently, I was the CTO and Co-Founder of Plinth Analytics, a company that helps healthcare organizations make better decisions with messy healthcare data. In this role, I led the development of our data science platform and worked with our customers to understand their needs and deliver solutions that helped reduce costs and generate new use-cases for EHR, claims and genomic data.\nI am currently a Quantitative Scientist at Flatiron Health, where I work on real-world data science problems in oncology.\n\nCTO, Co-Founder, Plinth Analytics\n\nThe thrill of a lifetime with my co-founder and friend Kieran Mace, along with rockstar data scientists Nicole Mirea, Parker Barnes |\n\nQuantitative Scientist, Flatiron Health\n\nBest culture and teams I’ve ever been a part of. Grateful to people like Olivier Humblet, Caleb Jordan, Daniel Obeng, Conal Scanlon, John Zielinksi (and so many more) for teaching and supporting me during my time there.|\n\nReal World Data Scientist, Roche\n\nWhere I learned how real world science is done by teams and what a great manager looks like (thank you Robert Walls)\n\nPostdoctoral Researcher, University of Basel\nPostdoctoral Researcher, University of Konstanz\n\nDeveloping FFTrees with Hansjoerg Neth and Wolfgang Gaissmaier was a turning point for the rest of my career\n\nPre-Doctoral Researcher, Max Planck Institute for Human Development\n\nParadise for decision-making research thanks to Gerd Gigerenzer, Ralph Hertwig and where I discovered a love of R with my fellow PhD student Dirk Wulff|"
+    "objectID": "index.html#why-create-a-site-isnt-that-pretty-2010",
+    "href": "index.html#why-create-a-site-isnt-that-pretty-2010",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Why create a site? Isn’t that pretty 2010?",
+    "text": "Why create a site? Isn’t that pretty 2010?\nI have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don’t think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it.\n\nI want to write for the sake of writing, but I also want to move away from creating “content” on places like LinkedIn (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes.\nI would like to write a book one day (or a second one if we count The Pirate’s Guide to R), but I don’t know what it would be about. I’ve heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.\nI want a place to share my favorite photos (and other potential artistic endeavors) other than social media."
   },
   {
-    "objectID": "experience.html#presentations-and-videos",
-    "href": "experience.html#presentations-and-videos",
-    "title": "Experience",
-    "section": "Presentations and Videos",
-    "text": "Presentations and Videos\nHere are some presentations and recordings of me speaking at various conferences, as well as some teaching course materials.\n\n\n\n\n\n\n\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse| RStudio Conf (2019)|\nFFTrees: An R package to create, visualise and use fast and frugal decision trees useR! (2017)|\nUsing R to Derive Robust Insights from Real-World Health Care Data | R/Pharma (2022) |\nTStat R Lecture #7: Loops in R | Introduction to R Programming course at the University of Konstanz (see all course videos here)|"
+    "objectID": "index.html#what-are-my-core-beliefs",
+    "href": "index.html#what-are-my-core-beliefs",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "What are my core beliefs?",
+    "text": "What are my core beliefs?\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nGrowth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nHeuristic Decision Making\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nTransparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nFlow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
   },
   {
-    "objectID": "experience.html#publications",
-    "href": "experience.html#publications",
-    "title": "Experience",
-    "section": "Publications",
-    "text": "Publications\nHere are the two publications I’m most proud of, see all of them at Google Scholar\n\nFFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees, Phillips, N.D., Neth, H., Woike, J.K., Gaissmaier, W., Judgment and Decision Making\nRivals in the dark: How competition influences search in decisions under uncertainty | ND Phillips, R Hertwig, Y Kareev, J Avrahami | Cognition | |"
+    "objectID": "index.html#developer-notes",
+    "href": "index.html#developer-notes",
+    "title": "Nathaniel D. Phillips, PhD",
+    "section": "Developer notes",
+    "text": "Developer notes\nI created this site with Quarto, the content is hosted on GitHub"
   },
   {
-    "objectID": "experience.html#open-source-projects",
-    "href": "experience.html#open-source-projects",
-    "title": "Experience",
-    "section": "Open Source Projects",
-    "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
+    "objectID": "about.html#my-education-journey",
+    "href": "about.html#my-education-journey",
+    "title": "About Me",
+    "section": "My Education Journey",
+    "text": "My Education Journey\nEver since I was 8 years old, I loved mathematics. One of my favorite things to do with my father was to go to a used bookstore and find the oldest looking math books I can find and flip through them, dreaming that one day I’d actually understand them. In 2005, after 4 years of long evenings and intense study sessions, I obtained a Bachelors degree in Mathematics from Grinnell College in Grinnell, Iowa with a focus on probability and statistics. Earning this degree continues to be one of my greatest sources of pride.\nI then earned a Masters degree in Psychology with a focus on quantitative methods from Ohio University in Athens, Ohio. I completed my PhD in Psychology with a focus on quantitative models of human judgment and decision making from the University of Basel in Basel Switzerland. Note: My PhD research was jointly conducted at the Max Planck Institute for Human Development in Berlin, Germany."
   },
   {
-    "objectID": "expertise.html",
-    "href": "expertise.html",
-    "title": "Expertise",
-    "section": "",
-    "text": "Scalable Data Science\nasdfasdf\n\n\nHeuristic Decision Making\nasdfasdf\n\n\nHealthcare Analytics\nasdf\n\n\nAnalytics Teaching"
+    "objectID": "about.html#my-experience-and-skills",
+    "href": "about.html#my-experience-and-skills",
+    "title": "About Me",
+    "section": "My Experience And Skills",
+    "text": "My Experience And Skills\nI have over 10 years of experience across academia and industry, from large corporations to small start-ups, as a research scientist, statistical software developer, people manager, team lead, chief technology officer, and co-founder. None of these roles has been a perfect fit, but I can geniuinely say that I have learned something new about myself and the world in each one.\nWhile I have spent most of my career creating technical solutions, I use my background in the psychology of decision making to ensure that every solution I design, and every presentation I deliver, is practical, engaging and has a high likelihood of actually being put into practice by decision makers. I have gotten much better at impacting people over time, not because I’m a natural, but because I haven’t been afraid to make mistakes and learn from them.\nAt a personal level, I gain sincere joy from seeing users enjoy using a tool I’ve designed. I gain even more joy helping a junior team member accomplish more than they thought they could. As it may come as no surprise, I aim to be source of contagious enthusiasm and create a legacy at every organization I’m a part of.\nSee my Resume page or LinkedIn for a detailed list of my professional experience."
+  },
+  {
+    "objectID": "about.html#my-presentations-publications-and-open-source-projects",
+    "href": "about.html#my-presentations-publications-and-open-source-projects",
+    "title": "About Me",
+    "section": "My Presentations, Publications and Open Source Projects",
+    "text": "My Presentations, Publications and Open Source Projects\nI have a handful of publications in peer-reviewed journals. See Google Scholar for a complete list. They are mostly in experimental or cognitive psychology journals. I note that none of my publications are very recent (my latest paper was published in 2018) as I have not worked on academic projects in quite a while.\n\n  \n\nA screenshot from my 2019 Posit Conf talk: How we overhauled a Frankensteinian SQL workflow with the tidyverse. This is, quite literaly, the moment I realized my new passion for developing data science solutions exceeded that of conducting for academic research.\n\n\nBelow is a list of all the presentations I’ve given that are available online (at least as far as I know):\n\nFFTrees: An R package to create, visualise and use fast and frugal decision trees, useR!, 2017\nUsing R to Derive Robust Insights from Real-World Health Care Data, R/Pharma, 2022\nFlatironKitchen: How we overhauled a Frankensteinian SQL workflow with the Tidyverse, RStudio Conf, 2019\n\n\n\n\nThe output created by the FFTrees decision making algorithm and accompanying R package.\n\n\nI have built and maintained dozens of open-source data science packages packages and instructional materials over the years. Most, but not all of my projects are available at https://github.com/ndphillips.\nAll are built using the R programming language which I’ve developed quite some expertise in. Well, that is a bit of an understatement as over the course of almost 15 years, I used and loved R almost to the point of obsession.\nHere are the 3 most popular open source projects I’ve developed:\n\nFFTrees. The R package FFTrees creates, visualizes and evaluates fast-and-frugal decision trees (FFTs) for solving binary classification tasks, using the algorithms and methods described in Phillips, Neth, Woike & Gaissmaier.\nyarrr. The yarrr package is a collection of tools for teaching introductory statistics and data science with R. It focuses on making complex statistical concepts accessible to beginners and includes a suite of functions for data visualization and statistical testing.\nThe Pirate’s Guide to R is a book that teaches R programming to beginners. It is designed to be accessible to people with no prior programming experience and is used in introductory statistics courses at universities around the world. Be warned – its writing style reflects the good (and bad) of a 25-ish year old grad student."
+  },
+  {
+    "objectID": "about.html#my-healthcare-data-science-work",
+    "href": "about.html#my-healthcare-data-science-work",
+    "title": "About Me",
+    "section": "My Healthcare Data Science Work",
+    "text": "My Healthcare Data Science Work\nComing Soon"
+  },
+  {
+    "objectID": "about.html#my-teaching",
+    "href": "about.html#my-teaching",
+    "title": "About Me",
+    "section": "My Teaching",
+    "text": "My Teaching\nComing Soon: Memories and links from years of teaching at universities in the US, Switzerland, and Germany."
   },
   {
     "objectID": "resources.html",
