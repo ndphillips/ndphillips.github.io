@@ -7,7 +7,3 @@ listing:
   categories: true
 ---
 
-::: {.callout-caution}
-## In Construction
-This is a sandbox for blog posts. I'll remove this warning when I think it's offically ready for prime time
-:::
