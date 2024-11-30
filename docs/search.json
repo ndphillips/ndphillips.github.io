@@ -77,18 +77,11 @@
     "text": "“Berlin Field”. Copyright by Nathaniel Phillips.\n\n\nNotes\nThis is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.\nWhat I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I’m sure they weren’t surprised. But looking at the photo now, they give a look like “hey who are you and why are you taking our photo?” Do I trust my memory or the photo? I guess I could ask Clemens.\nI liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a “real” portrait photographer would take.\nThis photo was taken with a Sony a6000."
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
-  },
-  {
-    "objectID": "showcase.html",
-    "href": "showcase.html",
-    "title": "Showcase",
-    "section": "",
-    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+    "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
   },
   {
     "objectID": "consulting.html",
@@ -119,11 +112,18 @@
     "text": "R Training"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase",
     "section": "",
-    "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
+    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
   },
   {
     "objectID": "posts/photo_pick_up_here.html",
@@ -165,7 +165,7 @@
     "href": "about.html#my-core-beliefs",
     "title": "About Me",
     "section": "My core beliefs",
-    "text": "My core beliefs\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nGrowth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nHeuristic Decision Making\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nTransparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nFlow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
+    "text": "My core beliefs\nThe longer I live as a human, the more I recognize how important it is to have a set of core beliefs that you can fall back on when you’re struggling to make a decision – or alternatively, that you can start every situation with as a foundational framework. I’ve fallen for the trap, too many times, of thinking a difficult new situation calls for a “clean slate” approach. Even worse, at times when I feel particularly confident, I go in like an uncaged bull thinking I already know the solution and fail to adapt to to the particular needs of the people and environment at hand.\nRather than taking one of these two extremes, I’m finding it far more effective to take a third route: Start with a set of core beliefs, then ask questions and gather information. Let the right approach evolve naturally until the correct decision becomes obvious.\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nHave a Growth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nDecide with Heuristics\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nPrioritize Transparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nCreate Opportunities for Flow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
   },
   {
     "objectID": "about.html#my-education-journey",
