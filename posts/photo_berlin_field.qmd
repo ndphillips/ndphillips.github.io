@@ -1,0 +1,26 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Photography] 
+date: 2024-04-21
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "Clemens and an unnamed girl at a field in Berlin" 
+title: "'Berlin Field'" 
+lightbox: true
+---
+
+!["Berlin Field". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/berlin_field.jpg){style="border: 1px solid darkgray;"}
+
+*Notes*
+
+This is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.
+
+What I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I'm sure they weren't surprised. But looking at the photo now, they give a look like "hey who are you and why are you taking our photo?" Do I trust my memory or the photo? I guess I could ask Clemens.
+
+I liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a "real" portrait photographer would take. 
+
+This photo was taken with a Sony a6000.
+

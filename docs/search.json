@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "Photo | Pumpkin Patch\n\n\n\n\n\n\nR\n\n\n\nPhoto | Pumpkin Patch\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -70,6 +70,13 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
+    "objectID": "posts/photo_berlin_field.html",
+    "href": "posts/photo_berlin_field.html",
+    "title": "‘Berlin Field’",
+    "section": "",
+    "text": "“Berlin Field”. Copyright by Nathaniel Phillips.\n\n\nNotes\nThis is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.\nWhat I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I’m sure they weren’t surprised. But looking at the photo now, they give a look like “hey who are you and why are you taking our photo?” Do I trust my memory or the photo? I guess I could ask Clemens.\nI liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a “real” portrait photographer would take.\nThis photo was taken with a Sony a6000."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -121,13 +128,20 @@
   {
     "objectID": "posts/photo_pumpkinpatch.html",
     "href": "posts/photo_pumpkinpatch.html",
-    "title": "‘Pick Up Here’",
+    "title": "Photo | Pumpkin Patch",
     "section": "",
-    "text": "“Pick Up Here”. Copyright by Nathaniel Phillips."
+    "text": "Taken on October 11, 2024 in Portland Oregon at The Pumpkin Patch on Sauvie Island, Portland, OR\n\nI took this photo at The Pumpkin Patch on Sauvie Island in Portland, OR. This was just 2 weeks after our family moved from Brooklyn, NY to Portland. We were in the middle of a stressful move and we decided we had to take a break and do one of my favorite things, during my favorite time of year - visit a pumpkin patch in the Fall!\nShort digression – I became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY\n&lt;iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11688.578462755362!2d-76.35466736840759!3d42.911990940270144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89da03ea4ec02b47%3A0x66e8a9923e7fd624!2sTim&#39;s%20Pumpkin%20Patch!5e0!3m2!1sen!2sus!4v1732908416267!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"&gt;&lt;/iframe&gt;"
   },
   {
-    "objectID": "posts/photo_pumpkinpatch.html#footnotes",
-    "href": "posts/photo_pumpkinpatch.html#footnotes",
+    "objectID": "posts/photo_pick_up_here.html",
+    "href": "posts/photo_pick_up_here.html",
+    "title": "‘Pick Up Here’",
+    "section": "",
+    "text": "“Pick Up Here”. Copyright by Nathaniel Phillips.\nNotes\nI took “Pick Up Here” while visiting The Pumpkin Patch on Sauvie Island in Portland, OR in November 2024. This was just 2 weeks after our family moved from Brooklyn, NY to Portland. We were in the middle of a stressful move and we decided we had to take a break and do one of my favorite things, during my favorite time of year - visit a pumpkin patch 1 in the Fall!\nMy favorite part of the photo is the expression of the cook. He is the centerpiece of the photo. If he wasn’t there, this would be a much more boring photo. He has piercing eyes and I like how his vintage Nike hat adds to his style. I also like the contrast between the hard lines of the door and siding, compared to the comparatively messy collection of pumpkins and ketchup and mustard dispensers.\nThis photo was taken with a Ricoh GR."
+  },
+  {
+    "objectID": "posts/photo_pick_up_here.html#footnotes",
+    "href": "posts/photo_pick_up_here.html#footnotes",
     "title": "‘Pick Up Here’",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nI became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!↩︎"
@@ -147,18 +161,18 @@
     "text": "Why create a site? Isn’t that pretty 2010?\nI have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don’t think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it.\n\nI want to write for the sake of writing, but I also want to move away from creating “content” on places like LinkedIn (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes.\nI would like to write a book one day (or a second one if we count The Pirate’s Guide to R), but I don’t know what it would be about. I’ve heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.\nI want a place to share my favorite photos (and other potential artistic endeavors) other than social media."
   },
   {
-    "objectID": "index.html#what-are-my-core-beliefs",
-    "href": "index.html#what-are-my-core-beliefs",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "What are my core beliefs?",
-    "text": "What are my core beliefs?\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nGrowth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nHeuristic Decision Making\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nTransparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nFlow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
-  },
-  {
     "objectID": "index.html#developer-notes",
     "href": "index.html#developer-notes",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "Developer notes",
     "text": "Developer notes\nI created this site with Quarto, the content is hosted on GitHub"
+  },
+  {
+    "objectID": "about.html#my-core-beliefs",
+    "href": "about.html#my-core-beliefs",
+    "title": "About Me",
+    "section": "My core beliefs",
+    "text": "My core beliefs\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nGrowth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nHeuristic Decision Making\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nTransparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nFlow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
   },
   {
     "objectID": "about.html#my-education-journey",
@@ -236,19 +250,5 @@
     "title": "Tips",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
-  },
-  {
-    "objectID": "about.html#what-are-my-core-beliefs",
-    "href": "about.html#what-are-my-core-beliefs",
-    "title": "About Me",
-    "section": "What are my core beliefs?",
-    "text": "What are my core beliefs?\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nGrowth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nHeuristic Decision Making\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nTransparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nFlow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
-  },
-  {
-    "objectID": "about.html#my-core-beliefs",
-    "href": "about.html#my-core-beliefs",
-    "title": "About Me",
-    "section": "My core beliefs",
-    "text": "My core beliefs\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nGrowth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nHeuristic Decision Making\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nTransparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nFlow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
   }
 ]

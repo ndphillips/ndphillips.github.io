@@ -12,11 +12,9 @@ title: "'Pick Up Here'"
 lightbox: true
 ---
 
-# Photo
-
 !["Pick Up Here". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/photo_pumpkinpatch.jpg){style="border: 1px solid darkgray;"}
 
-# Notes
+*Notes*
 
 I took "Pick Up Here" while visiting The Pumpkin Patch on Sauvie Island in Portland, OR in November 2024. This was just 2 weeks after our family moved from Brooklyn, NY to Portland. We were in the middle of a stressful move and we decided we had to take a break and do one of my favorite things, during my favorite time of year - visit a pumpkin patch [^1] in the Fall!
 
@@ -24,6 +22,4 @@ My favorite part of the photo is the expression of the cook. He is the centerpie
 
 This photo was taken with a Ricoh GR.
 
-
 [^1]: I became enchanted with pumpkin patches during a visit to [Tim's Pumpkin Patch](https://www.timspumpkinpatch.com/) in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!
-

@@ -8,9 +8,9 @@
 
 <meta name="author" content="Nathaniel Phillips">
 <meta name="dcterms.date" content="2024-04-21">
-<meta name="description" content="Photo | Pumpkin Patch">
+<meta name="description" content="Clemens and an unnamed girl at a field in Berlin">
 
-<title>Photo | Pumpkin Patch – Nathaniel D. Phillips, PhD</title>
+<title>‘Berlin Field’ – Nathaniel D. Phillips, PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-2c128a76c5dbb243be50ea3089ffe19d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -144,15 +147,15 @@ gtag('config', 'G-H0ZF5JL7LN', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Photo | Pumpkin Patch</h1>
+<h1 class="title">‘Berlin Field’</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">R</div>
+    <div class="quarto-category">Photography</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Photo | Pumpkin Patch
+    Clemens and an unnamed girl at a field in Berlin
   </div>
 </div>
 
@@ -181,12 +184,17 @@ gtag('config', 'G-H0ZF5JL7LN', { 'anonymize_ip': true});
 </header>
 
 
-<div class="{figure}">
-<p><img src="../assets/photo_pumpkinpatch.jpg" class="img-fluid" style="width:100.0%"> Taken on October 11, 2024 in Portland Oregon at The Pumpkin Patch on Sauvie Island, Portland, OR</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../assets/berlin_field.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="“Berlin Field”. Copyright by Nathaniel Phillips."><img src="../assets/berlin_field.jpg" class="img-fluid figure-img" style="border: 1px solid darkgray;" alt="“Berlin Field”. Copyright by Nathaniel Phillips."></a></p>
+<figcaption>“Berlin Field”. <em>Copyright by <a href="https://www.nathanieldphillips.co">Nathaniel Phillips</a>.</em></figcaption>
+</figure>
 </div>
-<p>I took this photo at The Pumpkin Patch on Sauvie Island in Portland, OR. This was just 2 weeks after our family moved from Brooklyn, NY to Portland. We were in the middle of a stressful move and we decided we had to take a break and do one of my favorite things, during my favorite time of year - visit a pumpkin patch in the Fall!</p>
-<p>Short digression – I became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY</p>
-<pre class="{html}"><code>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11688.578462755362!2d-76.35466736840759!3d42.911990940270144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89da03ea4ec02b47%3A0x66e8a9923e7fd624!2sTim&amp;#39;s%20Pumpkin%20Patch!5e0!3m2!1sen!2sus!4v1732908416267!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"&gt;&lt;/iframe&gt;</code></pre>
+<p><em>Notes</em></p>
+<p>This is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.</p>
+<p>What I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I’m sure they weren’t surprised. But looking at the photo now, they give a look like “hey who are you and why are you taking our photo?” Do I trust my memory or the photo? I guess I could ask Clemens.</p>
+<p>I liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a “real” portrait photographer would take.</p>
+<p>This photo was taken with a Sony a6000.</p>
 
 
 
@@ -609,6 +617,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
