@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "Why did I create a website?\n\n\n\n\n\n\nmeta\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -70,60 +70,18 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
-    "objectID": "posts/photo_berlin_field.html",
-    "href": "posts/photo_berlin_field.html",
-    "title": "‘Berlin Field’",
+    "objectID": "posts/why_create_a_site.html",
+    "href": "posts/why_create_a_site.html",
+    "title": "Why did I create a website?",
     "section": "",
-    "text": "“Berlin Field”. Copyright by Nathaniel Phillips.\n\n\nNotes\nThis is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.\nWhat I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I’m sure they weren’t surprised. But looking at the photo now, they give a look like “hey who are you and why are you taking our photo?” Do I trust my memory or the photo? I guess I could ask Clemens.\nI liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a “real” portrait photographer would take.\nThis photo was taken with a Sony a6000."
+    "text": "I have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars1 I know, I don’t think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
-  },
-  {
-    "objectID": "consulting.html",
-    "href": "consulting.html",
-    "title": "Consulting",
-    "section": "",
-    "text": "I provide the following consulting services and engagement types"
-  },
-  {
-    "objectID": "consulting.html#functional-programming",
-    "href": "consulting.html#functional-programming",
-    "title": "Consulting",
-    "section": "Functional Programming",
-    "text": "Functional Programming"
-  },
-  {
-    "objectID": "consulting.html#analytical-methods",
-    "href": "consulting.html#analytical-methods",
-    "title": "Consulting",
-    "section": "Analytical Methods",
-    "text": "Analytical Methods"
-  },
-  {
-    "objectID": "consulting.html#r-training",
-    "href": "consulting.html#r-training",
-    "title": "Consulting",
-    "section": "R Training",
-    "text": "R Training"
-  },
-  {
-    "objectID": "showcase.html",
-    "href": "showcase.html",
-    "title": "Showcase",
-    "section": "",
-    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
+    "objectID": "posts/why_create_a_site.html#footnotes",
+    "href": "posts/why_create_a_site.html#footnotes",
+    "title": "Why did I create a website?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDanielle Navarro and Emily Riederer come to mind.↩︎"
   },
   {
     "objectID": "posts/photo_pick_up_here.html",
@@ -140,18 +98,39 @@
     "text": "Footnotes\n\n\nI became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!↩︎"
   },
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
+  },
+  {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase",
+    "section": "",
+    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
+  },
+  {
+    "objectID": "posts/photo_berlin_field.html",
+    "href": "posts/photo_berlin_field.html",
+    "title": "‘Berlin Field’",
+    "section": "",
+    "text": "“Berlin Field”. Copyright by Nathaniel Phillips.\n\n\nNotes\nThis is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.\nWhat I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I’m sure they weren’t surprised. But looking at the photo now, they give a look like “hey who are you and why are you taking our photo?” Do I trust my memory or the photo? I guess I could ask Clemens.\nI liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a “real” portrait photographer would take.\nThis photo was taken with a Sony a6000."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nathaniel D. Phillips, PhD",
     "section": "",
     "text": "Photo credit to my wife Suzanne. Taken in the backyard of our new home in NE Portland on November 20, 2024."
-  },
-  {
-    "objectID": "index.html#why-create-a-site-isnt-that-pretty-2010",
-    "href": "index.html#why-create-a-site-isnt-that-pretty-2010",
-    "title": "Nathaniel D. Phillips, PhD",
-    "section": "Why create a site? Isn’t that pretty 2010?",
-    "text": "Why create a site? Isn’t that pretty 2010?\nI have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don’t think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it.\n\nI want to write for the sake of writing, but I also want to move away from creating “content” on places like LinkedIn (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes.\nI would like to write a book one day (or a second one if we count The Pirate’s Guide to R), but I don’t know what it would be about. I’ve heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.\nI want a place to share my favorite photos (and other potential artistic endeavors) other than social media."
   },
   {
     "objectID": "index.html#developer-notes",

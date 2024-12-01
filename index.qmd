@@ -33,20 +33,6 @@ figure {
 Photo credit to my wife Suzanne. Taken in the backyard of our new home in NE Portland on November 20, 2024.
 :::
 
-# What is this site?
-
-I see this site as a place to write and share my, mostly professional, but also occasionally personal, thoughts on a range of topics. The professional topics will likely range from data science, to healthcare analytics, to organizational leadership. The personal ones will probably be a mixture of personal reflections on my career journey and artistic content like photography. 
-
-## Why create a site? Isn't that pretty 2010?
-
-I have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars I know, I don't think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it.
-
-1. I want to write for the sake of writing, but I also want to move away from creating "content" on places like [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes.
-
-2. I would like to write a book one day (or a second one if we count [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)), but I don't know what it would be about. I've heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.
-
-3. I want a place to share my favorite photos (and other potential artistic endeavors) other than social media.
-
 # Who am I?
 
 I am a scientist with 20 years of experience across academia, pharma and tech in the domains of economic decision making, data science, and healthcare analytics. I consider it my job to think deeply, collaborate intentionally, and influence others in order to improve and extend lives.
@@ -62,6 +48,10 @@ As of November 2024 (the last time I updated this page), I am a full-time stay a
 While I love being a stay-at-home Dad, I also love practicing science. For that reason I am open to new full-time opportunities for scientific leadership with a purpose-driven organization. If you know of an open or upcoming role that I could be a good fit for, please do let me know.
 
 I am also available for consulting on an hourly basis. Contact me to learn more.
+
+# What is this site?
+
+I see this site as a place to write and share my, mostly professional, but also occasionally personal, thoughts on a range of topics. The professional topics will likely range from data science, to healthcare analytics, to organizational leadership. The personal ones will probably be a mixture of personal reflections on my career journey and artistic content like photography. 
 
 # Contact
 

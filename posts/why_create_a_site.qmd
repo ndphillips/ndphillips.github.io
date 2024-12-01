@@ -1,0 +1,24 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [meta] 
+date: 2024-12-01
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "Isn't creating a website pretty '2010'?" 
+title: "Why did I create a website?" 
+lightbox: true
+---
+
+I have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars[^1] I know, I don't think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it.
+
+1. I want to write for the sake of writing, but I also want to move away from creating "content" on places like [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/) (which I do still use, but want to use less). I miss the experience of writing for the sake of writing, not likes.
+
+2. I would like to write a book one day (or a second one if we count [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)), but I don't know what it would be about. I've heard that many interesting books have come out of blogs, so I thought I would try it and see how it goes.
+
+3. I want a place to share my favorite [photos](https://www.nathanieldphillips.co/blog.html#category=Photography) (and other potential artistic endeavors) other than social media where I am beholden to algorithms.
+
+[^1]: [Danielle Navarro](https://djnavarro.net/) and [Emily Riederer](https://www.emilyriederer.com/) come to mind.
+
