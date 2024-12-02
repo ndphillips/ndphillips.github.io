@@ -7,12 +7,12 @@ format:
   html:
     toc: true
     toc-location: left
-description: "Heath holding a bat at our upstate NY wedding" 
-title: "'Heath with a Bat'" 
+description: "My nephew Heath taking a break from playing at our upstate NY wedding" 
+title: "'Boy with a Lightsaber in a Field'" 
 lightbox: true
 ---
 
-!["Heath with a Bat". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/heath_bat.jpg){style="border: 1px solid darkgray;"}
+!['Boy with a Lightsaber in a Field'. _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/heath_bat.jpg){style="border: 1px solid darkgray;"}
 
 *Notes*
 
