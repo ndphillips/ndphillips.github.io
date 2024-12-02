@@ -1,0 +1,23 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Photography] 
+date: 2024-04-21
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "Heath holding a bat in a field" 
+title: "'Heath with a Bat'" 
+lightbox: true
+---
+
+!["Heath with a Bat". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/heath_bat.jpg){style="border: 1px solid darkgray;"}
+
+*Notes*
+
+I took this photo of my nephew Heath in the days leading up to my wedding at Lourdes Camp in Skaneateles NY. In the background, you can see the green cafeteria and bounce house[^1].
+
+I love this photo for, what else, Heath's expression and pose. It's clear I caught him in the middle of play (see the soccer ball on the left), and I imagine his 4 cousins are just off frame waiting for him. Heath is a very expressive kid, so it's rare to see him not with a huge smile or making a funny face for the camera. Here, I've caught him in an apparent moment of calm focus and utter confidence.
+
+[^1]: Renting a bounce house for our wedding was the best financial decidion we made. For about $250 bucks, the kids were happy for hours.

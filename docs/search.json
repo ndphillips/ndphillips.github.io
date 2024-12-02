@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Why did I create a website?\n\n\n\n\n\n\nPersonal\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "Why did I create a website?\n\n\n\n\n\n\nPersonal\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Heath with a Bat’\n\n\n\n\n\n\nPhotography\n\n\n\nHeath holding a bat in a field\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data_science.html",
@@ -236,5 +236,19 @@
     "title": "Tips",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
+  },
+  {
+    "objectID": "posts/photo_heath_bat.html",
+    "href": "posts/photo_heath_bat.html",
+    "title": "‘Heath with a Bat’",
+    "section": "",
+    "text": "“Heath with a Bat”. Copyright by Nathaniel Phillips.\nNotes\nI took this photo of my nephew Heath in the days leading up to my wedding at Lourdes Camp in Skaneateles NY. In the background, you can see the green cafeteria and bounce house1.\nI love this photo for, what else, Heath’s expression and pose. It’s clear I caught him in the middle of play (see the soccer ball on the left), and I imagine his 4 cousins are just off frame waiting for him. Heath is a very expressive kid, so it’s rare to see him not with a huge smile or making a funny face for the camera. Here, I’ve caught him in an apparent moment of calm focus and utter confidence."
+  },
+  {
+    "objectID": "posts/photo_heath_bat.html#footnotes",
+    "href": "posts/photo_heath_bat.html#footnotes",
+    "title": "‘Heath with a Bat’",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nRenting a bounce house for our wedding was the best financial decidion we made. For about $250 bucks, the kids were happy for hours.↩︎"
   }
 ]
