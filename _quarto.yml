@@ -15,8 +15,13 @@ website:
       #   text: Showcase
       - href: resume.qmd
         text: Resume
-      - href: blog.qmd
-        text: Blog
+      - text: Blog
+        href: blog.qmd
+        menu:
+          - text: Data Science
+            href: data-science.html
+          - text: Photography
+            href: photography.html
       - href: contact.qmd
         text: Contact
     tools:
@@ -28,10 +33,12 @@ website:
 format:
   html:
     theme: simplex
-    css: styles.css
     toc: true
     fig-cap: true
 
 theme:
   light: flatly
   dark: darkly
+
+blog:
+  exclude: ["draft: true"]

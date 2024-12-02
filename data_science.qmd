@@ -1,0 +1,9 @@
+---
+title: Data Science
+description: A collection of posts and insights about Data Science.
+format: html
+categories: ["Data Science"]
+---
+# Welcome to the Data Science Category
+
+This is where posts related to Data Science will be featured. Check back soon for more content!

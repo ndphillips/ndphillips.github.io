@@ -2,7 +2,7 @@
 author: "Nathaniel Phillips" 
 categories: [Leadership] 
 date: 2024-12-02
-draft: false
+draft: true
 format:
   html:
     toc: true
