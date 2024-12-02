@@ -1,0 +1,17 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Healthcare Anayltics] 
+date: 2024-12-02
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-fold: true
+description: "This is a test post for healthcare analytics content" 
+title: "TEST - Healthcare Analytics" 
+---
+
+::: {.callout-note}
+This is a test post to establish the **Healthcare Analytics** tag.
+:::

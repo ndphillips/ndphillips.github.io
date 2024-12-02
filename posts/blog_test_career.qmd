@@ -1,0 +1,17 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Career] 
+date: 2024-12-02
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-fold: true
+description: "This is a test post for career content" 
+title: "TEST - Career" 
+---
+
+::: {.callout-note}
+This is a test post to establish the **Career** tag.
+:::

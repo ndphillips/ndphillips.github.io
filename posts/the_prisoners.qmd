@@ -12,7 +12,6 @@ description: "The Riddle that Seems Impossible Even If You Know the Answer"
 title: "The Prisoner Riddle" 
 ---
 
-
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,

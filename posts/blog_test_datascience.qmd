@@ -1,0 +1,17 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Data Science] 
+date: 2024-12-02
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-fold: true
+description: "This is a test post for data science content" 
+title: "TEST - Data Science" 
+---
+
+::: {.callout-note}
+This is a test post to establish the **Data Science** tag. I'll remove this once I create my first real data science post.
+:::

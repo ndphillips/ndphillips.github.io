@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Why did I create a website?\n\n\n\n\n\n\nmeta\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "TEST - Data Science\n\n\n\n\n\n\nData Science\n\n\n\nThis is a test post for data science content\n\n\n\n\n\nDec 2, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nTEST - Leadership\n\n\n\n\n\n\nLeadership\n\n\n\nThis is a test post for leadership content\n\n\n\n\n\nDec 2, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nTEST - Healthcare Analytics\n\n\n\n\n\n\nHealthcare Anayltics\n\n\n\nThis is a test post for healthcare analytics content\n\n\n\n\n\nDec 2, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nTEST - Organizational\n\n\n\n\n\n\nOrganizational\n\n\n\nThis is a test post for organizational content\n\n\n\n\n\nDec 2, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nTEST - Career\n\n\n\n\n\n\nCareer\n\n\n\nThis is a test post for career content\n\n\n\n\n\nDec 2, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nWhy did I create a website?\n\n\n\n\n\n\nPersonal\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nThe Prisoner Riddle\n\n\n\n\n\n\nR\n\n\nSimulation\n\n\n\nThe Riddle that Seems Impossible Even If You Know the Answer\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -70,18 +70,11 @@
     "text": "Open Source Projects\nMost of my projects are proprietary, but here are some open source projects that I contribute to\n\n\nFFTrees, A toolbox to create, visualize, and evaluate fast-and-frugal decision trees\nyarrr, A package for creating pirate plots in R"
   },
   {
-    "objectID": "posts/why_create_a_site.html",
-    "href": "posts/why_create_a_site.html",
-    "title": "Why did I create a website?",
+    "objectID": "posts/blog_test_career.html",
+    "href": "posts/blog_test_career.html",
+    "title": "TEST - Career",
     "section": "",
-    "text": "I have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars1 I know, I don’t think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it."
-  },
-  {
-    "objectID": "posts/why_create_a_site.html#footnotes",
-    "href": "posts/why_create_a_site.html#footnotes",
-    "title": "Why did I create a website?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nDanielle Navarro and Emily Riederer come to mind.↩︎"
+    "text": "Note\n\n\n\nThis is a test post to establish the Career tag."
   },
   {
     "objectID": "posts/photo_pick_up_here.html",
@@ -98,18 +91,18 @@
     "text": "Footnotes\n\n\nI became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!↩︎"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "posts/blog_test_healthcare_analytics.html",
+    "href": "posts/blog_test_healthcare_analytics.html",
+    "title": "TEST - Healthcare Analytics",
     "section": "",
-    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
+    "text": "Note\n\n\n\nThis is a test post to establish the Healthcare Analytics tag."
   },
   {
-    "objectID": "showcase.html",
-    "href": "showcase.html",
-    "title": "Showcase",
+    "objectID": "posts/blog_test_datascience.html",
+    "href": "posts/blog_test_datascience.html",
+    "title": "TEST - Data Science",
     "section": "",
-    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+    "text": "Note\n\n\n\nThis is a test post to establish the Data Science tag. I’ll remove this once I create my first real data science post."
   },
   {
     "objectID": "contact.html",
@@ -119,11 +112,53 @@
     "text": "The best way to contact me is via email at nathaniel.d.phillips.is@gmail.com."
   },
   {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase",
+    "section": "",
+    "text": "Coming soon: A selection of the stories behind some of the most noteworthy projects I’ve worked on"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can access my resume at: Nathaniel Phillips Resume.pdf or using the window below."
+  },
+  {
+    "objectID": "posts/blog_test_leadership.html",
+    "href": "posts/blog_test_leadership.html",
+    "title": "TEST - Leadership",
+    "section": "",
+    "text": "Note\n\n\n\nThis is a test post to establish the Leadership tag."
+  },
+  {
     "objectID": "posts/photo_berlin_field.html",
     "href": "posts/photo_berlin_field.html",
     "title": "‘Berlin Field’",
     "section": "",
     "text": "“Berlin Field”. Copyright by Nathaniel Phillips.\n\n\nNotes\nThis is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.\nWhat I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I’m sure they weren’t surprised. But looking at the photo now, they give a look like “hey who are you and why are you taking our photo?” Do I trust my memory or the photo? I guess I could ask Clemens.\nI liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a “real” portrait photographer would take.\nThis photo was taken with a Sony a6000."
+  },
+  {
+    "objectID": "posts/blog_personal_why_create_a_site.html",
+    "href": "posts/blog_personal_why_create_a_site.html",
+    "title": "Why did I create a website?",
+    "section": "",
+    "text": "I have to admit it feels pretty weird to me to be creating a website with the intention of posting regularly. Feels so 2010 right? Other than a few data science rockstars1 I know, I don’t think I know of anyone who maintains a personal website these days. I think I have three main reasons for creating it."
+  },
+  {
+    "objectID": "posts/blog_personal_why_create_a_site.html#footnotes",
+    "href": "posts/blog_personal_why_create_a_site.html#footnotes",
+    "title": "Why did I create a website?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDanielle Navarro and Emily Riederer come to mind.↩︎"
+  },
+  {
+    "objectID": "posts/blog_test_organizational.html",
+    "href": "posts/blog_test_organizational.html",
+    "title": "TEST - Organizational",
+    "section": "",
+    "text": "Note\n\n\n\nThis is a test post to establish the Organizational tag."
   },
   {
     "objectID": "index.html",
@@ -144,7 +179,7 @@
     "href": "about.html#my-core-beliefs",
     "title": "About Me",
     "section": "My core beliefs",
-    "text": "My core beliefs\nThe longer I live as a human, the more I recognize how important it is to have a set of core beliefs that you can fall back on when you’re struggling to make a decision – or alternatively, that you can start every situation with as a foundational framework. I’ve fallen for the trap, too many times, of thinking a difficult new situation calls for a “clean slate” approach. Even worse, at times when I feel particularly confident, I go in like an uncaged bull thinking I already know the solution and fail to adapt to to the particular needs of the people and environment at hand.\nRather than taking one of these two extremes, I’m finding it far more effective to take a third route: Start with a set of core beliefs, then ask questions and gather information. Let the right approach evolve naturally until the correct decision becomes obvious.\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nHave a Growth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nDecide with Heuristics\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nPrioritize Transparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R.\n\n\nCreate Opportunities for Flow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, the best I can do is something mediocre."
+    "text": "My core beliefs\nThe longer I live as a human, the more I recognize how important it is to have a set of core beliefs that you can fall back on when you’re struggling to make a decision – or alternatively, that you can start every situation with as a foundational framework. I’ve fallen for the trap, too many times, of thinking a difficult new situation calls for a “clean slate” approach. Even worse, at times when I feel particularly confident, I go in like an uncaged bull thinking I already know the solution and fail to adapt to to the particular needs of the people and environment at hand.\nRather than taking one of these two extremes, I’m finding it far more effective to take a third route: Start with a set of core beliefs, then ask questions and gather information. Let the right approach evolve naturally until the correct decision becomes obvious.\nDistilling my rolling journey of ideas, lessons, and intentions into a set of core beliefs is an exercise I’ve tried many times, but never seemed to keep track of. Let me try again here.\n\nBelief 1: Have a Growth Mindset\nI believe in having a growth mindset. I see a growth mindset as an ironclad trust that every problem has an idea that will solve it and that you can discover through curiosity, collaboration, and hard work.\n\n\nBelief 2: Decide with Heuristics\nI believe in making decisions using heuristics. I fell in love with the heuristic decision making philosophy of Gerd Gigerenzer during my PhD, and I have carried this philosophy with me throughout my personal and professional life. I would describe this philosphy as: Success comes not from having perfect information, but from making risky decisions based on the best information available, while always being prepared to change course if we discover something new.\n\n\nBelief 3: Prioritize Transparency\nI believe in transparency. Both in science and in life. For science, this belief has caused me to be a staunch advocate for open-source tools like R and open-science1 methods.\n\n\nBelief 4: Create Opportunities for Flow\nI believe that the state of flow is the closest things humans have to a super-power. In periods of flow I have created things that I am immensely proud of (like FFTrees). By contrast, in periods of distraction, I feel so inept that I question my brain function."
   },
   {
     "objectID": "about.html#my-education-journey",
@@ -222,5 +257,12 @@
     "title": "Tips",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About Me",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee the Center for Open Science website and watch it’s YouTube video “The Open Research Lifecycle” to learn more↩︎"
   }
 ]
