@@ -11,17 +11,10 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
-      # - href: showcase.qmd
-      #   text: Showcase
       - href: resume.qmd
         text: Resume
       - text: Blog
         href: blog.qmd
-        menu:
-          - text: Data Science
-            href: data-science.html
-          - text: Photography
-            href: photography.html
       - href: contact.qmd
         text: Contact
     tools:

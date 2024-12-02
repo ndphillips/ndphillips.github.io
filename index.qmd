@@ -35,7 +35,7 @@ Photo credit to my wife Suzanne. Taken in the backyard of our new home in NE Por
 
 # Who am I?
 
-I am a scientist with 20 years of experience across academia, pharma and tech in the domains of economic decision making, data science, and healthcare analytics. I consider it my job to think deeply, collaborate intentionally, and influence others in order to improve and extend lives.
+I am a scientist with 15 years of experience across academia, pharma and tech in the domains of economic decision making, data science, and healthcare analytics. I consider it my job to think deeply, collaborate intentionally, and influence others in order to improve and extend lives.
 
 In practice, I lead the development of data-driven solutions to problems. Sometimes these solutions take the form of a strategic or scientific recommendation. Other times they take the form of a piece of software or scientific report.
 
