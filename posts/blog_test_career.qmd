@@ -3,8 +3,15 @@ author: "Nathaniel Phillips"
 categories: [Career] 
 date: 2024-12-02
 draft: true
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-fold: true
+description: "This is a test post for Career content" 
+title: "TEST - Career" 
 ---
 
 ::: {.callout-note}
-This is a test post to establish the **Career** tag.
+This is a test post to establish the **Career** tag. I'll remove this once I create my first real data science post.
 :::
