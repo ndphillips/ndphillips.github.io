@@ -1,0 +1,27 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Photography] 
+date: 2024-12-03
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "A plastic bag filled with fruit on a Brooklyn stoop" 
+title: "'Fruit in plastic'" 
+lightbox: true
+---
+
+!["'Fruit in plastic'". _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/fruit_in_plastic.jpg){style="border: 1px solid darkgray;"}
+
+*Notes*
+
+During my time as a stay-at-home father to a newborn in Brookyln, NY, I took many photo walks with my son in his stroller and my beloved Ricoh GR in my hand. I took 'Fruit in Plastic' in September 2024, my last month in Brooklyn before moving to Portland, OR.
+
+I'm sure this bag caught my eye because even in NY, I hadn't seen something like this before. I imagine that the owner of the brownstone had some fruit they couldn't use and decided to leave it out for anyone to take. If so, that's a special person as most people wouldn't take the time to do this and instead just throw it out.
+
+Aside from the mystery of where this came from, I do love the contrast in colors and textures between the 4 central materials in the image: brown stone, iron railing, plastic bag, and organic fruit.
+
+*Gear*
+
+This photo was taken with a Ricoh GR.
