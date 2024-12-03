@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Why did I create a website?\n\n\n\n\n\n\nPersonal\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Boy with a Lightsaber in a Field’\n\n\n\n\n\n\nPhotography\n\n\n\nMy nephew Heath taking a break from playing at our upstate NY wedding\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "‘Bag on Table’\n\n\n\n\n\n\nPhotography\n\n\n\nA vintage styled Airbnb in Detroit\n\n\n\n\n\nDec 3, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nWhy did I create a website?\n\n\n\n\n\n\nPersonal\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Boy with a Lightsaber in a Field’\n\n\n\n\n\n\nPhotography\n\n\n\nMy nephew Heath taking a break from playing at our upstate NY wedding\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data_science.html",
@@ -93,14 +93,14 @@
   {
     "objectID": "posts/photo_pick_up_here.html",
     "href": "posts/photo_pick_up_here.html",
-    "title": "‘Pick Up Here’",
+    "title": "‘Bag on Table’",
     "section": "",
-    "text": "“Pick Up Here”. Copyright by Nathaniel Phillips.\nNotes\nI took “Pick Up Here” while visiting The Pumpkin Patch on Sauvie Island in Portland, OR in November 2024. This was just 2 weeks after our family moved from Brooklyn, NY to Portland. We were in the middle of a stressful move and we decided we had to take a break and do one of my favorite things, during my favorite time of year - visit a pumpkin patch 1 in the Fall!\nMy favorite part of the photo is the expression of the cook. He is the centerpiece of the photo. If he wasn’t there, this would be a much more boring photo. He has piercing eyes and I like how his vintage Nike hat adds to his style. I also like the contrast between the hard lines of the door and siding, compared to the comparatively messy collection of pumpkins and ketchup and mustard dispensers.\nGear\nThis photo was taken with a Ricoh GR."
+    "text": "“‘Bag on Table’”. Copyright by Nathaniel Phillips.\n\n\nNotes\nI took “Bag on Table” during a trip with my two best friends from college Patrick and Doja. Detoit was one of, I think, three destinations on our road trip starting from Grinnell, IA and ending in Cincinatti OH. This shot is of the living room of an Airbnb in Detroit that looked like it hadn’t been touched since the 1960s. I distinctly remember the stove in the kitchen looking like an antique that surely was there only for staging, but in fact worked just fine.\nLooking back on the photo now, I still remember the feeling I had when I looked into the room and said “Oh this lighting is begging to be photographed.” I feel the same way now. My only question is what’s in that bag on the center table. Most likely a cheap alcoholic beverage suited for three guys reliving their college days.\nGear\nThis photo was taken either with a Sony a6000 or a Canon 60d, I can’t remember which."
   },
   {
     "objectID": "posts/photo_pick_up_here.html#footnotes",
     "href": "posts/photo_pick_up_here.html#footnotes",
-    "title": "‘Pick Up Here’",
+    "title": "‘Bag on Table’",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nI became enchanted with pumpkin patches during a visit to Tim’s Pumpkin Patch in Marietta NY. If you are ever in the Marietta area in the Fall I can highly recommend it!↩︎"
   },
@@ -250,5 +250,12 @@
     "title": "Tips",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
+  },
+  {
+    "objectID": "posts/photo_detroit_vintage.html",
+    "href": "posts/photo_detroit_vintage.html",
+    "title": "‘Berlin Field’",
+    "section": "",
+    "text": "“Berlin Field”. Copyright by Nathaniel Phillips.\n\n\nNotes\nThis is one of my all-time favoite photos. I took it on July 4, 2015 in Berlin at a park during a picnic with friends. Clemens, on the left, was the partner of one of my closest friends in Europe (Renata), and quickly became a good friend of mine as well. The girl, on the right, was the daughter of one of the other guests.\nWhat I love the most about this photo is the expression of Clemens and the girl. Clearly they have caught me with my camera to my eye. Those days I had a camera with me pretty much all the time, so I’m sure they weren’t surprised. But looking at the photo now, they give a look like “hey who are you and why are you taking our photo?” Do I trust my memory or the photo? I guess I could ask Clemens.\nI liked this photo so much that I had it printed and framed in my room in Berlin. It may have been the first photo I took that looked like something a “real” portrait photographer would take.\nThis photo was taken with a Sony a6000."
   }
 ]
