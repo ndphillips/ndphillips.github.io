@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "‘Fruit in plastic’\n\n\n\n\n\n\nPhotography\n\n\n\nA plastic bag filled with fruit on a Brooklyn stoop\n\n\n\n\n\nDec 3, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Bag on Table’\n\n\n\n\n\n\nPhotography\n\n\n\nA vintage styled Airbnb in Detroit\n\n\n\n\n\nDec 3, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nWhy did I create a website?\n\n\n\n\n\n\nPersonal\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Boy with a Lightsaber in a Field’\n\n\n\n\n\n\nPhotography\n\n\n\nMy nephew Heath taking a break from playing at our upstate NY wedding\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
+    "text": "‘Fruit in plastic’\n\n\n\n\n\n\nPhotography\n\n\n\nA plastic bag filled with fruit on a Brooklyn stoop\n\n\n\n\n\nDec 3, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Bag on Table’\n\n\n\n\n\n\nPhotography\n\n\n\nA vintage styled Airbnb in Detroit\n\n\n\n\n\nDec 3, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\nWhy did I create a website?\n\n\n\n\n\n\nPersonal\n\n\n\nIsn’t creating a website pretty ‘2010’?\n\n\n\n\n\nDec 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Berlin Field’\n\n\n\n\n\n\nPhotography\n\n\n\nClemens and an unnamed girl at a field in Berlin\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Pick Up Here’\n\n\n\n\n\n\nPhotography\n\n\n\nA hot dog stand at The Pumpkin Patch on Sauvie Island in Portland, OR\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Boy with a Lightsaber in a Field’\n\n\n\n\n\n\nPhotography\n\n\n\nMy nephew Heath taking a break from playing at our upstate NY wedding\n\n\n\n\n\nApr 21, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\n\n\n\n\n\n\n‘Tied Newspaper in Fall’\n\n\n\n\n\n\nPhotography\n\n\n\nA LONGER FORM DESCRIPTION OF THE PHOTO\n\n\n\n\n\nJan 1, 2024\n\n\nNathaniel Phillips\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data_science.html",
@@ -264,5 +264,19 @@
     "title": "Tips",
     "section": "Software",
     "text": "Software\nHere are some of my favorite software tools\n\nNotion. I use Notion for everything from project management to personal notes\nRStudio. My favorite IDE for data science development\nGitHub Copilot. Copilot is spectatular, especially using the RStudio Copilot Plugin\nQuarto. The successor to my beloved RMarkdown which powers just about every document I create (including this website)."
+  },
+  {
+    "objectID": "posts/photo_newspaper_in_fall.html",
+    "href": "posts/photo_newspaper_in_fall.html",
+    "title": "‘Tied Newspaper in Fall’",
+    "section": "",
+    "text": "‘Tied Newspaper in Fall’. Copyright by Nathaniel Phillips.\nNotes\nI took this photo on Bergen Street, the street we lived on in Brooklyn, NY between 2022 and 2024. Bergen Street was a picturesque1 street, especially in the Fall, with stunning brownstone buildings and matching stoops. One could say it was like a setting from a TV show, and they would be right. During the summer we would have film crews on our street every other week or so. It made us feel special but also was annoying for those of us with cars that needed to be moved.\nI like the contrast in textures in this photo (a theme for me recently). The hard thick concrete, the thin organic leaves, the layered newspaper, and the interlocking twine.\nGear\nThis photo was taking with a Ricoh GR"
+  },
+  {
+    "objectID": "posts/photo_newspaper_in_fall.html#footnotes",
+    "href": "posts/photo_newspaper_in_fall.html#footnotes",
+    "title": "‘Tied Newspaper in Fall’",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI can’t believe I spelled ‘picturesque’ right. I still think my spell checker might be broken.↩︎"
   }
 ]

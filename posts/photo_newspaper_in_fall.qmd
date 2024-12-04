@@ -1,0 +1,27 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Photography] 
+date: 2024-01-01
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "A LONGER FORM DESCRIPTION OF THE PHOTO" 
+title: "'Tied Newspaper in Fall'" 
+lightbox: true
+---
+
+!['Tied Newspaper in Fall'. _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/tied_newspaper_in_fall.jpg){style="border: 1px solid darkgray;"}
+
+*Notes*
+
+I took this photo on Bergen Street, the street we lived on in Brooklyn, NY between 2022 and 2024. Bergen Street was a picturesque[^1] street, especially in the Fall, with stunning brownstone buildings and matching stoops. One could say it was like a setting from a TV show, and they would be right. During the summer we would have film crews on our street every other week or so. It made us feel special but also was annoying for those of us with cars that needed to be moved.
+
+I like the contrast in textures in this photo (a theme for me recently). The hard thick concrete, the thin organic leaves, the layered newspaper, and the interlocking twine.
+
+*Gear*
+
+This photo was taking with a Ricoh GR
+
+[^1]: I can't believe I spelled 'picturesque' right. I still think my spell checker might be broken.
