@@ -1,13 +1,13 @@
 --- 
 author: "Nathaniel Phillips" 
 categories: [Photography] 
-date: 2024-01-01
+date: 2024-12-04
 draft: false
 format:
   html:
     toc: true
     toc-location: left
-description: "A LONGER FORM DESCRIPTION OF THE PHOTO" 
+description: "A bundle of New York Times put out for recycling in Brooklyn."
 title: "'Tied Newspaper in Fall'" 
 lightbox: true
 ---
