@@ -1,0 +1,25 @@
+--- 
+author: "Nathaniel Phillips" 
+categories: [Photography] 
+date: 2024-12-07
+draft: false
+format:
+  html:
+    toc: true
+    toc-location: left
+description: "A horror vibe of lights, lines and textures on the NYC Subway" 
+title: "'NYC Subway Horror'" 
+lightbox: true
+---
+
+!['NYC Subway Horror'. _Copyright by [Nathaniel Phillips](https://www.nathanieldphillips.co)._](../assets/ny_subway_lines.jpg){style="border: 1px solid darkgray;"}
+
+*Notes*
+
+Halloween is my favorite holiday (and general vibe). Looking back at this photo which I took in September 2024 in NYC, I'm sensing some Halloween / horror vibes, so I titled it 'NYC Subnway Horror'. It's the combination of the stark flourescent light, the yellow path and wall lines leading towards an area blocked off (hidden?) by a wall, and then the ominous rust on the subway tiles in the background. I could see this, with the flourescent light flickering, as the opening scene to my next[^1] favorite horror film.
+
+*Gear*
+
+This photo was taking with a Ricoh GR
+
+[^1]: Hard to pick my favorite horror film, but [Evil Dead](https://en.wikipedia.org/wiki/The_Evil_Dead), [It](https://www.imdb.com/title/tt1396484/) and [The Invitation](https://www.imdb.com/title/tt2400463/) would all be in the running.
